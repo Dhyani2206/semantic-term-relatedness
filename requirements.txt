@@ -1,0 +1,18 @@
+# Core
+numpy
+pandas
+
+# ML / Embeddings
+torch
+sentence-transformers
+scikit-learn
+
+# Stats
+scipy
+
+# Utils
+tqdm
+
+# Optional (for plotting later)
+matplotlib
+seaborn

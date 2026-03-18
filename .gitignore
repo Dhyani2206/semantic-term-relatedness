@@ -1,0 +1,80 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+uv.lock
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
+
+# -------------------------
+# Data (DO NOT PUSH LARGE DATA)
+# -------------------------
+data/raw/
+data/external/
+data/interim/
+
+# keep processed structure but not files (optional)
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# -------------------------
+# Models (VERY IMPORTANT)
+# -------------------------
+models/
+*.pt
+*.bin
+*.safetensors
+
+# -------------------------
+# Outputs
+# -------------------------
+outputs/
+*.png
+*.jpg
+*.csv
+*.json
+
+# -------------------------
+# Archives
+# -------------------------
+*.zip
+*.tar
+*.gz
+
+# -------------------------
+# IDE
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Colab
+# -------------------------
+*.ipynb
