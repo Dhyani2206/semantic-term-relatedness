@@ -1,0 +1,57 @@
+{
+  "eval_split": "test",
+  "results": [
+    {
+      "model_name": "gte_small",
+      "model_path": "thenlper/gte-small",
+      "eval_split": "test",
+      "num_queries_total": 293,
+      "num_queries_evaluated": 213,
+      "num_docs": 148,
+      "mrr": 0.3134526132821217,
+      "recall@5": 0.30712050078247266,
+      "ndcg@5": 0.23257546874762405,
+      "recall@10": 0.5063492063492063,
+      "ndcg@10": 0.3092174711711905,
+      "recall@20": 0.7828862061256426,
+      "ndcg@20": 0.387004945751856,
+      "recall@50": 0.8966465459423205,
+      "ndcg@50": 0.4149731239056786
+    },
+    {
+      "model_name": "minilm",
+      "model_path": "sentence-transformers/all-MiniLM-L6-v2",
+      "eval_split": "test",
+      "num_queries_total": 293,
+      "num_queries_evaluated": 213,
+      "num_docs": 148,
+      "mrr": 0.3284145129743584,
+      "recall@5": 0.33386988598256206,
+      "ndcg@5": 0.24974062521767035,
+      "recall@10": 0.5069751844399731,
+      "ndcg@10": 0.31577829649971084,
+      "recall@20": 0.6960429242119384,
+      "ndcg@20": 0.3716606965978257,
+      "recall@50": 0.8893471942767717,
+      "ndcg@50": 0.4182361986402477
+    },
+    {
+      "model_name": "mpnet",
+      "model_path": "sentence-transformers/all-mpnet-base-v2",
+      "eval_split": "test",
+      "num_queries_total": 293,
+      "num_queries_evaluated": 213,
+      "num_docs": 148,
+      "mrr": 0.3245148283738479,
+      "recall@5": 0.35789179521573883,
+      "ndcg@5": 0.25722814463996946,
+      "recall@10": 0.5500558909009613,
+      "ndcg@10": 0.3289865779270351,
+      "recall@20": 0.7434160518667561,
+      "ndcg@20": 0.38702110605900275,
+      "recall@50": 0.8724457858260676,
+      "ndcg@50": 0.4181932377613715
+    }
+  ],
+  "best_model_by_recall_at_50": "gte_small"
+}

@@ -1,0 +1,29 @@
+{
+  "rows_initial": 9856,
+  "missing_values_before_drop": {
+    "topic": 0,
+    "term1": 0,
+    "term2": 0,
+    "score": 0
+  },
+  "rows_after_dropna": 9856,
+  "rows_removed_due_to_missing": 0,
+  "rows_with_empty_text_after_normalization": 0,
+  "duplicate_pair_score_conflicts": 19,
+  "duplicate_pair_groups": 31,
+  "duplicate_pairs_resolved_via_mean": 31,
+  "reverse_pair_matches": 373,
+  "rows_final": 9825,
+  "unique_topics": 47,
+  "unique_term1": 2417,
+  "unique_term2": 1191,
+  "score_min": 0.0,
+  "score_max": 1.0,
+  "score_mean": 0.4953536895674301,
+  "score_std": 0.35233709532020047,
+  "relatedness_distribution": {
+    "low": 4009,
+    "high": 3788,
+    "medium": 2028
+  }
+}

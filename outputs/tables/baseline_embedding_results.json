@@ -1,0 +1,38 @@
+{
+  "results": [
+    {
+      "model_name": "mpnet",
+      "model_path": "sentence-transformers/all-mpnet-base-v2",
+      "num_examples": 956,
+      "pearson": 0.6441430375494902,
+      "spearman": 0.6554804988525011,
+      "pred_mean": 0.3548613488674164,
+      "pred_std": 0.18241780996322632,
+      "gold_mean": 0.5557531380753138,
+      "gold_std": 0.33895970209593385
+    },
+    {
+      "model_name": "gte_small",
+      "model_path": "thenlper/gte-small",
+      "num_examples": 956,
+      "pearson": 0.6366118178834974,
+      "spearman": 0.6552660968182256,
+      "pred_mean": 0.8046701794534934,
+      "pred_std": 0.04994230129899605,
+      "gold_mean": 0.5557531380753138,
+      "gold_std": 0.33895970209593385
+    },
+    {
+      "model_name": "minilm",
+      "model_path": "sentence-transformers/all-MiniLM-L6-v2",
+      "num_examples": 956,
+      "pearson": 0.5978928893168146,
+      "spearman": 0.5990552092646508,
+      "pred_mean": 0.34358277916908264,
+      "pred_std": 0.1800350546836853,
+      "gold_mean": 0.5557531380753138,
+      "gold_std": 0.33895970209593385
+    }
+  ],
+  "best_model_by_spearman": "mpnet"
+}

@@ -1,0 +1,75 @@
+{
+  "random_seed": 42,
+  "split_ratios": {
+    "train": 0.8,
+    "val": 0.1,
+    "test": 0.1
+  },
+  "topic_counts": {
+    "train": 37,
+    "val": 5,
+    "test": 5
+  },
+  "topic_overlap": {
+    "train_val": 0,
+    "train_test": 0,
+    "val_test": 0
+  },
+  "train": {
+    "split_name": "train",
+    "rows": 7941,
+    "unique_topics": 37,
+    "unique_term1": 1891,
+    "unique_term2": 922,
+    "score_min": 0.0,
+    "score_max": 1.0,
+    "score_mean": 0.48141921672333465,
+    "score_std": 0.35209447177762354,
+    "score_median": 0.5,
+    "score_q25": 0.1,
+    "score_q75": 0.8,
+    "relatedness_distribution": {
+      "low": 3370,
+      "high": 2927,
+      "medium": 1644
+    }
+  },
+  "val": {
+    "split_name": "val",
+    "rows": 928,
+    "unique_topics": 5,
+    "unique_term1": 265,
+    "unique_term2": 130,
+    "score_min": 0.0,
+    "score_max": 1.0,
+    "score_mean": 0.5523706896551724,
+    "score_std": 0.3558037598387368,
+    "score_median": 0.6,
+    "score_q25": 0.2,
+    "score_q75": 0.9,
+    "relatedness_distribution": {
+      "high": 425,
+      "low": 331,
+      "medium": 172
+    }
+  },
+  "test": {
+    "split_name": "test",
+    "rows": 956,
+    "unique_topics": 5,
+    "unique_term1": 293,
+    "unique_term2": 148,
+    "score_min": 0.0,
+    "score_max": 1.0,
+    "score_mean": 0.5557531380753138,
+    "score_std": 0.33913712147583763,
+    "score_median": 0.6,
+    "score_q25": 0.3,
+    "score_q75": 0.9,
+    "relatedness_distribution": {
+      "high": 436,
+      "low": 308,
+      "medium": 212
+    }
+  }
+}

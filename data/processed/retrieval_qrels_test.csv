@@ -1,0 +1,437 @@
+query_id,doc_id,relevance,score,topic,term1,term2,relatedness_level
+q_000000,d_000056,0.8,0.8,multiculturalism should be embraced,acculturation,ethnic enclaves,high
+q_000000,d_000102,0.8,0.8,multiculturalism should be embraced,acculturation,minority,high
+q_000000,d_000104,1.0,1.0,multiculturalism should be embraced,acculturation,multiculturalism,high
+q_000001,d_000104,1.0,1.0,multiculturalism should be embraced,acculturation strategies,multiculturalism,high
+q_000003,d_000142,0.9,0.9,the united states is responsible for mexico's drugs war,agent brian terry,united states,high
+q_000006,d_000127,1.0,1.0,the right to bear arms should be limited,american gun culture,right to bear arms,high
+q_000009,d_000127,0.7,0.7,the right to bear arms should be limited,ammunition,right to bear arms,high
+q_000011,d_000127,1.0,1.0,the right to bear arms should be limited,arms,right to bear arms,high
+q_000012,d_000127,0.9,0.9,the right to bear arms should be limited,assault weapons ban,right to bear arms,high
+q_000013,d_000104,1.0,1.0,multiculturalism should be embraced,assimilation of immigrants,multiculturalism,high
+q_000014,d_000049,0.8,0.8,the united states is responsible for mexico's drugs war,atf agents,drug trade,high
+q_000014,d_000051,0.8,0.8,the united states is responsible for mexico's drugs war,atf agents,drugs war,high
+q_000014,d_000133,0.7,0.7,the united states is responsible for mexico's drugs war,atf agents,smuggling,high
+q_000014,d_000142,0.9,0.9,the united states is responsible for mexico's drugs war,atf agents,united states,high
+q_000017,d_000010,1.0,1.0,the united states is responsible for mexico's drugs war,attorney general holder,attorney general,high
+q_000017,d_000092,0.7,0.7,the united states is responsible for mexico's drugs war,attorney general holder,law enforcement officials,high
+q_000019,d_000127,0.8,0.8,the right to bear arms should be limited,automatic weapons,right to bear arms,high
+q_000020,d_000033,0.8,0.8,previous convictions should be disclosed in court,bad character evidence,court,high
+q_000020,d_000117,0.9,0.9,previous convictions should be disclosed in court,bad character evidence,previous convictions,high
+q_000021,d_000127,1.0,1.0,the right to bear arms should be limited,bear arms,right to bear arms,high
+q_000023,d_000014,1.0,1.0,blasphemy should be criminalized,blasphemous libel,blasphemy,high
+q_000023,d_000027,0.8,0.8,blasphemy should be criminalized,blasphemous libel,combating defamation,high
+q_000023,d_000126,0.9,0.9,blasphemy should be criminalized,blasphemous libel,religious,high
+q_000024,d_000014,1.0,1.0,blasphemy should be criminalized,blasphemy,blasphemy,high
+q_000025,d_000014,1.0,1.0,blasphemy should be criminalized,blasphemy law,blasphemy,high
+q_000025,d_000075,0.7,0.7,blasphemy should be criminalized,blasphemy law,incitement to hatred,high
+q_000025,d_000103,0.7,0.7,blasphemy should be criminalized,blasphemy law,muhammad cartoons,high
+q_000025,d_000119,0.8,0.8,blasphemy should be criminalized,blasphemy law,prophet mohammed,high
+q_000026,d_000014,1.0,1.0,blasphemy should be criminalized,blasphemy laws,blasphemy,high
+q_000026,d_000093,0.7,0.7,blasphemy should be criminalized,blasphemy laws,law offences,high
+q_000027,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,bureau of narcotics,drugs war,high
+q_000027,d_000142,0.8,0.8,the united states is responsible for mexico's drugs war,bureau of narcotics,united states,high
+q_000028,d_000104,0.7,0.7,multiculturalism should be embraced,canadian identity,multiculturalism,high
+q_000030,d_000127,1.0,1.0,the right to bear arms should be limited,carrying of arms,right to bear arms,high
+q_000031,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,cartel,drugs war,high
+q_000031,d_000113,0.7,0.7,the united states is responsible for mexico's drugs war,cartel,plan colombia,high
+q_000032,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,cartels,drugs war,high
+q_000032,d_000113,0.7,0.7,the united states is responsible for mexico's drugs war,cartels,plan colombia,high
+q_000036,d_000051,0.7,0.7,the united states is responsible for mexico's drugs war,central america,drugs war,high
+q_000036,d_000100,1.0,1.0,the united states is responsible for mexico's drugs war,central america,mexico,high
+q_000037,d_000100,0.7,0.7,the united states is responsible for mexico's drugs war,central american countries,mexico,high
+q_000040,d_000003,0.8,0.8,previous convictions should be disclosed in court,civil and criminal,american law institute,high
+q_000040,d_000022,0.9,0.9,previous convictions should be disclosed in court,civil and criminal,civil law systems,high
+q_000040,d_000033,1.0,1.0,previous convictions should be disclosed in court,civil and criminal,court,high
+q_000040,d_000038,1.0,1.0,previous convictions should be disclosed in court,civil and criminal,criminal trials,high
+q_000040,d_000058,0.7,0.7,previous convictions should be disclosed in court,civil and criminal,fair trial rights,high
+q_000040,d_000086,0.7,0.7,previous convictions should be disclosed in court,civil and criminal,jurisdiction,high
+q_000040,d_000094,0.7,0.7,previous convictions should be disclosed in court,civil and criminal,legal profession,high
+q_000041,d_000033,1.0,1.0,previous convictions should be disclosed in court,civil cases,court,high
+q_000042,d_000023,1.0,1.0,previous convictions should be disclosed in court,civil law,civil procedure,high
+q_000042,d_000029,1.0,1.0,previous convictions should be disclosed in court,civil law,common law systems,high
+q_000042,d_000033,0.9,0.9,previous convictions should be disclosed in court,civil law,court,high
+q_000043,d_000033,1.0,1.0,previous convictions should be disclosed in court,civil law systems,court,high
+q_000044,d_000033,1.0,1.0,previous convictions should be disclosed in court,civil procedure,court,high
+q_000045,d_000015,1.0,1.0,the united states is responsible for mexico's drugs war,cocaine,bureau of narcotics,high
+q_000045,d_000049,1.0,1.0,the united states is responsible for mexico's drugs war,cocaine,drug trade,high
+q_000045,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,cocaine,drugs war,high
+q_000045,d_000089,1.0,1.0,the united states is responsible for mexico's drugs war,cocaine,la familia,high
+q_000047,d_000051,0.7,0.7,the united states is responsible for mexico's drugs war,colombia,drugs war,high
+q_000048,d_000051,0.7,0.7,the united states is responsible for mexico's drugs war,colombian,drugs war,high
+q_000049,d_000014,0.8,0.8,blasphemy should be criminalized,combating defamation,blasphemy,high
+q_000050,d_000028,1.0,1.0,previous convictions should be disclosed in court,common law,common law jurisdictions,high
+q_000050,d_000033,0.8,0.8,previous convictions should be disclosed in court,common law,court,high
+q_000051,d_000033,0.8,0.8,previous convictions should be disclosed in court,common law jurisdictions,court,high
+q_000053,d_000033,1.0,1.0,previous convictions should be disclosed in court,common law systems,court,high
+q_000054,d_000033,1.0,1.0,previous convictions should be disclosed in court,convicted,court,high
+q_000054,d_000117,1.0,1.0,previous convictions should be disclosed in court,convicted,previous convictions,high
+q_000055,d_000033,1.0,1.0,previous convictions should be disclosed in court,conviction,court,high
+q_000055,d_000117,1.0,1.0,previous convictions should be disclosed in court,conviction,previous convictions,high
+q_000056,d_000104,0.8,0.8,multiculturalism should be embraced,cosmopolitanism,multiculturalism,high
+q_000057,d_000029,0.9,0.9,previous convictions should be disclosed in court,court,common law systems,high
+q_000057,d_000033,1.0,1.0,previous convictions should be disclosed in court,court,court,high
+q_000057,d_000038,1.0,1.0,previous convictions should be disclosed in court,court,criminal trials,high
+q_000057,d_000117,0.9,0.9,previous convictions should be disclosed in court,court,previous convictions,high
+q_000058,d_000033,1.0,1.0,previous convictions should be disclosed in court,court of appeal,court,high
+q_000059,d_000033,0.7,0.7,previous convictions should be disclosed in court,court was established,court,high
+q_000060,d_000029,0.9,0.9,previous convictions should be disclosed in court,courts,common law systems,high
+q_000060,d_000033,1.0,1.0,previous convictions should be disclosed in court,courts,court,high
+q_000060,d_000117,1.0,1.0,previous convictions should be disclosed in court,courts,previous convictions,high
+q_000061,d_000033,0.9,0.9,previous convictions should be disclosed in court,criminal,court,high
+q_000061,d_000058,0.7,0.7,previous convictions should be disclosed in court,criminal,fair trial rights,high
+q_000061,d_000117,0.8,0.8,previous convictions should be disclosed in court,criminal,previous convictions,high
+q_000062,d_000033,1.0,1.0,previous convictions should be disclosed in court,criminal and civil,court,high
+q_000063,d_000033,1.0,1.0,previous convictions should be disclosed in court,criminal case,court,high
+q_000063,d_000117,0.8,0.8,previous convictions should be disclosed in court,criminal case,previous convictions,high
+q_000064,d_000029,0.9,0.9,previous convictions should be disclosed in court,criminal cases,common law systems,high
+q_000064,d_000033,1.0,1.0,previous convictions should be disclosed in court,criminal cases,court,high
+q_000064,d_000035,0.8,0.8,previous convictions should be disclosed in court,criminal cases,criminal and civil,high
+q_000064,d_000117,0.8,0.8,previous convictions should be disclosed in court,criminal cases,previous convictions,high
+q_000064,d_000129,0.7,0.7,previous convictions should be disclosed in court,criminal cases,rules of evidence,high
+q_000065,d_000117,1.0,1.0,previous convictions should be disclosed in court,criminal history,previous convictions,high
+q_000066,d_000033,0.7,0.7,previous convictions should be disclosed in court,criminal history category,court,high
+q_000066,d_000117,0.8,0.8,previous convictions should be disclosed in court,criminal history category,previous convictions,high
+q_000067,d_000033,0.8,0.8,previous convictions should be disclosed in court,criminal justice act,court,high
+q_000067,d_000037,0.7,0.7,previous convictions should be disclosed in court,criminal justice act,criminal history,high
+q_000067,d_000038,1.0,1.0,previous convictions should be disclosed in court,criminal justice act,criminal trials,high
+q_000068,d_000030,0.7,0.7,previous convictions should be disclosed in court,criminal law,convicted,high
+q_000068,d_000033,1.0,1.0,previous convictions should be disclosed in court,criminal law,court,high
+q_000068,d_000035,0.9,0.9,previous convictions should be disclosed in court,criminal law,criminal and civil,high
+q_000068,d_000085,0.7,0.7,previous convictions should be disclosed in court,criminal law,judicial,high
+q_000068,d_000117,0.9,0.9,previous convictions should be disclosed in court,criminal law,previous convictions,high
+q_000068,d_000129,0.8,0.8,previous convictions should be disclosed in court,criminal law,rules of evidence,high
+q_000069,d_000033,1.0,1.0,previous convictions should be disclosed in court,criminal trials,court,high
+q_000069,d_000117,0.8,0.8,previous convictions should be disclosed in court,criminal trials,previous convictions,high
+q_000070,d_000008,0.7,0.7,multiculturalism should be embraced,critic of multiculturalism,assimilation of immigrants,high
+q_000070,d_000104,1.0,1.0,multiculturalism should be embraced,critic of multiculturalism,multiculturalism,high
+q_000071,d_000104,1.0,1.0,multiculturalism should be embraced,critics of multiculturalism,multiculturalism,high
+q_000071,d_000123,0.7,0.7,multiculturalism should be embraced,critics of multiculturalism,race and ethnicity,high
+q_000072,d_000104,0.8,0.8,multiculturalism should be embraced,cultural,multiculturalism,high
+q_000072,d_000123,0.9,0.9,multiculturalism should be embraced,cultural,race and ethnicity,high
+q_000073,d_000104,1.0,1.0,multiculturalism should be embraced,cultural communities,multiculturalism,high
+q_000074,d_000104,0.8,0.8,multiculturalism should be embraced,cultural competence,multiculturalism,high
+q_000075,d_000039,0.9,0.9,multiculturalism should be embraced,cultural diversity,cultural communities,high
+q_000075,d_000080,0.8,0.8,multiculturalism should be embraced,cultural diversity,international students,high
+q_000075,d_000104,1.0,1.0,multiculturalism should be embraced,cultural diversity,multiculturalism,high
+q_000076,d_000104,0.8,0.8,multiculturalism should be embraced,cultural imperialism,multiculturalism,high
+q_000076,d_000105,0.8,0.8,multiculturalism should be embraced,cultural imperialism,multiculturalism act,high
+q_000077,d_000104,1.0,1.0,multiculturalism should be embraced,culture,multiculturalism,high
+q_000078,d_000104,1.0,1.0,multiculturalism should be embraced,cultures,multiculturalism,high
+q_000081,d_000014,1.0,1.0,blasphemy should be criminalized,defamation of religion,blasphemy,high
+q_000081,d_000075,0.8,0.8,blasphemy should be criminalized,defamation of religion,incitement to hatred,high
+q_000081,d_000077,1.0,1.0,blasphemy should be criminalized,defamation of religion,insult the prophet,high
+q_000082,d_000014,1.0,1.0,blasphemy should be criminalized,defamation of religions,blasphemy,high
+q_000082,d_000027,0.9,0.9,blasphemy should be criminalized,defamation of religions,combating defamation,high
+q_000083,d_000033,1.0,1.0,previous convictions should be disclosed in court,defendant,court,high
+q_000083,d_000037,0.7,0.7,previous convictions should be disclosed in court,defendant,criminal history,high
+q_000083,d_000117,0.7,0.7,previous convictions should be disclosed in court,defendant,previous convictions,high
+q_000086,d_000142,0.7,0.7,the united states is responsible for mexico's drugs war,district of arizona,united states,high
+q_000088,d_000104,1.0,1.0,multiculturalism should be embraced,diverse communities,multiculturalism,high
+q_000089,d_000079,0.7,0.7,multiculturalism should be embraced,diversity,interculturalism,high
+q_000089,d_000104,1.0,1.0,multiculturalism should be embraced,diversity,multiculturalism,high
+q_000092,d_000033,0.8,0.8,previous convictions should be disclosed in court,double jeopardy,court,high
+q_000092,d_000120,0.7,0.7,previous convictions should be disclosed in court,double jeopardy,prosecution,high
+q_000093,d_000014,0.7,0.7,blasphemy should be criminalized,draw mohammed day,blasphemy,high
+q_000094,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drug,drugs war,high
+q_000095,d_000025,0.8,0.8,the united states is responsible for mexico's drugs war,drug cartels,colombia,high
+q_000095,d_000049,1.0,1.0,the united states is responsible for mexico's drugs war,drug cartels,drug trade,high
+q_000095,d_000050,0.9,0.9,the united states is responsible for mexico's drugs war,drug cartels,drug trafficking organizations,high
+q_000095,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drug cartels,drugs war,high
+q_000095,d_000084,0.9,0.9,the united states is responsible for mexico's drugs war,drug cartels,ju??¿1⁄2rez cartel,high
+q_000095,d_000089,1.0,1.0,the united states is responsible for mexico's drugs war,drug cartels,la familia,high
+q_000095,d_000100,0.8,0.8,the united states is responsible for mexico's drugs war,drug cartels,mexico,high
+q_000096,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drug control,drugs war,high
+q_000097,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drug enforcement administration,drugs war,high
+q_000097,d_000142,0.8,0.8,the united states is responsible for mexico's drugs war,drug enforcement administration,united states,high
+q_000098,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drug trade,drugs war,high
+q_000099,d_000049,1.0,1.0,the united states is responsible for mexico's drugs war,drug traffickers,drug trade,high
+q_000099,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drug traffickers,drugs war,high
+q_000099,d_000084,1.0,1.0,the united states is responsible for mexico's drugs war,drug traffickers,ju??¿1⁄2rez cartel,high
+q_000099,d_000100,0.9,0.9,the united states is responsible for mexico's drugs war,drug traffickers,mexico,high
+q_000099,d_000142,0.7,0.7,the united states is responsible for mexico's drugs war,drug traffickers,united states,high
+q_000100,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drug trafficking,drugs war,high
+q_000100,d_000100,0.8,0.8,the united states is responsible for mexico's drugs war,drug trafficking,mexico,high
+q_000100,d_000142,0.7,0.7,the united states is responsible for mexico's drugs war,drug trafficking,united states,high
+q_000101,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drug trafficking organizations,drugs war,high
+q_000101,d_000100,0.9,0.9,the united states is responsible for mexico's drugs war,drug trafficking organizations,mexico,high
+q_000102,d_000050,0.9,0.9,the united states is responsible for mexico's drugs war,drugs,drug trafficking organizations,high
+q_000102,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,drugs,drugs war,high
+q_000107,d_000023,0.7,0.7,previous convictions should be disclosed in court,english common law,civil procedure,high
+q_000107,d_000033,0.7,0.7,previous convictions should be disclosed in court,english common law,court,high
+q_000108,d_000039,0.7,0.7,multiculturalism should be embraced,ethnic,cultural communities,high
+q_000108,d_000104,0.7,0.7,multiculturalism should be embraced,ethnic,multiculturalism,high
+q_000109,d_000104,0.9,0.9,multiculturalism should be embraced,ethnic and cultural,multiculturalism,high
+q_000110,d_000104,0.9,0.9,multiculturalism should be embraced,ethnic enclaves,multiculturalism,high
+q_000111,d_000104,1.0,1.0,multiculturalism should be embraced,ethnic group,multiculturalism,high
+q_000112,d_000076,0.9,0.9,multiculturalism should be embraced,ethnic groups,indigenous individuals,high
+q_000112,d_000102,1.0,1.0,multiculturalism should be embraced,ethnic groups,minority,high
+q_000112,d_000104,1.0,1.0,multiculturalism should be embraced,ethnic groups,multiculturalism,high
+q_000114,d_000033,1.0,1.0,previous convictions should be disclosed in court,fair trial rights,court,high
+q_000114,d_000117,0.7,0.7,previous convictions should be disclosed in court,fair trial rights,previous convictions,high
+q_000115,d_000100,0.7,0.7,the united states is responsible for mexico's drugs war,fast and furious,mexico,high
+q_000115,d_000133,0.8,0.8,the united states is responsible for mexico's drugs war,fast and furious,smuggling,high
+q_000115,d_000142,0.8,0.8,the united states is responsible for mexico's drugs war,fast and furious,united states,high
+q_000119,d_000051,0.8,0.8,the united states is responsible for mexico's drugs war,federal police,drugs war,high
+q_000121,d_000011,0.7,0.7,the right to bear arms should be limited,firearm,automatic,high
+q_000121,d_000127,1.0,1.0,the right to bear arms should be limited,firearm,right to bear arms,high
+q_000122,d_000127,0.8,0.8,the right to bear arms should be limited,firearm ownership,right to bear arms,high
+q_000123,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,firearms,drugs war,high
+q_000123,d_000063,1.0,1.0,the right to bear arms should be limited,firearms,firearm ownership,high
+q_000123,d_000127,1.0,1.0,the right to bear arms should be limited,firearms,right to bear arms,high
+q_000123,d_000132,1.0,1.0,the right to bear arms should be limited,firearms,shotguns,high
+q_000123,d_000133,0.8,0.8,the united states is responsible for mexico's drugs war,firearms,smuggling,high
+q_000123,d_000141,1.0,1.0,the right to bear arms should be limited,firearms,type of weapon,high
+q_000124,d_000127,1.0,1.0,the right to bear arms should be limited,firearms and ammunition,right to bear arms,high
+q_000125,d_000014,1.0,1.0,blasphemy should be criminalized,free speech,blasphemy,high
+q_000127,d_000014,0.9,0.9,blasphemy should be criminalized,freedom of expression,blasphemy,high
+q_000127,d_000075,0.9,0.9,blasphemy should be criminalized,freedom of expression,incitement to hatred,high
+q_000128,d_000014,0.9,0.9,blasphemy should be criminalized,freedom of speech,blasphemy,high
+q_000130,d_000127,0.7,0.7,the right to bear arms should be limited,fully automatic firearms,right to bear arms,high
+q_000131,d_000127,0.7,0.7,the right to bear arms should be limited,gary kleck,right to bear arms,high
+q_000136,d_000104,0.7,0.7,multiculturalism should be embraced,gudykunst and kim,multiculturalism,high
+q_000137,d_000005,1.0,1.0,the right to bear arms should be limited,gun,ammunition,high
+q_000137,d_000012,0.9,0.9,the right to bear arms should be limited,gun,automatic weapons,high
+q_000137,d_000065,0.8,0.8,the right to bear arms should be limited,gun,fully automatic,high
+q_000137,d_000074,0.9,0.9,the right to bear arms should be limited,gun,homicide,high
+q_000137,d_000127,1.0,1.0,the right to bear arms should be limited,gun,right to bear arms,high
+q_000138,d_000002,0.9,0.9,the right to bear arms should be limited,gun control,american gun culture,high
+q_000138,d_000067,0.7,0.7,the right to bear arms should be limited,gun control,gary kleck,high
+q_000138,d_000118,0.9,0.9,the right to bear arms should be limited,gun control,pro gun,high
+q_000138,d_000127,1.0,1.0,the right to bear arms should be limited,gun control,right to bear arms,high
+q_000139,d_000012,0.7,0.7,the right to bear arms should be limited,gun control act,automatic weapons,high
+q_000139,d_000127,0.9,0.9,the right to bear arms should be limited,gun control act,right to bear arms,high
+q_000140,d_000071,0.8,0.8,the right to bear arms should be limited,gun control advocates,gun crime,high
+q_000140,d_000127,0.9,0.9,the right to bear arms should be limited,gun control advocates,right to bear arms,high
+q_000141,d_000067,0.8,0.8,the right to bear arms should be limited,gun control laws,gary kleck,high
+q_000141,d_000127,1.0,1.0,the right to bear arms should be limited,gun control laws,right to bear arms,high
+q_000142,d_000017,0.9,0.9,the right to bear arms should be limited,gun control legislation,carrying of arms,high
+q_000142,d_000127,0.9,0.9,the right to bear arms should be limited,gun control legislation,right to bear arms,high
+q_000142,d_000141,0.7,0.7,the right to bear arms should be limited,gun control legislation,type of weapon,high
+q_000144,d_000127,1.0,1.0,the right to bear arms should be limited,gun laws,right to bear arms,high
+q_000145,d_000127,1.0,1.0,the right to bear arms should be limited,gun owners,right to bear arms,high
+q_000146,d_000071,0.8,0.8,the right to bear arms should be limited,gun ownership,gun crime,high
+q_000146,d_000118,1.0,1.0,the right to bear arms should be limited,gun ownership,pro gun,high
+q_000146,d_000127,1.0,1.0,the right to bear arms should be limited,gun ownership,right to bear arms,high
+q_000147,d_000127,1.0,1.0,the right to bear arms should be limited,gun possession,right to bear arms,high
+q_000148,d_000074,0.8,0.8,the right to bear arms should be limited,gun related,homicide,high
+q_000148,d_000127,0.8,0.8,the right to bear arms should be limited,gun related,right to bear arms,high
+q_000149,d_000007,0.8,0.8,the right to bear arms should be limited,gun rights,assault weapons ban,high
+q_000149,d_000127,0.9,0.9,the right to bear arms should be limited,gun rights,right to bear arms,high
+q_000150,d_000127,0.9,0.9,the right to bear arms should be limited,gun rights advocates,right to bear arms,high
+q_000151,d_000127,0.9,0.9,the right to bear arms should be limited,gun violence,right to bear arms,high
+q_000152,d_000002,0.9,0.9,the right to bear arms should be limited,guns,american gun culture,high
+q_000152,d_000011,0.7,0.7,the right to bear arms should be limited,guns,automatic,high
+q_000152,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,guns,drugs war,high
+q_000152,d_000107,1.0,1.0,the right to bear arms should be limited,guns,number of guns,high
+q_000152,d_000127,1.0,1.0,the right to bear arms should be limited,guns,right to bear arms,high
+q_000152,d_000147,0.7,0.7,the united states is responsible for mexico's drugs war,guns,wide receiver,high
+q_000153,d_000051,0.7,0.7,the united states is responsible for mexico's drugs war,gunwalking,drugs war,high
+q_000153,d_000100,0.8,0.8,the united states is responsible for mexico's drugs war,gunwalking,mexico,high
+q_000153,d_000142,0.8,0.8,the united states is responsible for mexico's drugs war,gunwalking,united states,high
+q_000154,d_000012,0.8,0.8,the right to bear arms should be limited,handguns,automatic weapons,high
+q_000154,d_000127,1.0,1.0,the right to bear arms should be limited,handguns,right to bear arms,high
+q_000156,d_000008,0.7,0.7,multiculturalism should be embraced,identity,assimilation of immigrants,high
+q_000156,d_000104,0.7,0.7,multiculturalism should be embraced,identity,multiculturalism,high
+q_000157,d_000014,0.8,0.8,blasphemy should be criminalized,incitement to hatred,blasphemy,high
+q_000158,d_000104,0.8,0.8,multiculturalism should be embraced,indigenous individuals,multiculturalism,high
+q_000159,d_000104,0.8,0.8,multiculturalism should be embraced,indigenous peoples,multiculturalism,high
+q_000160,d_000014,1.0,1.0,blasphemy should be criminalized,insult the prophet,blasphemy,high
+q_000161,d_000014,0.9,0.9,blasphemy should be criminalized,insulting,blasphemy,high
+q_000162,d_000104,1.0,1.0,multiculturalism should be embraced,interculturalism,multiculturalism,high
+q_000164,d_000014,0.9,0.9,blasphemy should be criminalized,islam,blasphemy,high
+q_000164,d_000081,1.0,1.0,blasphemy should be criminalized,islam,islamic conference,high
+q_000168,d_000051,0.7,0.7,the united states is responsible for mexico's drugs war,ju?ï¿1⁄2rez cartel,drugs war,high
+q_000168,d_000100,0.8,0.8,the united states is responsible for mexico's drugs war,ju?ï¿1⁄2rez cartel,mexico,high
+q_000169,d_000033,1.0,1.0,previous convictions should be disclosed in court,judicial,court,high
+q_000170,d_000023,0.7,0.7,previous convictions should be disclosed in court,juries,civil procedure,high
+q_000170,d_000033,1.0,1.0,previous convictions should be disclosed in court,juries,court,high
+q_000170,d_000120,1.0,1.0,previous convictions should be disclosed in court,juries,prosecution,high
+q_000171,d_000033,0.9,0.9,previous convictions should be disclosed in court,jurisdiction,court,high
+q_000172,d_000031,1.0,1.0,previous convictions should be disclosed in court,jurors,conviction,high
+q_000172,d_000033,1.0,1.0,previous convictions should be disclosed in court,jurors,court,high
+q_000172,d_000087,0.9,0.9,previous convictions should be disclosed in court,jurors,jury tampering,high
+q_000173,d_000033,1.0,1.0,previous convictions should be disclosed in court,jury,court,high
+q_000173,d_000058,0.9,0.9,previous convictions should be disclosed in court,jury,fair trial rights,high
+q_000173,d_000117,0.7,0.7,previous convictions should be disclosed in court,jury,previous convictions,high
+q_000173,d_000120,0.9,0.9,previous convictions should be disclosed in court,jury,prosecution,high
+q_000174,d_000033,0.9,0.9,previous convictions should be disclosed in court,jury tampering,court,high
+q_000175,d_000023,0.9,0.9,previous convictions should be disclosed in court,jury trial,civil procedure,high
+q_000175,d_000029,0.8,0.8,previous convictions should be disclosed in court,jury trial,common law systems,high
+q_000175,d_000031,0.9,0.9,previous convictions should be disclosed in court,jury trial,conviction,high
+q_000175,d_000033,1.0,1.0,previous convictions should be disclosed in court,jury trial,court,high
+q_000175,d_000038,1.0,1.0,previous convictions should be disclosed in court,jury trial,criminal trials,high
+q_000176,d_000033,1.0,1.0,previous convictions should be disclosed in court,jury trials,court,high
+q_000176,d_000035,0.8,0.8,previous convictions should be disclosed in court,jury trials,criminal and civil,high
+q_000176,d_000117,0.7,0.7,previous convictions should be disclosed in court,jury trials,previous convictions,high
+q_000177,d_000006,0.7,0.7,blasphemy should be criminalized,jyllands posten,anders fogh rasmussen,high
+q_000177,d_000014,0.7,0.7,blasphemy should be criminalized,jyllands posten,blasphemy,high
+q_000177,d_000019,0.8,0.8,blasphemy should be criminalized,jyllands posten,cartoonists,high
+q_000180,d_000104,0.7,0.7,multiculturalism should be embraced,kramer's dad theory,multiculturalism,high
+q_000181,d_000051,0.8,0.8,the united states is responsible for mexico's drugs war,la familia,drugs war,high
+q_000181,d_000100,0.8,0.8,the united states is responsible for mexico's drugs war,la familia,mexico,high
+q_000183,d_000030,0.7,0.7,previous convictions should be disclosed in court,law,convicted,high
+q_000183,d_000033,1.0,1.0,previous convictions should be disclosed in court,law,court,high
+q_000184,d_000090,0.7,0.7,the right to bear arms should be limited,law abiding citizens,law enforcement,high
+q_000185,d_000014,1.0,1.0,blasphemy should be criminalized,law against blasphemy,blasphemy,high
+q_000186,d_000047,1.0,1.0,the united states is responsible for mexico's drugs war,law enforcement,drug control,high
+q_000186,d_000050,0.8,0.8,the united states is responsible for mexico's drugs war,law enforcement,drug trafficking organizations,high
+q_000186,d_000051,0.7,0.7,the united states is responsible for mexico's drugs war,law enforcement,drugs war,high
+q_000186,d_000092,1.0,1.0,the united states is responsible for mexico's drugs war,law enforcement,law enforcement officials,high
+q_000187,d_000051,0.8,0.8,the united states is responsible for mexico's drugs war,law enforcement efforts,drugs war,high
+q_000190,d_000029,0.9,0.9,previous convictions should be disclosed in court,legal,common law systems,high
+q_000190,d_000033,0.8,0.8,previous convictions should be disclosed in court,legal,court,high
+q_000190,d_000085,0.9,0.9,previous convictions should be disclosed in court,legal,judicial,high
+q_000190,d_000117,0.7,0.7,previous convictions should be disclosed in court,legal,previous convictions,high
+q_000191,d_000033,0.7,0.7,previous convictions should be disclosed in court,legal profession,court,high
+q_000192,d_000031,0.7,0.7,previous convictions should be disclosed in court,legal system,conviction,high
+q_000192,d_000033,1.0,1.0,previous convictions should be disclosed in court,legal system,court,high
+q_000192,d_000035,0.9,0.9,previous convictions should be disclosed in court,legal system,criminal and civil,high
+q_000192,d_000036,0.9,0.9,previous convictions should be disclosed in court,legal system,criminal case,high
+q_000192,d_000117,0.8,0.8,previous convictions should be disclosed in court,legal system,previous convictions,high
+q_000192,d_000136,0.7,0.7,previous convictions should be disclosed in court,legal system,statutes,high
+q_000193,d_000104,0.7,0.7,multiculturalism should be embraced,level of immigration,multiculturalism,high
+q_000196,d_000062,0.9,0.9,the united states is responsible for mexico's drugs war,local law enforcement,federal police,high
+q_000196,d_000091,1.0,1.0,the united states is responsible for mexico's drugs war,local law enforcement,law enforcement efforts,high
+q_000197,d_000020,0.7,0.7,the united states is responsible for mexico's drugs war,los zetas cartel,central america,high
+q_000197,d_000047,1.0,1.0,the united states is responsible for mexico's drugs war,los zetas cartel,drug control,high
+q_000197,d_000048,0.7,0.7,the united states is responsible for mexico's drugs war,los zetas cartel,drug enforcement administration,high
+q_000197,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,los zetas cartel,drugs war,high
+q_000197,d_000100,0.9,0.9,the united states is responsible for mexico's drugs war,los zetas cartel,mexico,high
+q_000197,d_000133,0.8,0.8,the united states is responsible for mexico's drugs war,los zetas cartel,smuggling,high
+q_000198,d_000051,0.7,0.7,the united states is responsible for mexico's drugs war,m??rida initiative,drugs war,high
+q_000198,d_000100,0.7,0.7,the united states is responsible for mexico's drugs war,m??rida initiative,mexico,high
+q_000198,d_000142,0.7,0.7,the united states is responsible for mexico's drugs war,m??rida initiative,united states,high
+q_000199,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,marijuana,drugs war,high
+q_000201,d_000055,0.7,0.7,multiculturalism should be embraced,melting pot,ethnic and cultural,high
+q_000201,d_000057,1.0,1.0,multiculturalism should be embraced,melting pot,ethnic group,high
+q_000201,d_000104,1.0,1.0,multiculturalism should be embraced,melting pot,multiculturalism,high
+q_000202,d_000095,0.8,0.8,multiculturalism should be embraced,melting pot theory,level of immigration,high
+q_000202,d_000096,0.8,0.8,multiculturalism should be embraced,melting pot theory,levels of immigration,high
+q_000202,d_000104,1.0,1.0,multiculturalism should be embraced,melting pot theory,multiculturalism,high
+q_000203,d_000033,0.8,0.8,previous convictions should be disclosed in court,mens rea,court,high
+q_000204,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,mexican,drugs war,high
+q_000204,d_000100,1.0,1.0,the united states is responsible for mexico's drugs war,mexican,mexico,high
+q_000205,d_000048,0.9,0.9,the united states is responsible for mexico's drugs war,mexican cartels,drug enforcement administration,high
+q_000205,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,mexican cartels,drugs war,high
+q_000205,d_000100,1.0,1.0,the united states is responsible for mexico's drugs war,mexican cartels,mexico,high
+q_000206,d_000020,0.8,0.8,the united states is responsible for mexico's drugs war,mexican drug cartels,central america,high
+q_000206,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,mexican drug cartels,drugs war,high
+q_000206,d_000089,1.0,1.0,the united states is responsible for mexico's drugs war,mexican drug cartels,la familia,high
+q_000206,d_000091,0.7,0.7,the united states is responsible for mexico's drugs war,mexican drug cartels,law enforcement efforts,high
+q_000206,d_000100,1.0,1.0,the united states is responsible for mexico's drugs war,mexican drug cartels,mexico,high
+q_000207,d_000051,0.8,0.8,the united states is responsible for mexico's drugs war,mexican government,drugs war,high
+q_000207,d_000100,1.0,1.0,the united states is responsible for mexico's drugs war,mexican government,mexico,high
+q_000207,d_000116,0.9,0.9,the united states is responsible for mexico's drugs war,mexican government,president felipe calder??n,high
+q_000208,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,mexican law enforcement,drugs war,high
+q_000208,d_000091,1.0,1.0,the united states is responsible for mexico's drugs war,mexican law enforcement,law enforcement efforts,high
+q_000208,d_000092,0.9,0.9,the united states is responsible for mexico's drugs war,mexican law enforcement,law enforcement officials,high
+q_000208,d_000100,1.0,1.0,the united states is responsible for mexico's drugs war,mexican law enforcement,mexico,high
+q_000209,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,mexico,drugs war,high
+q_000209,d_000073,0.7,0.7,the united states is responsible for mexico's drugs war,mexico,gunwalking,high
+q_000209,d_000100,1.0,1.0,the united states is responsible for mexico's drugs war,mexico,mexico,high
+q_000209,d_000101,0.7,0.7,the united states is responsible for mexico's drugs war,mexico,michoac??¿1⁄2n,high
+q_000209,d_000142,0.8,0.8,the united states is responsible for mexico's drugs war,mexico,united states,high
+q_000211,d_000127,0.9,0.9,the right to bear arms should be limited,militia,right to bear arms,high
+q_000212,d_000104,0.8,0.8,multiculturalism should be embraced,minority,multiculturalism,high
+q_000213,d_000104,0.9,0.9,multiculturalism should be embraced,minority groups,multiculturalism,high
+q_000214,d_000033,0.8,0.8,previous convictions should be disclosed in court,miscarriage of justice,court,high
+q_000214,d_000117,0.7,0.7,previous convictions should be disclosed in court,miscarriage of justice,previous convictions,high
+q_000215,d_000119,1.0,1.0,blasphemy should be criminalized,mohammed,prophet mohammed,high
+q_000218,d_000014,1.0,1.0,blasphemy should be criminalized,muhammad cartoons,blasphemy,high
+q_000219,d_000104,1.0,1.0,multiculturalism should be embraced,multicultural,multiculturalism,high
+q_000219,d_000146,0.9,0.9,multiculturalism should be embraced,multicultural,white australia policy,high
+q_000220,d_000057,0.8,0.8,multiculturalism should be embraced,multicultural education,ethnic group,high
+q_000220,d_000104,1.0,1.0,multiculturalism should be embraced,multicultural education,multiculturalism,high
+q_000220,d_000123,0.9,0.9,multiculturalism should be embraced,multicultural education,race and ethnicity,high
+q_000221,d_000039,0.9,0.9,multiculturalism should be embraced,multicultural society,cultural communities,high
+q_000221,d_000045,0.9,0.9,multiculturalism should be embraced,multicultural society,diverse communities,high
+q_000221,d_000102,0.7,0.7,multiculturalism should be embraced,multicultural society,minority,high
+q_000221,d_000104,1.0,1.0,multiculturalism should be embraced,multicultural society,multiculturalism,high
+q_000221,d_000105,0.9,0.9,multiculturalism should be embraced,multicultural society,multiculturalism act,high
+q_000222,d_000057,1.0,1.0,multiculturalism should be embraced,multiculturalism,ethnic group,high
+q_000222,d_000104,1.0,1.0,multiculturalism should be embraced,multiculturalism,multiculturalism,high
+q_000223,d_000104,1.0,1.0,multiculturalism should be embraced,multiculturalism act,multiculturalism,high
+q_000224,d_000014,0.7,0.7,blasphemy should be criminalized,muslim,blasphemy,high
+q_000224,d_000103,1.0,1.0,blasphemy should be criminalized,muslim,muhammad cartoons,high
+q_000225,d_000014,0.7,0.7,blasphemy should be criminalized,muslims,blasphemy,high
+q_000225,d_000126,1.0,1.0,blasphemy should be criminalized,muslims,religious,high
+q_000227,d_000104,1.0,1.0,multiculturalism should be embraced,national culture,multiculturalism,high
+q_000228,d_000118,0.8,0.8,the right to bear arms should be limited,national firearms act,pro gun,high
+q_000228,d_000127,0.9,0.9,the right to bear arms should be limited,national firearms act,right to bear arms,high
+q_000229,d_000045,0.9,0.9,multiculturalism should be embraced,national identity,diverse communities,high
+q_000229,d_000104,0.9,0.9,multiculturalism should be embraced,national identity,multiculturalism,high
+q_000230,d_000127,0.9,0.9,the right to bear arms should be limited,national rifle association,right to bear arms,high
+q_000230,d_000144,0.7,0.7,the right to bear arms should be limited,national rifle association,weapons and ammunition,high
+q_000231,d_000014,0.7,0.7,blasphemy should be criminalized,newspaper jyllands posten,blasphemy,high
+q_000232,d_000127,1.0,1.0,the right to bear arms should be limited,nra,right to bear arms,high
+q_000233,d_000127,0.7,0.7,the right to bear arms should be limited,number of guns,right to bear arms,high
+q_000234,d_000014,0.7,0.7,blasphemy should be criminalized,offence,blasphemy,high
+q_000237,d_000017,0.8,0.8,the right to bear arms should be limited,ownership,carrying of arms,high
+q_000240,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,plan colombia,drugs war,high
+q_000240,d_000142,0.9,0.9,the united states is responsible for mexico's drugs war,plan colombia,united states,high
+q_000242,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,police forces,drugs war,high
+q_000243,d_000104,1.0,1.0,multiculturalism should be embraced,policy of multiculturalism,multiculturalism,high
+q_000243,d_000146,0.8,0.8,multiculturalism should be embraced,policy of multiculturalism,white australia policy,high
+q_000244,d_000100,0.9,0.9,the united states is responsible for mexico's drugs war,president felipe calder??n,mexico,high
+q_000245,d_000033,0.9,0.9,previous convictions should be disclosed in court,presumption of innocence,court,high
+q_000245,d_000036,1.0,1.0,previous convictions should be disclosed in court,presumption of innocence,criminal case,high
+q_000245,d_000058,1.0,1.0,previous convictions should be disclosed in court,presumption of innocence,fair trial rights,high
+q_000245,d_000117,0.7,0.7,previous convictions should be disclosed in court,presumption of innocence,previous convictions,high
+q_000246,d_000127,0.8,0.8,the right to bear arms should be limited,pro gun,right to bear arms,high
+q_000247,d_000051,0.8,0.8,the united states is responsible for mexico's drugs war,project gunrunner,drugs war,high
+q_000247,d_000100,0.9,0.9,the united states is responsible for mexico's drugs war,project gunrunner,mexico,high
+q_000247,d_000133,1.0,1.0,the united states is responsible for mexico's drugs war,project gunrunner,smuggling,high
+q_000247,d_000142,0.9,0.9,the united states is responsible for mexico's drugs war,project gunrunner,united states,high
+q_000248,d_000014,0.7,0.7,blasphemy should be criminalized,prophet mohammed,blasphemy,high
+q_000249,d_000014,0.8,0.8,blasphemy should be criminalized,prophet muhammad,blasphemy,high
+q_000250,d_000033,1.0,1.0,previous convictions should be disclosed in court,prosecution,court,high
+q_000251,d_000014,1.0,1.0,blasphemy should be criminalized,prosecution for blasphemy,blasphemy,high
+q_000251,d_000077,0.9,0.9,blasphemy should be criminalized,prosecution for blasphemy,insult the prophet,high
+q_000252,d_000033,1.0,1.0,previous convictions should be disclosed in court,prospective jurors,court,high
+q_000255,d_000104,1.0,1.0,multiculturalism should be embraced,race and ethnicity,multiculturalism,high
+q_000256,d_000014,0.7,0.7,blasphemy should be criminalized,racial and religious,blasphemy,high
+q_000258,d_000014,1.0,1.0,blasphemy should be criminalized,religious,blasphemy,high
+q_000259,d_000014,1.0,1.0,blasphemy should be criminalized,religious insult,blasphemy,high
+q_000260,d_000127,1.0,1.0,the right to bear arms should be limited,rifle,right to bear arms,high
+q_000261,d_000022,1.0,1.0,previous convictions should be disclosed in court,rule of law,civil law systems,high
+q_000261,d_000028,0.7,0.7,previous convictions should be disclosed in court,rule of law,common law jurisdictions,high
+q_000261,d_000033,1.0,1.0,previous convictions should be disclosed in court,rule of law,court,high
+q_000261,d_000035,0.7,0.7,previous convictions should be disclosed in court,rule of law,criminal and civil,high
+q_000263,d_000033,0.9,0.9,previous convictions should be disclosed in court,rules of evidence,court,high
+q_000265,d_000022,0.8,0.8,previous convictions should be disclosed in court,scots law,civil law systems,high
+q_000265,d_000028,0.7,0.7,previous convictions should be disclosed in court,scots law,common law jurisdictions,high
+q_000265,d_000033,0.7,0.7,previous convictions should be disclosed in court,scots law,court,high
+q_000265,d_000131,0.8,0.8,previous convictions should be disclosed in court,scots law,scottish parliament,high
+q_000267,d_000127,0.9,0.9,the right to bear arms should be limited,shotguns,right to bear arms,high
+q_000268,d_000047,1.0,1.0,the united states is responsible for mexico's drugs war,sinaloa cartel,drug control,high
+q_000268,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,sinaloa cartel,drugs war,high
+q_000268,d_000098,0.8,0.8,the united states is responsible for mexico's drugs war,sinaloa cartel,marijuana,high
+q_000268,d_000100,0.9,0.9,the united states is responsible for mexico's drugs war,sinaloa cartel,mexico,high
+q_000269,d_000051,0.9,0.9,the united states is responsible for mexico's drugs war,smuggling,drugs war,high
+q_000270,d_000104,0.8,0.8,multiculturalism should be embraced,society,multiculturalism,high
+q_000274,d_000033,1.0,1.0,previous convictions should be disclosed in court,stare decisis,court,high
+q_000276,d_000100,0.9,0.9,the united states is responsible for mexico's drugs war,tamaulipas,mexico,high
+q_000278,d_000014,0.7,0.7,blasphemy should be criminalized,thomas aikenhead,blasphemy,high
+q_000280,d_000022,0.8,0.8,previous convictions should be disclosed in court,trial,civil law systems,high
+q_000280,d_000023,1.0,1.0,previous convictions should be disclosed in court,trial,civil procedure,high
+q_000280,d_000033,1.0,1.0,previous convictions should be disclosed in court,trial,court,high
+q_000280,d_000117,0.9,0.9,previous convictions should be disclosed in court,trial,previous convictions,high
+q_000281,d_000023,0.9,0.9,previous convictions should be disclosed in court,trial by jury,civil procedure,high
+q_000281,d_000030,0.8,0.8,previous convictions should be disclosed in court,trial by jury,convicted,high
+q_000281,d_000033,1.0,1.0,previous convictions should be disclosed in court,trial by jury,court,high
+q_000281,d_000087,1.0,1.0,previous convictions should be disclosed in court,trial by jury,jury tampering,high
+q_000283,d_000043,1.0,1.0,the united states is responsible for mexico's drugs war,u.s,district of arizona,high
+q_000283,d_000100,0.7,0.7,the united states is responsible for mexico's drugs war,u.s,mexico,high
+q_000283,d_000142,0.9,0.9,the united states is responsible for mexico's drugs war,u.s,united states,high
+q_000284,d_000142,1.0,1.0,the united states is responsible for mexico's drugs war,u.s state department,united states,high
+q_000288,d_000020,0.8,0.8,the united states is responsible for mexico's drugs war,war on drugs,central america,high
+q_000288,d_000050,0.8,0.8,the united states is responsible for mexico's drugs war,war on drugs,drug trafficking organizations,high
+q_000288,d_000051,1.0,1.0,the united states is responsible for mexico's drugs war,war on drugs,drugs war,high
+q_000288,d_000062,0.8,0.8,the united states is responsible for mexico's drugs war,war on drugs,federal police,high
+q_000288,d_000091,1.0,1.0,the united states is responsible for mexico's drugs war,war on drugs,law enforcement efforts,high
+q_000288,d_000100,1.0,1.0,the united states is responsible for mexico's drugs war,war on drugs,mexico,high
+q_000288,d_000142,1.0,1.0,the united states is responsible for mexico's drugs war,war on drugs,united states,high
+q_000289,d_000127,1.0,1.0,the right to bear arms should be limited,weapons and ammunition,right to bear arms,high
+q_000291,d_000104,0.8,0.8,multiculturalism should be embraced,white australia policy,multiculturalism,high
+q_000292,d_000142,0.8,0.8,the united states is responsible for mexico's drugs war,wide receiver,united states,high

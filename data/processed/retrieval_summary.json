@@ -1,0 +1,38 @@
+{
+  "train": {
+    "split_name": "train",
+    "input_rows": 7941,
+    "unique_topics": 37,
+    "unique_queries": 1891,
+    "unique_docs": 922,
+    "positive_threshold": 0.7,
+    "positive_pairs": 2927,
+    "queries_with_relevant_docs": 1344,
+    "queries_without_relevant_docs": 547,
+    "avg_relevant_docs_per_query": 2.1592261904761907
+  },
+  "val": {
+    "split_name": "val",
+    "input_rows": 928,
+    "unique_topics": 5,
+    "unique_queries": 265,
+    "unique_docs": 130,
+    "positive_threshold": 0.7,
+    "positive_pairs": 425,
+    "queries_with_relevant_docs": 197,
+    "queries_without_relevant_docs": 68,
+    "avg_relevant_docs_per_query": 2.1573604060913705
+  },
+  "test": {
+    "split_name": "test",
+    "input_rows": 956,
+    "unique_topics": 5,
+    "unique_queries": 293,
+    "unique_docs": 148,
+    "positive_threshold": 0.7,
+    "positive_pairs": 436,
+    "queries_with_relevant_docs": 213,
+    "queries_without_relevant_docs": 80,
+    "avg_relevant_docs_per_query": 2.0469483568075115
+  }
+}

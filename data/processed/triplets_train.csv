@@ -1,0 +1,2364 @@
+anchor,positive,negative,negative_type
+absence of belief,atheism,break lasts,global_easy
+absentee ballots,voters,polling station,hard
+absolute majority,elections,open primaries,hard
+absolute monarchy,monarchy,patronage,global_easy
+abstinence only education,barrier methods of contraception,infections,global_easy
+abstinence only education,catholic church,income tax,global_easy
+access to information,anat kamm,safe harbor,easy
+access to information,leaking,punished with imprisonment,easy
+access to information,wikileaks documents,safe harbor,easy
+action games,violent video games,minors,hard
+adults,younger adults,mandatory retirement age,hard
+advanced maternal age,parents,fetuses,hard
+adverse health effects,cigar smokers,smoke free workplaces,hard
+adverse health effects,tobacco consumption,smoke free workplaces,hard
+affirmative,affirmative action,racial prejudice,easy
+affirmative action,affirmative action,win,global_easy
+affirmative action,races,racial prejudice,global_easy
+affirmative action policies,affirmative action,renewables,global_easy
+affirmative action policies,hiring,protect the head,global_easy
+affirmative action programs,affirmative action,treatment,easy
+affirmative action programs,racial prejudice,treatment,easy
+african americans,affirmative action,children,global_easy
+age,mandatory retirement age,tertiary,easy
+age,school leaving age,attainment,easy
+age discrimination,mandatory retirement age,memory issues,easy
+age related,ageing results,pension scheme,hard
+age related,mandatory retirement age,pension scheme,hard
+aggression,violent video games,minors,easy
+aggressive behavior,columbine high school,minors,hard
+aggressive behavior,violent video games,minors,hard
+aging,mandatory retirement age,telomerase,easy
+aids,barrier methods of contraception,catholic church,easy
+aids,disease,catholic church,easy
+aids,hiv and aids,st peter's,easy
+alberta,bituminous sands,construction,hard
+alberta,keystone xl pipeline,construction,hard
+alberta government,keystone xl pipeline,route,global_easy
+alberta oil sands,keystone xl pipeline,phase,easy
+alternative service,national service,rangel center,easy
+alternative service,volunteer,chair,easy
+alternative vote,candidates,open primaries,hard
+alternative vote,elections,open primaries,hard
+amateur boxing,boxing,silencing,global_easy
+amateur boxing association,boxing,military conscription,global_easy
+american jobs act,american jobs act,innovation,global_easy
+american tobacco,growing of tobacco,states,easy
+amniocentesis,fetuses,parents,hard
+amniocentesis,genetic screening,parents,hard
+amniocentesis,heritable diseases,parents,hard
+amundsen,antarctic continent,exploitation,easy
+anabolic,performance enhancing drugs,professional sports,hard
+anabolic steroid,athlete,abuse potential,hard
+anabolic steroid,hormones,abuse potential,hard
+anabolic steroid,performance enhancing drugs,abuse potential,hard
+anabolic steroid,professional sports,abuse potential,hard
+anabolic steroid users,androgenic steroids,breaks,global_easy
+anabolic steroid users,hormones,mlb,global_easy
+anabolic steroid users,performance enhancing drugs,tax,global_easy
+anabolic steroid users,professional sports,ballot stuffing,global_easy
+anabolic steroids,athlete,states,global_easy
+anabolic steroids,mitchell report,skilled workers,global_easy
+anabolic steroids,performance enhancing drugs,elected,global_easy
+anabolic steroids,professional sports,online lotteries,global_easy
+androgen,performance enhancing drugs,conscript,global_easy
+androgenic steroids,performance enhancing drugs,renewable electricity,global_easy
+androgenic steroids,professional sports,private,global_easy
+androgenic:anabolic ratio,performance enhancing drugs,professional sports,hard
+antarctic,antarctic continent,island,hard
+antarctic ice sheet,antarctic continent,mcmurdo,hard
+antarctic peninsula,antarctic continent,research stations,hard
+antarctic treaty,antarctic continent,exploitation,hard
+antarctic treaty,international law,research stations,hard
+antarctica,antarctic continent,explorer,hard
+anti ballistic missile,nuclear weapons,nations,easy
+anti copyright,intellectual property rights,scarce,easy
+anti corruption,bribery,law convention,hard
+anti corruption measures,bribery,money,hard
+anti doping,performance enhancing drugs,left ventricle,easy
+anti doping,professional sports,left ventricle,easy
+anti doping,systematic doping,left ventricle,easy
+anti nuclear,nuclear bomb,warheads,hard
+anti nuclear,nuclear weapons,proliferation,hard
+anti nuclear groups,developing nuclear weapons,nations,easy
+anti nuclear groups,nuclear weapons,nations,easy
+anti smoking,tobacco consumption,public places,hard
+anti smoking movement,growing of tobacco,states,easy
+aquifer,keystone xl pipeline,cushing oklahoma,easy
+argument,argument from nonbelief,criticism of religion,hard
+argument from nonbelief,atheism,committee,global_easy
+army,national service,chair,easy
+arra,american jobs act,rating board esrb,global_easy
+arrow's impossibility theorem,candidates,open primaries,hard
+arrow's impossibility theorem,elections,open primaries,hard
+artificial birth control,barrier methods of contraception,catholic church,hard
+artificial birth control,contraceptives,catholic church,hard
+artificial birth control,sexuality education,catholic church,hard
+artificial contraception,barrier methods of contraception,catholic church,hard
+assisted reproductive technology,fetuses,invasive procedure,hard
+assisted reproductive technology,parents,invasive procedure,hard
+asylum,right to asylum,casework,easy
+asylum applications,right to asylum,ratio,global_easy
+asylum claims,right to asylum,gender imbalance,global_easy
+asylum seekers,granted asylum,nationality,hard
+asylum seekers,illegal entrant,home affairs,hard
+asylum seekers,right to asylum,british nationality act,hard
+athabasca oil sands,keystone xl pipeline,tobacco consumption,global_easy
+atheism,atheism,existence and nature,hard
+atheism,opposition to god,existence and nature,hard
+atheist,absence of belief,god's,hard
+atheist,atheism,god's,hard
+atheist,deities exist,god's,hard
+atheist,science,god's,hard
+atheists,atheism,exist,easy
+athlete,performance enhancing drugs,genetic screening,global_easy
+athlete,professional sports,biases,global_easy
+athletes,performance enhancing drugs,androgen,hard
+athletes,professional sports,androgen,hard
+atlantic city,gambling,john locke,global_easy
+atomic,nuclear material,anti ballistic missile,hard
+atomic,nuclear weapons,anti ballistic missile,hard
+atomic bomb,kilotons of tnt,yield,hard
+atomic bomb,nuclear weapons,national intelligence estimate,hard
+atomic bomb,uranium enrichment,national intelligence estimate,hard
+atomic energy,nuclear weapons,states,easy
+attend year round,year round schooling,week in september,easy
+attorney jack thompson,violent video games,minors,easy
+austerity,austerity measures,europe,hard
+austerity,debts,citizens,hard
+austerity,economy,citizens,hard
+austerity,government deficit,europe,hard
+austerity,troika,loan,hard
+austerity measures,austerity measures,loan,hard
+austerity measures,budget,europe,hard
+austerity measures,economy,citizens,hard
+austerity package,austerity measures,social support,hard
+austerity package,debts,savings,hard
+austerity package,government deficit,savings,hard
+australian republican movement,monarchy,business,global_easy
+automatic ballot access,candidates,exempt,global_easy
+automatic ballot access,elections,research stations,global_easy
+ballot,polling station,absentee,hard
+ballot,voters,absentee,hard
+ballot paper,polling station,photo identification,easy
+ballot stuffing,polling station,democratic governments,easy
+ballot stuffing,voters,photo identification,easy
+bandwagon effect,opinion polls,pollster,hard
+bare knuckle,boxing,southern district,global_easy
+bargaining,collective bargaining rights,trades unions,hard
+barrier methods,barrier methods of contraception,catholic church,hard
+based on race,affirmative action,nation of islam,easy
+belief in god,argument from nonbelief,governor of alaska,global_easy
+belief in god,atheism,terms and conditions,global_easy
+berne convention,intellectual property rights,innovation,easy
+bet,gambling,discrimination in employment,global_easy
+bet or wager,gam anon,prize,hard
+bet or wager,gambling,prize,hard
+bet or wager,winnings,prize,hard
+betting,gambling,pollster,global_easy
+bill of rights,free speech fights,slander and libel,hard
+bill of rights,freedom of speech,slander and libel,hard
+biodiversity,endangered species,opposition to god,global_easy
+biological diversity,endangered species,cigar smoking,global_easy
+biological diversity,species loss,smoke free workplaces,global_easy
+biopsy,invasive procedure,genetic screening,hard
+biopsy,test results,performed,hard
+birth control,barrier methods of contraception,catholic church,hard
+birth control,one child policy,china,hard
+birth defects,chromosomes,test results,hard
+birth defects,fetuses,test results,hard
+birth defects,genetic screening,parents,hard
+birth defects,heritable diseases,parents,hard
+birth defects,prenatal testing,test results,hard
+birth defects,screening test,gene therapy,hard
+birth defects,ultrasound,test results,hard
+bitumen,keystone xl pipeline,surface mining,hard
+bituminous sands,keystone xl pipeline,modern symbolic prejudice,global_easy
+black,affirmative action,mexican american,hard
+black economic empowerment,affirmative action,government jobs,easy
+blast,nuclear weapons,nations,easy
+block,censor,china,easy
+block,search results,china,easy
+blocked,block,google,hard
+blocked,censor,google,hard
+blocked,search results,google,hard
+board of education,education,charter school law,hard
+boat people,boat,asylum applications,hard
+boat people,right to asylum,asylum applications,hard
+bomb,nuclear tests,nations,easy
+bomb,nuclear weapons,nations,easy
+bombs,nuclear weapons,states,easy
+bout,boxing,infections,global_easy
+boxer,bout,phone calls,global_easy
+boxer,boxing,patronage,global_easy
+boxer,counter punch,july and august,global_easy
+boxers,boxing,state of alaska,global_easy
+boxers,defensive style,motion involves lifting,global_easy
+boxers,fist,bill,global_easy
+boxers,knockout,republican primary,global_easy
+boxers,muay thai,national parks,global_easy
+boxers,professional boxing,opinions,global_easy
+boxing,boxing,motion involves lifting,global_easy
+boxing,straight punch thrown,mitchell report,global_easy
+brain injury,boxing,body,hard
+brandenburg v ohio,freedom of speech,government,easy
+break,year round schooling,labor day,hard
+bribe,bribery,monetary,global_easy
+bribery,bribery,bank accounts,hard
+bribes,bribery,social housing,easy
+british american tobacco,cigar smoking,pipe,hard
+british american tobacco,growing of tobacco,anti smoking movement,hard
+british american tobacco,tobacco product,marlboro,hard
+british monarch,monarchy,grace of god,easy
+buddhist monks,myanmar,democracy,easy
+budget,austerity measures,social support,hard
+budget deficit,austerity measures,europe,hard
+burma,kenji nagai,township,easy
+burma,myanmar,township,easy
+burma,shan states,township,easy
+burma,us,township,easy
+burma campaign uk,myanmar,us,easy
+burma's,human rights abuses,elections,hard
+burma's,myanmar,lan na,hard
+burmese,myanmar,us,hard
+burmese government,myanmar,us,hard
+burmese government,southeast asia,us,hard
+burmese military junta,myanmar,elections,hard
+burmese military junta,southeast asia,elections,hard
+burmese military regime,myanmar,elections,hard
+burmese military regime,regime,elections,hard
+burmese military regime,thein sein,elections,hard
+calendar based methods,barrier methods of contraception,catholic church,easy
+canadian human rights,freedom of speech,government,easy
+canadian oil sands,keystone xl pipeline,steam,easy
+cancer,anti smoking movement,growing of tobacco,hard
+cancer,cigar smoking,smoking restrictions,hard
+candidate,candidates,opinion polls,hard
+candidate,condorcet methods,number of voters,hard
+candidate,elections,number of voters,hard
+candidate,nomination,opinion polls,hard
+candidate,open primaries,number of voters,hard
+candidate,democratic process,opinion polls,hard
+candidate,election results,voting system criteria,hard
+candidate,presidential election,opinion polls,hard
+candidate or party,democratic party,polling station,hard
+candidates,arrow's impossibility theorem,voting system criteria,hard
+candidates,candidates,voting system criteria,hard
+candidates,elections,round of counting,hard
+candidates,nomination,voting system criteria,hard
+candidates,open primaries,voting system criteria,hard
+candidates,democratic process,opinion polls,hard
+capacity,installed capacity,wind power,easy
+capacity,kilowatt hour,wind power,easy
+capacity credit,energy supply,wind power,hard
+capacity factor,energy supply,national grid,hard
+cape wind project,energy supply,hand,global_easy
+cape wind project,renewable energy technologies,home,global_easy
+cape wind project,walney wind farm,sexually,global_easy
+cape wind project,wind energy policy,explorer,global_easy
+cape wind project,wind power,conscript,global_easy
+capital gains taxes,economic,arra,easy
+cardinal,catholic church,barrier methods of contraception,easy
+care penalty,housewives,home,hard
+care penalty,paid work,home,hard
+care work,housewives,biases,hard
+care work,paid work,biases,hard
+care work,work,biases,hard
+casino,gambling,problem,easy
+casino,online casinos,problem,easy
+casino,winning numbers,problem,easy
+casinos,gambling,american tobacco,global_easy
+casinos,slot machines,capacity credit,global_easy
+catholic,catholic church,barrier methods of contraception,hard
+catholic church,catholic church,barrier methods of contraception,hard
+censor,censor,boxing,global_easy
+censor,china,returning to school,global_easy
+censor,google,public places,global_easy
+censor,search results,presymptomatic testing,global_easy
+censored,freedom of speech,government,hard
+censorship,censor,sexually explicit,hard
+censorship,china,anat kamm,hard
+censorship,great firewall,banned,hard
+censorship,search results,anat kamm,hard
+censorship,freedom of speech,sexually explicit,hard
+censorship,government,anat kamm,hard
+censorship,reasonable restrictions,banned,hard
+censorship,leak,sexually explicit,hard
+censorship,leaking,anat kamm,hard
+censorship,military documents,sexually explicit,hard
+central intelligence agency,military documents,anat kamm,easy
+chance,gambling,conscript,global_easy
+chance of winning,gambling,uigea,hard
+charter school,education,number of students,hard
+charter school,public school students,number of students,hard
+charter school,voucher system,number of students,hard
+charter school law,education,voucher scheme,hard
+charter school students,education,math,easy
+charter school students,voucher scheme,higher education,easy
+charter schools,education,math,easy
+charter schools,private education,math,easy
+child,one child policy,planned parenthood federation,hard
+childcare voucher scheme,voucher scheme,education,hard
+children,children per woman,school leaving age,hard
+children,fertility rate,school leaving age,hard
+children,one child policy,school leaving age,hard
+children,year round schooling,gender,hard
+children per woman,one child policy,china,hard
+china,censor,search results,hard
+china,china,google,hard
+china,hong kong,internet security,hard
+china,family planning programs,google,hard
+china,one child policy,internet security,hard
+china,rapid population growth,search results,hard
+chinese,china,gender,easy
+chinese,one child policy,planned parenthood federation,easy
+chinese authorities,censor,google,hard
+chinese authorities,china,google,hard
+chinese government,block,google,hard
+chinese government,censor,demographic,hard
+chinese government,china,google,hard
+chinese government,one child policy,google,hard
+chinese internet,censor,web companies,hard
+chinese internet,china,web companies,hard
+chinese internet,chinese authorities,gmail accounts,hard
+chinese internet,great firewall,web companies,hard
+christopher hitchens,atheism,earth,global_easy
+christopher hitchens,opposition to god,protect the body,global_easy
+chromosomes,fetuses,savings,global_easy
+chromosomes,genetic screening,intermittency,global_easy
+chromosomes,heritable diseases,rangel center,global_easy
+chromosomes,parents,education,global_easy
+church,abstinence only education,barrier methods of contraception,hard
+church,catholic church,barrier methods of contraception,hard
+church,paul vi,barrier methods of contraception,hard
+church's,catholic church,barrier methods of contraception,easy
+cigar,light cigarettes,growing of tobacco,hard
+cigar,smoke free workplaces,growing of tobacco,hard
+cigar,smoking restrictions,growing of tobacco,hard
+cigar,tobacco product,growing of tobacco,hard
+cigar,type of tobacco,growing of tobacco,hard
+cigar smokers,growing of tobacco,states,easy
+cigarette,growing of tobacco,consumption,hard
+cigarette,pipe,consumption,hard
+cigarette,smoking rates,consumption,hard
+cigarettes,light cigarettes,bars and restaurants,easy
+cigarettes,marlboro,pesticides,easy
+cigarettes,tobacco consumption,subsidize,easy
+cigars,cigar smokers,advertising and promotion,easy
+cigars,pipe,bars and restaurants,easy
+cigars,smoke free workplaces,states,easy
+cigars,tobacco consumption,advertising and promotion,easy
+cigars,type of tobacco,states,easy
+civilian service,national service,military training,hard
+classical education,school activities,day,easy
+classification,military documents,anat kamm,hard
+classified,military documents,sexual revolution,global_easy
+classified information,anat kamm,punished with imprisonment,easy
+classified information,leak,punished with imprisonment,easy
+classified information,leaking,haaretz,easy
+classified information,military documents,haaretz,easy
+cleavage stage biopsy,fetuses,ultrasound,hard
+cleavage stage biopsy,genetic screening,chromosomes,hard
+coarse language,freedom of speech,government,easy
+cognatic primogeniture,monarchy,renewable electricity,global_easy
+cold war,united states,nuclear weapons,hard
+cold war,policy of deterrence,states,hard
+cold war,us,states,hard
+collective,collective bargaining rights,decent work,easy
+collective action clause,austerity measures,budget deficit,hard
+collective action clause,debts,sovereign debt,hard
+collective action clause,economy,budget deficit,hard
+collective bargaining,collective bargaining rights,delegates,hard
+collective bargaining,employers and workers,delegates,hard
+collective bargaining,labour relations,delegates,hard
+collective bargaining,trades unions,delegates,hard
+college or university,education,voucher scheme,hard
+color religion sex,affirmative action,rights,hard
+columbine high school,minors,nelson,global_easy
+commercial casinos,gambling,british nationality act,global_easy
+commissioner for refugees,right to asylum,resettlement,hard
+committee for refugees,right to asylum,parties,global_easy
+commonwealth of nations,monarchy,grace of god,easy
+commonwealth of nations,oath of allegiance,grace of god,easy
+commonwealth realms,monarchy,online casinos,global_easy
+commonwealth realms,queen elizabeth,boat,global_easy
+comprehensive sex education,barrier methods of contraception,pontifical council,easy
+comprehensive sex education,hiv and aids,infections,easy
+comprehensive sex education,sexually transmitted disease,pontifical council,easy
+compulsory education,children,apprenticeship,easy
+compulsory education,school leaving age,apprenticeship,easy
+compulsory sterilization programs,fertility rate,one child policy,hard
+computer games,gameplay,character,hard
+computer games,nintendo,character,hard
+computer games,online games,columbine high school,hard
+computer games,violent video games,character,hard
+concussion,boxing,american football,hard
+concussion,knockout,american football,hard
+concussion,professional boxing,american football,hard
+concussions,boxing,playing video games,global_easy
+condom,barrier methods of contraception,catholic church,easy
+condoms,barrier methods of contraception,catholic church,hard
+condoms,sexuality education,catholic church,hard
+condoms,sexually transmitted infection,catholic church,hard
+condoms,spread of hiv,catholic church,hard
+condorcet methods,elections,contractions,global_easy
+condorcet winner,candidates,nicotinic acetylcholine receptors,global_easy
+condorcet winner,elections,school board,global_easy
+condorcet winner,open primaries,content,global_easy
+congress,congressional earmarks,nelson,easy
+congressional budget office,congressional earmarks,governor of alaska,easy
+conscientious objectors,national service,conscript,hard
+conscript,national service,unconventional oil,global_easy
+conscripted,national service,exempt,hard
+conscription,draftees,volunteer,hard
+conscription,national service,volunteer,hard
+conservation,endangered species,anthropocentric,hard
+conservation biologists,deep ecologists,world youth day,global_easy
+conservation biologists,endangered species,nations,global_easy
+conservation biology,ecology,anthropocentrism,hard
+conservation biology,endangered species,anthropocentrism,hard
+consoles,violent video games,minors,easy
+constitutional monarchies,edward viii,number of students,global_easy
+constitutional monarchies,monarchy,north,global_easy
+constitutional monarchy,european monarchies,end,global_easy
+constitutional monarchy,monarchy,american tobacco,global_easy
+contact between players,boxing,collective bargaining rights,global_easy
+contact sport,boxing,straight punch thrown,hard
+contact sport,professional boxing,straight punch thrown,hard
+contact sports,boxing,extended arm,easy
+content,block,freedom of speech,hard
+content,censor,web companies,hard
+content,google search,web companies,hard
+content,search results,web companies,hard
+content rating,violent video games,route,global_easy
+continent,antarctic continent,mountains,hard
+contraception,barrier methods of contraception,catholic church,hard
+contraception,nfp,catholic church,hard
+contraception,periodic abstinence,catholic church,hard
+contraceptives,barrier methods of contraception,kutner and olson,global_easy
+controlled substances,performance enhancing drugs,photo identification,global_easy
+controlled substances,professional sports,labour market,global_easy
+controlled substances act,performance enhancing drugs,professional sports,hard
+conventional crude oil,keystone xl pipeline,steam injection,hard
+copyright,infringement,us,global_easy
+copyright,intellectual property rights,computer information,global_easy
+copyright,public property,myanmar,global_easy
+copyright,wipo,meritocratic,global_easy
+copyright holder,infringement,kachin state,global_easy
+copyright holder,intellectual property rights,sex discrimination,global_easy
+copyright law,intellectual property rights,john locke,hard
+copyright law,paris convention,john locke,hard
+copyright law,patent rights,john locke,hard
+copyright law,property systems,john locke,hard
+copyright laws,intellectual property rights,ecology,global_easy
+copyright system,intellectual property rights,voter intimidation,global_easy
+copyrights,copyright system,family planning services,global_easy
+copyrights,intellectual property rights,military,global_easy
+copyrights,patent rights,mamluks,global_easy
+corporate social responsibility,companies,google,hard
+corrupt,bribery,criminalize,hard
+corruption,bribery,transparency,hard
+corruption in china,bribery,election campaigns,easy
+corruption perceptions index,bribery,bank accounts,easy
+corruption perceptions index,widespread corruption,bank accounts,easy
+cosmological argument,atheism,god's,hard
+counter punch,boxing,skilled and unskilled,global_easy
+counter recruiters,national service,draft dodgers,easy
+counter recruitment,national service,exempt,easy
+countries under surveillance,china,great firewall,hard
+craft union,collective bargaining rights,tea party movement,global_easy
+craft union,trades unions,mexican american,global_easy
+craft unionism,trades unions,industrial organizations,hard
+craft unions,collective bargaining rights,higher wages,hard
+craft unions,trades unions,higher wages,hard
+creator god,atheism,esping andersen,global_easy
+criticism of religion,atheism,mlb,global_easy
+critics of religion,atheism,exist,global_easy
+crown,elective monarchy,capitol hill,global_easy
+crown,monarchy,periodic abstinence,global_easy
+crude oil,keystone xl pipeline,compressor stations,easy
+curriculum,classroom,settings,easy
+cycling,professional sports,performance enhancing drugs,hard
+damage,boxing,central intelligence agency,global_easy
+daniel dennett,atheism,elective monarchy,global_easy
+dawkins,atheism,existence and nature,hard
+dea,performance enhancing drugs,professional sports,hard
+dea,systematic doping,professional sports,hard
+debt,budget,europe,hard
+debt,debt swap,savings,hard
+debt,harsh austerity,social support,hard
+debt,loan,social support,hard
+debt,sovereign debt,social support,hard
+debt,spending,social support,hard
+debt crisis,austerity measures,private holders,hard
+debt crisis,debt swap,private holders,hard
+debt crisis,harsh austerity,private holders,hard
+debt crisis,sovereign default,private holders,hard
+debt crisis,troika,private holders,hard
+debt level,austerity measures,europe,hard
+debt level,budget,europe,hard
+debt level,loan,europe,hard
+debt level,sovereign debt,europe,hard
+debt restructure agreement,debt swap,germany,hard
+debt restructure agreement,economy,budget deficit,hard
+debt restructure agreement,sovereign debt,recession,hard
+debt restructure agreement,sovereign default,troika,hard
+debts,austerity measures,social support,hard
+deep ecologists,endangered species,der spiegel,global_easy
+deep ecology,endangered species,sustainability,hard
+defamation,freedom of speech,imminent lawless action,hard
+defamation,slander,imminent lawless action,hard
+defamation laws,freedom of speech,government,hard
+defamatory,freedom of speech,government,easy
+defending state,states,us,easy
+defending states,states,us,easy
+defensive style,boxing,germany,global_easy
+deficit,austerity measures,europe,hard
+deficit,budget,year bonds,hard
+deficit,recession,social support,hard
+deficit,sovereign debt,year bonds,hard
+deficit spending,austerity measures,social support,hard
+deficit spending,budget,europe,hard
+deficit spending,debts,europe,hard
+deficit spending,spending,social support,hard
+deities exist,atheism,opinions,global_easy
+dementia pugilistica,boxing,employment,global_easy
+democracy,us,myanmar,hard
+democratic national committee,candidates,open primaries,hard
+democratic national committee,elections,open primaries,hard
+democratic party,democratic governments,voters,hard
+demographic,one child policy,china,easy
+department of education,education,tax,easy
+department of education,voucher scheme,tax,easy
+destruction of habitat,endangered species,tropical,hard
+destruction of habitat,human,tropical,hard
+deterrence,nuclear weapons,nations,hard
+developing nuclear weapons,nations,us,hard
+developing nuclear weapons,nuclear weapons,states,hard
+diagnosis,genetic screening,fetuses,hard
+diagnosis,heritable diseases,fetuses,hard
+diagnosis,screening test,amniocentesis,hard
+diagnosis,test results,amniocentesis,hard
+disclosure,leaking,military documents,hard
+discourse of race,affirmative action,arriving,global_easy
+discretionary spending,congressional earmarks,american jobs act,easy
+discrimination,ageist,mandatory retirement age,hard
+discrimination,affirmative action,mandatory retirement age,hard
+discrimination,racial differences,mandatory retirement age,hard
+discrimination against women,affirmative action,energy,global_easy
+discrimination in employment,affirmative action,indiana,global_easy
+disorders,genetic screening,fetuses,hard
+disorders,heritable diseases,fetuses,hard
+displaced people,right to asylum,week in september,global_easy
+diversity,habitat loss,invasive species,hard
+dna,fetuses,yield,global_easy
+dna,genetic screening,code,global_easy
+dna,heritable diseases,tax reform act,global_easy
+dna,parents,brandenburg v ohio,global_easy
+documents,anat kamm,official secrets act,hard
+documents,classified,official secrets act,hard
+documents,military documents,official secrets act,hard
+domestic work,housewives,capabilities approach,hard
+domestic work,work,capabilities approach,hard
+donor eggs,fetuses,heritable diseases,hard
+donor eggs,parents,heritable diseases,hard
+doping,athlete,league,easy
+doping,hormone,left ventricle,easy
+doping,hormones,league,easy
+doping,professional sports,left ventricle,easy
+dprk,nuclear weapons,states,hard
+draft,military conscription,rangel center,easy
+draft,national service,rangel center,easy
+draft dodgers,national service,exhaustive ballot,global_easy
+draft law,national service,american tobacco,global_easy
+draft registration,national service,rich,global_easy
+drafted,draft dodgers,volunteer,hard
+drafted,military training,volunteer,hard
+drafted,national service,volunteer,hard
+draftees,national service,federal elections,global_easy
+drug,hormones,payments,global_easy
+drug,performance enhancing drugs,heavy water,global_easy
+drug,professional sports,george w bush,global_easy
+drug,schedule iii,tangible,global_easy
+drug,systematic doping,bribery,global_easy
+drug abuse,abuse potential,prescription,hard
+drug abuse,performance enhancing drugs,prescription,hard
+drugs,androgenic steroids,goidel,global_easy
+drugs,hormones,earmark,global_easy
+drugs,mitchell report,abstinence only education,global_easy
+drugs,performance enhancing drugs,usa patriot act,global_easy
+drugs,prescription,violent content,global_easy
+drugs,professional sports,discrimination in employment,global_easy
+drugs,random testing,anthropocentrism,global_easy
+drugs,substance dependence,chance,global_easy
+duchess of cornwall,monarchy,banned in australia,global_easy
+duke of york,monarchy,slot machines,global_easy
+earmark,congressional earmarks,tax reform act,global_easy
+east antarctica,antarctic continent,exploitation,hard
+east german athlete,performance enhancing drugs,hormones,hard
+ecological,endangered species,reactors,global_easy
+ecologists,endangered species,conventions,global_easy
+ecology,endangered species,general election,global_easy
+economic,economic success,work,hard
+economics,monetary,wages,hard
+economy,austerity measures,europe,hard
+economy,american jobs act,europe,hard
+ecosystem,ecologists,public education,global_easy
+ecosystem,ecology,successful ageing,global_easy
+ecosystem,endangered species,arrival,global_easy
+ecosystem services,endangered species,criticism of religion,global_easy
+ecosystems,endangered species,human,hard
+education,education,childcare voucher scheme,hard
+education,local public schools,childcare voucher scheme,hard
+education,local school district,childcare voucher scheme,hard
+education,voucher scheme,childcare voucher scheme,hard
+education,classroom,childcare voucher scheme,hard
+education,school leaving age,childcare voucher scheme,hard
+education,children,childcare voucher scheme,hard
+education,year round schooling,childcare voucher scheme,hard
+educational,year round schooling,school leaving age,hard
+edward viii,monarchy,europe,global_easy
+effects of smoking,american tobacco,pipe,hard
+egg,fetuses,parents,hard
+election,democratic governments,republican,hard
+election,polling station,identification,hard
+election,voters,republican,hard
+election,candidates,identification,hard
+election,elections,photo identification,hard
+election,exhaustive ballot,identification,hard
+election,open primaries,disenfranchise,hard
+election,super tuesday,republican,hard
+election,democratic process,disenfranchise,hard
+election,opinion poll,disenfranchise,hard
+election,opinion polls,disenfranchise,hard
+election,presidential election,identification,hard
+election fraud,federal elections,absentee ballots,hard
+election results,democratic process,opinion polls,hard
+elections,democratic governments,counted,hard
+elections,federal elections,photo identification,hard
+elections,polling station,photo identification,hard
+elections,voters,counted,hard
+elections,alternative vote,counted,hard
+elections,candidates,disenfranchise,hard
+elections,democratic national committee,photo identification,hard
+elections,elections,photo identification,hard
+elections,open primaries,photo identification,hard
+elections,republican party,disenfranchise,hard
+elections,voting system criteria,disenfranchise,hard
+elective monarchies,monarchy,cultural revolution,global_easy
+elective monarchy,monarchy,sterilized,global_easy
+electoral,elections,open primaries,hard
+electoral fraud,voters,identification,hard
+electrical,energy supply,anat kamm,global_easy
+electricity,energy supply,wind speed,hard
+electricity,renewable energy technologies,capacity credit,hard
+electricity,wind energy projects,wind speed,hard
+electricity,wind power,wind speed,hard
+electricity generation,energy supply,china,global_easy
+electricity generation,wind power,income tax,global_easy
+electricity production,energy supply,chance,global_easy
+electricity production,wind power,mountains,global_easy
+electronic voting machines,polling station,photo identification,hard
+electronic voting machines,voters,ballot paper,hard
+eligible,voters,photo identification,easy
+ellsberg and russo,anat kamm,wikileaks documents,global_easy
+ellsberg and russo,leaking,enriched uranium,global_easy
+embezzlement,bribery,national wealth,easy
+embryo,donor eggs,invasive test,easy
+embryo,egg,invasive testing,easy
+embryo,fetuses,invasive testing,easy
+embryo,genetic screening,invasive test,easy
+embryo,heritable diseases,performed,easy
+embryo,parents,invasive testing,easy
+embryo,prenatal testing,invasive test,easy
+embryo,uterus,performed,easy
+embryo transfer,fetuses,parents,hard
+employers and workers,trades unions,leaking,global_easy
+employment,mandatory retirement age,anat kamm,global_easy
+employment,american jobs act,nuclear explosion,global_easy
+employment opportunity,affirmative action,modern patent,global_easy
+employment opportunity commission,affirmative action,coarse language,global_easy
+endangered species act,endangered species,libertarian extension,hard
+energy,nuclear weapons,keystone xl pipeline,hard
+energy,energy supply,keystone xl pipeline,hard
+energy,national renewable energy,keystone xl pipeline,hard
+energy,power stations,keystone xl pipeline,hard
+energy,walney wind farm,keystone xl pipeline,hard
+energy,wind power,keystone xl pipeline,hard
+energy policy act,energy supply,output,easy
+energy policy act,renewable energy technologies,walney wind farm,easy
+energy policy act,wind power,intermittency,easy
+energy sources,energy supply,plants,hard
+energy sources,wind power,intermittency,hard
+enforcement immigration officers,right to asylum,reading and math,global_easy
+england,monarchy,hong kong,global_easy
+england and scotland,monarchy,absolute monarchy,hard
+enriched uranium,nuclear weapons,us,easy
+entertainment software rating,rating board,minors,hard
+entertainment software rating,rating board esrb,video game sales,hard
+entertainment software rating,violent video games,minors,hard
+environmental tobacco smoke,anti smoking movement,nicotinic acetylcholine receptors,hard
+environmental tobacco smoke,rates of smoking,nicotinic acetylcholine receptors,hard
+environmental tobacco smoke,smoking rates,nicotinic acetylcholine receptors,hard
+equal employment opportunity,affirmative action,civil service,easy
+equal employment opportunity,jim crow,civil service,easy
+equal employment opportunity,mexican american,civil service,easy
+equal opportunity,affirmative action,applicants,easy
+equality,affirmative action,illegal entrant,global_easy
+equality of opportunity,affirmative action,civil service,easy
+equality of outcome,affirmative action,native,easy
+equality of outcome,employment opportunity commission,native,easy
+esping andersen,social support,europe,hard
+espionage,leaking,punished with imprisonment,hard
+espionage act,military documents,wikileaks released,hard
+ethnicity,affirmative action,species loss,global_easy
+european central bank,europe,austerity measures,hard
+european central bank,loan,budget,hard
+european monarchies,monarchy,card,global_easy
+eurozone,europe,budget deficit,hard
+eurozone,germany,troika,hard
+exhaustive ballot,candidates,donor eggs,global_easy
+exhaustive ballot,elections,school vouchers,global_easy
+exhaustive ballot,open primaries,iran's nuclear program,global_easy
+existence of god,atheism,evil exists,hard
+existence of god,critics of religion,evil exists,hard
+existence of god,divine,evil exists,hard
+existence of gods,atheism,daniel dennett,hard
+existence of gods,creator god,daniel dennett,hard
+existence of gods,deities exist,daniel dennett,hard
+existence of gods,theological noncognitivism,daniel dennett,hard
+existing copyright law,fair dealing,innovation,easy
+existing copyright law,intellectual property rights,innovation,easy
+existing copyright law,paris convention,monopolies,easy
+existing copyright law,property systems,monopolies,easy
+exit poll,opinion polls,majority opinion,hard
+exit poll,presidential election,majority opinion,hard
+expedition,antarctic continent,mountains,hard
+explosion,nuclear weapons,nations,easy
+expression,coarse language,reasonable restrictions,hard
+expression,freedom of speech,reasonable restrictions,hard
+extinct,endangered species,sustainability,hard
+extinction,endangered species,reduce future deficits,global_easy
+extinction event,endangered species,nuclear test,global_easy
+fair dealing,intellectual property rights,ellsberg and russo,global_easy
+fairness doctrine,freedom of speech,government,hard
+faith,atheism,prime mover,hard
+faith and reason,atheism,central intelligence agency,global_easy
+falun gong,china,family planning services,easy
+family,housewives,work,hard
+family,one child policy,work,hard
+family planning,barrier methods of contraception,eugenic,easy
+family planning,contraceptives,paul vi,easy
+family planning,china,catholic church,easy
+family planning,one child policy,sexually transmitted disease,easy
+family planning programs,china,walney wind farm,global_easy
+family planning programs,one child policy,strategy games,global_easy
+fat man,nuclear weapons,nations,easy
+fear of persecution,asylum applications,resettlement,hard
+fear of persecution,right to asylum,resettlement,hard
+federal elections,democratic governments,photo identification,easy
+federal elections,polling station,photo identification,easy
+federal elections,voters,photo identification,easy
+federal migration service,right to asylum,edward viii,global_easy
+federal wire act,gambling,atlantic city,easy
+female condom,artificial contraception,roman catholic church,hard
+female condom,barrier methods,diseases,hard
+female condom,barrier methods of contraception,diseases,hard
+female condom,sexually transmitted infection,diseases,hard
+feminist,housewives,work,easy
+feminist economics,housewives,wages,hard
+feminist economics,work,wages,hard
+feminist economists,housewives,work,hard
+fighter,boxing,number of rounds,hard
+fighters,boxing,capacity credit,global_easy
+filtering,censor,youtube,hard
+filtering,google search,chinese authorities,hard
+filtering,search results,computer information,hard
+first person shooter,playing video games,studies,easy
+first person shooter,violent video games,studies,easy
+first sale doctrine,copyright system,classification board,global_easy
+first sale doctrine,intellectual property rights,criminal casework team,global_easy
+fission,nuclear weapons,nuclear weapons tests,hard
+fission,uranium enrichment,nuclear weapons tests,hard
+fission chain reaction,nuclear weapons,nations,easy
+fist,boxing,single winner,global_easy
+foreign nationals,right to asylum,existence and nature,global_easy
+form of government,monarchy,holy roman empire,hard
+formal education,children,school leaving age,hard
+forms of corruption,bribery,europe,global_easy
+forms of gambling,gambling,card,hard
+forms of violence,violent video games,minors,easy
+fossil fuels,energy supply,wind power,hard
+fraud,ballot stuffing,ballot paper,hard
+fraud,photo identification,voters,hard
+free burma coalition,human rights abuses,us,easy
+free burma coalition,myanmar,township,easy
+free speech,freedom of speech,court of appeals,easy
+free speech,slander and libel,court of appeals,easy
+free speech fight,free speech fights,banned,easy
+free speech fight,freedom of speech,case,easy
+free speech fights,freedom of speech,government,hard
+free speech zones,freedom of speech,government,hard
+free will argument,atheism,columbine high school,global_easy
+freedom,freedom of speech,censored,hard
+freedom of association,collective bargaining rights,anglo saxon system,hard
+freedom of association,organize,anglo saxon system,hard
+freedom of association,trades unions,industrial organizations,hard
+freedom of expression,defamatory,classification board,hard
+freedom of expression,freedom of speech,daniel domscheit berg,hard
+freedom of information,whistleblower,central intelligence agency,hard
+freedom of press,freedom of speech,brandenburg v ohio,hard
+freedom of speech,freedom of speech,redress of grievances,hard
+freedom of speech,slander,official secrets act,hard
+fusion fuel,nuclear weapons,nations,easy
+gam anon,gambling,atomic energy,global_easy
+gamblers,gambling,payment processors,easy
+gambling,gam anon,human rights held,global_easy
+gambling,gambling,north,global_easy
+gambling,odds,macau,global_easy
+gambling industry,gambling,polling station,global_easy
+game,game content rating,violent content,hard
+game,violent video games,minors,hard
+game content rating,violent video games,minors,easy
+gameplay,violent video games,minors,easy
+games,game content rating,violent content,hard
+games,strategy games,kutner and olson,hard
+games,violent video games,violent content,hard
+games of chance,gambling,payment processors,easy
+gaming,bet,minors,hard
+gaming,gambling,minors,hard
+gaming,slot machines,minors,hard
+gaming,violent video games,minors,hard
+gas pipelines,keystone xl pipeline,route,hard
+gdp,budget,spending,hard
+gdp,economy,recession,hard
+gdp growth rates,austerity measures,debts,hard
+gdp growth rates,economy,debts,hard
+gdp growth rates,recession,debts,hard
+gender imbalance,china,tax credits,global_easy
+gender imbalance,one child policy,discourse of race,global_easy
+gene therapy,genetic screening,fetuses,hard
+gene therapy,heritable diseases,fetuses,hard
+general election,democratic process,paid,global_easy
+general election,opinion polls,myanmar,global_easy
+genetic,fetuses,maternal,hard
+genetic,genetic screening,donor eggs,hard
+genetic,heritable diseases,donor eggs,hard
+genetic,screening test,donor eggs,hard
+genetic diversity,endangered species,tropical,hard
+genetic diversity,habitat loss,tropical,hard
+genetic diversity,sustainability,tropical,hard
+genetic test,fetuses,donor eggs,easy
+genetic test,gene therapy,egg,easy
+genetic test,genetic screening,uterus,easy
+genetic test,heritable diseases,trimester,easy
+genetic test,maternal serum,uterus,easy
+genetic test,screening test,donor eggs,easy
+genetic testing,chromosomes,break lasts,global_easy
+genetic testing,disorders,smoking among women,global_easy
+genetic testing,fetuses,capacity credit,global_easy
+genetic testing,gene therapy,athlete,global_easy
+genetic testing,genetic screening,hall of fame,global_easy
+genetic testing,heritable diseases,unconventional oil,global_easy
+genetic testing,invasive procedure,prerogative,global_easy
+genetic testing,invasive test,business,global_easy
+genetic testing,invasive testing,snuff,global_easy
+genetic testing,maternal serum,sovereign default,global_easy
+genetic testing,parents,seats,global_easy
+genetic testing,prenatal testing,threat,global_easy
+genetic testing,test results,discretionary spending,global_easy
+george w bush,us,states,easy
+germany,europe,austerity measures,hard
+gmail,google,search results,easy
+gmail accounts,google,china,easy
+god,atheism,daniel dennett,easy
+god delusion,atheism,kosher slaughter,easy
+god exists,atheism,science,hard
+god's existence,atheism,paid,global_easy
+god's existence,god's,observers,global_easy
+golden shield project,censor,search results,hard
+golden shield project,china,search results,hard
+golden shield project,great firewall,computer information,hard
+golden shield project,internet security,tcp,hard
+gondwana,antarctic continent,australia,hard
+google,companies,chinese authorities,hard
+google,google,china,hard
+google,google search,chinese authorities,hard
+google,search results,great firewall,hard
+google china,censor,internet security,hard
+google china,china,internet security,hard
+google china,gmail accounts,hong kong,hard
+google china,google,internet security,hard
+google china,google search,hong kong,hard
+google china,search results,internet security,hard
+google search,google,china,hard
+google search,search results,censor,hard
+google's search engine,censor,china,hard
+google's search engine,google,china,hard
+google's search engine,search results,china,hard
+government deficit,austerity measures,europe,hard
+government spending,congressional earmarks,chabot,easy
+government spending,tea party movement,chabot,easy
+governor general,governor,powers,hard
+governor general,monarchy,powers,hard
+grand theft auto,kutner and olson,online games,hard
+grand theft auto,playing video games,sexual violence,hard
+grand theft auto,violent video games,minors,hard
+granted asylum,right to asylum,federal reserve,global_easy
+great firewall,censor,general election,global_easy
+great firewall,china,license,global_easy
+great recession,american jobs act,gene therapy,global_easy
+greece,europe,budget,hard
+greece,sovereign default,budget,hard
+greek,debts,germany,hard
+greek,europe,budget,hard
+greek debt,austerity measures,social support,hard
+greek debt,debt swap,social support,hard
+greek debt,europe,social support,hard
+greek debt,harsh austerity,social support,hard
+greek debt,sovereign default,social support,hard
+greek government,austerity measures,germany,hard
+greek government,europe,germany,hard
+greek government,sovereign default,citizens,hard
+greek government bonds,debts,recession,hard
+greek government bonds,europe,austerity measures,hard
+greek government debt,austerity measures,spending,hard
+greek government debt,budget,year bonds,hard
+greek government debt,economy,year bonds,hard
+greek government debt,europe,year bonds,hard
+greek governmental bonds,economy,troika,hard
+greek governmental bonds,europe,troika,hard
+greek governmental bonds,government deficit,loan,hard
+greenhouse gas emissions,keystone xl pipeline,wind power,hard
+greenhouse gas emissions,electricity generation,energy supply,hard
+greenhouse gases,keystone xl pipeline,api,hard
+group of workers,collective bargaining rights,bargaining,hard
+group of workers,organize,delegates,hard
+group of workers,trades unions,delegates,hard
+growth hormone,performance enhancing drugs,schedule iii,hard
+growth hormone,professional sports,olympic champion,hard
+grutter v bollinger,affirmative action,patent laws,global_easy
+guard position,boxing,damage,global_easy
+haaretz,anat kamm,military documents,easy
+habitat,endangered species,mitchell report,global_easy
+habitat destruction,endangered species,medicare,global_easy
+habitat loss,endangered species,republican primary,global_easy
+hand,boxing,opinion poll,global_easy
+harsh austerity,austerity measures,europe,hard
+harsh austerity,social support,europe,hard
+hate speech,brandenburg v ohio,government,easy
+hate speech,defamation laws,government,easy
+hate speech,freedom of speech,government,easy
+head of state,elected,barrier methods of contraception,global_easy
+head of state,elective monarchy,ellsberg and russo,global_easy
+head of state,monarchy,contractions,global_easy
+heavy water,nuclear weapons,us,easy
+hereditary monarchy,monarchy,anti smoking movement,global_easy
+high school,year round schooling,cycling,global_easy
+higher education,education,school leaving age,hard
+higher wages,collective bargaining rights,housewives,easy
+higher wages,trades unions,housewives,easy
+higher wages,work,housewives,easy
+highly enriched uranium,nuclear weapons,states,easy
+hiroshima and nagasaki,nuclear weapons,nations,easy
+hiv,barrier methods of contraception,catholic church,easy
+hiv,contraceptives,men and women,easy
+hiv,sexually transmitted disease,men and women,easy
+hiv and aids,barrier methods of contraception,catholic church,easy
+holy roman empire,monarchy,china and india,global_easy
+home,housewives,work,hard
+hong kong,china,ratio,easy
+hooks and uppercuts,boxing,number of voters,global_easy
+hormone,performance enhancing drugs,professional sports,hard
+hormones,performance enhancing drugs,opinions,global_easy
+house of representatives,bill,income tax,easy
+household,family,paid work,hard
+household,home,paid work,hard
+household,housewives,paid work,hard
+household,work,paid,hard
+houses of congress,congressional earmarks,maternal,global_easy
+human genetic engineering,chromosomes,uterus,hard
+human genetic engineering,fetuses,prenatal testing,hard
+human genetic engineering,heritable diseases,egg,hard
+human growth hormone,performance enhancing drugs,olympic champion,hard
+human rights,freedom of speech,us,hard
+human rights,rights of man,us,hard
+human rights abuses,myanmar,us,easy
+human rights organizations,myanmar,us,hard
+humanae vitae,catholic church,barrier methods,hard
+ice,antarctic continent,volcano,easy
+ice sheet,antarctic continent,human genome,easy
+ice shelf,antarctic continent,international law,easy
+identification,photo identification,polling station,hard
+illegal entrant,right to asylum,insects,global_easy
+illegal entrants,granted asylum,arrival,easy
+illegal entrants,refugee camps,arrival,easy
+illegal entrants,right to asylum,arrival,easy
+illegal gambling,gambling,running mate,global_easy
+illegal gambling,online casinos,young men,global_easy
+illegal immigrants,refugee camps,nationality,hard
+illegal immigrants,right to asylum,nationality,hard
+immigrants,illegal entrant,school leaving age,global_easy
+immigrants,right to asylum,universities,global_easy
+immigration,right to asylum,violent acts,global_easy
+immigration control,committee for refugees,boxing,global_easy
+immigration control,foreign national,draft law,global_easy
+immigration control,right to asylum,public housing,global_easy
+immigration officers,right to asylum,nationality,hard
+immigration service,right to asylum,atheism,global_easy
+imminent lawless action,freedom of speech,government,easy
+income tax,median household income,economic policy institute,hard
+index on censorship,freedom of speech,government,hard
+india and pakistan,states,defending states,easy
+industrial organizations,trades unions,collective bargaining rights,hard
+industrial union,collective bargaining rights,organize,hard
+industrial union,trades unions,organize,hard
+industrial unionism,collective bargaining rights,unskilled workers,easy
+industrial unionism,craft union,unskilled workers,easy
+industrial unionism,trades unions,unskilled workers,easy
+information,intelligence service,haaretz,hard
+information,leak,haaretz,hard
+information,leaking,anat kamm,hard
+information,military documents,anat kamm,hard
+information,wikileaks released,anat kamm,hard
+infringement,intellectual property rights,motion involves lifting,global_easy
+injury,boxing,muay thai,hard
+instant runoff voting,candidates,electoral,hard
+instant runoff voting,elections,proportional representation,hard
+instant runoff voting,open primaries,proportional representation,hard
+instant runoff voting,single winner,proportional representation,hard
+intellectual,intellectual property rights,patent laws,easy
+intellectual property,intellectual property rights,mandatory retirement age,global_easy
+intellectual property,patent rights,quarter,global_easy
+intellectual property law,infringement,republican party,global_easy
+intellectual property law,intellectual property rights,u.s,global_easy
+intellectual property law,property systems,screening test,global_easy
+intellectual property law,public property,mainland chinese,global_easy
+intellectual property laws,intellectual property rights,scarce,easy
+intellectual property laws,wipo,scarce,easy
+intellectual property rights,intellectual property rights,antiviral drugs,easy
+intellectual property rights,patent laws,antiviral drugs,easy
+intelligence service,military documents,leaking,hard
+intercourse,barrier methods of contraception,catholic church,easy
+international labour conference,trades unions,collective bargaining rights,hard
+international olympic committee,professional sports,systematic doping,hard
+international refugee organization,right to asylum,universities,global_easy
+internet,censor,china,hard
+internet,gmail accounts,china,hard
+internet,google,china,hard
+internet,google search,china,hard
+internet,great firewall,china,hard
+internet,internet security,china,hard
+internet,search results,china,hard
+internet,web companies,china,hard
+internet censorship,censor,web companies,hard
+internet censorship,china,csr policy,hard
+internet censorship,google,web companies,hard
+internet censorship,google search,csr policy,hard
+internet censorship,search results,web companies,hard
+internet censorship,youtube,csr policy,hard
+internet gambling,gambling,labor day,global_easy
+internet security,google,search results,hard
+internet users,google,tcp,hard
+internet users,google search,search results,hard
+internet users,user,web companies,hard
+invasive,invasive procedure,uterus,hard
+invasive,invasive test,genetic screening,hard
+iran's nuclear program,nuclear weapons,pipe,global_easy
+island,antarctic continent,exploitation,easy
+iucn red list,endangered species,libertarian extension,easy
+ivf,egg,maternal,hard
+ivf,fetuses,parents,hard
+jim crow,affirmative action,terms and conditions,global_easy
+jim crow laws,affirmative action,shan states,global_easy
+jobs,work,housewives,hard
+jobs,american jobs act,housewives,hard
+jobs created,american jobs act,reduce future deficits,easy
+jobs lost,american jobs act,tax reform act,easy
+jobs lost,great recession,tax reform act,easy
+joe frazier,boxing,number of rounds,easy
+john l sullivan,boxing,economy,global_easy
+john paul,catholic church,barrier methods of contraception,hard
+john paul ii,catholic church,barrier methods of contraception,hard
+john paul ii,paul vi,barrier methods of contraception,hard
+john paul ii's,catholic church,st peter's,hard
+join a union,craft union,collective bargaining rights,hard
+join a union,trades unions,labour relations,hard
+joined the npt,us,executive branch,global_easy
+julian assange,daniel domscheit berg,ellsberg and russo,hard
+julian assange,leaking,anat kamm,hard
+junta,human rights abuses,us,easy
+junta,myanmar,kachin state,easy
+kachin state,myanmar,us,easy
+kenji nagai,myanmar,us,easy
+keystone pipeline,keystone xl pipeline,bituminous sands,hard
+keystone xl,keystone xl pipeline,cushing oklahoma,hard
+keystone xl pipeline,bituminous sands,us,global_easy
+keystone xl pipeline,keystone xl pipeline,modern patent,global_easy
+keywords,search results,censor,hard
+kilotons of tnt,nuclear weapons,nations,easy
+king,monarchy,powers,hard
+king is dead,monarchy,rangel center,global_easy
+kutner and olson,violent video games,minors,hard
+labor,collective bargaining rights,skilled,hard
+labor,trades unions,skilled,hard
+labour,collective bargaining rights,delegates,easy
+labour,labour relations,delegates,easy
+labour,trades unions,membership,easy
+labour market,american jobs act,contractions,global_easy
+lan na,myanmar,us,easy
+largest wind farm,energy supply,mitchell report,global_easy
+largest wind farm,wind power,violent content,global_easy
+las vegas,gambling,online lotteries,hard
+law on refugees,displaced people,boat,easy
+law on refugees,right to asylum,criminal casework team,easy
+lead hand,boxing,muay thai,easy
+league,professional sports,performance enhancing drugs,easy
+leak,anat kamm,number of voters,global_easy
+leak,leaking,kilotons of tnt,global_easy
+leak,military documents,citizens,global_easy
+level playing field,affirmative action,god's,global_easy
+libel,freedom of speech,government,easy
+liberal eugenics,genetic screening,prenatal testing,hard
+liberal eugenics,heritable diseases,amniocentesis,hard
+license,intellectual property rights,protect the head,global_easy
+line of succession,elective monarchy,species extinctions,global_easy
+line of succession,monarchy,volunteer,global_easy
+liquid pipelines,keystone xl pipeline,house arrest,global_easy
+live birth,fetuses,maternal,hard
+live birth,parents,maternal,hard
+live birth rate,fetuses,heritable diseases,hard
+local public schools,education,economy,global_easy
+local public schools,voucher scheme,spending,global_easy
+local school district,education,voucher scheme,hard
+local school districts,education,voucher scheme,hard
+loss of biodiversity,endangered species,opposition to god,global_easy
+loss of biodiversity,habitat loss,chair,global_easy
+loss of biodiversity,sustainability,chair,global_easy
+loss of consciousness,boxing,hall of fame,easy
+lotteries,gambling,slot machines,hard
+lottery,gambling,kilotons of tnt,global_easy
+lottery,gambling industry,nintendo,global_easy
+lottery ticket,bet,slot machines,hard
+lottery ticket,gambling,slot machines,hard
+lottery ticket,wagering,slot machines,hard
+lotto,gambling,anthropocentric,global_easy
+low wages,work,housewives,easy
+lung cancer,smoking restrictions,smokeless tobacco,hard
+macau,china,one child policy,easy
+mainland china,china,one child policy,hard
+mainland chinese,china,censor,easy
+mainstream economics,work,wages,hard
+major league baseball,mlb,performance enhancing drugs,hard
+major league baseball,professional sports,performance enhancing drugs,hard
+majority of votes,candidates,arrow's impossibility theorem,hard
+majority of votes,elections,arrow's impossibility theorem,hard
+majority of votes,open primaries,won,hard
+majority of votes,single winner,won,hard
+majority opinion,democratic process,identification,global_easy
+majority opinion,opinion polls,end of october,global_easy
+margin of error,opinion polls,pollster,hard
+marginal income tax,tax policy,federal government,hard
+market work,work,low wages,hard
+mass extinction events,endangered species,anthropocentrism,easy
+maternal serum,fetuses,genetic screening,hard
+maternal serum,heritable diseases,genetic screening,hard
+math,education,voucher scheme,easy
+mcmurdo,antarctic continent,exploitation,easy
+media violence,violent content,measures of aggression,hard
+media violence,violent video games,strategy games,hard
+members,trades unions,collective bargaining rights,easy
+members of congress,congressional earmarks,executive branch,hard
+membership,trades unions,collective bargaining rights,easy
+metaphysical naturalism,atheism,contests the existence,easy
+metaphysical naturalism,existence and nature,contests the existence,easy
+metaphysical naturalism,science,contests the existence,easy
+methodological naturalism,atheism,exist,easy
+mexican american,affirmative action,tropical,global_easy
+mild cognitive impairment,cortex,mandatory retirement age,easy
+mild cognitive impairment,memory loss,mandatory retirement age,easy
+mild head injury,boxing,protect the body,hard
+mild head injury,professional boxing,protect the body,hard
+military,draft dodgers,myanmar,hard
+military,national service,anat kamm,hard
+military,volunteer,leaking,hard
+military,military documents,us,hard
+military conscription,national service,arrested,global_easy
+military government,myanmar,national development party,hard
+military junta,myanmar,elections,hard
+military recruitment,conscientious objection,deferments,hard
+military recruitment,national service,deferments,hard
+military rulers,myanmar,national development party,hard
+military rulers,regime,national development party,hard
+military service,draft law,population density,global_easy
+military service,national service,electrical,global_easy
+military training,national service,robert mã©nard,global_easy
+million jobs,american jobs act,smoking restrictions,global_easy
+minister of finance,austerity measures,germany,hard
+minister of finance,budget deficit,germany,hard
+minister of finance,economy,sovereign default,hard
+minister of finance,government deficit,spending,hard
+minors,minors,amundsen,global_easy
+missile,nuclear explosion,developing nuclear weapons,hard
+missile,nuclear weapons,developing nuclear weapons,hard
+mitchell report,performance enhancing drugs,performed,global_easy
+mitchell report,professional sports,chromosomes,global_easy
+modern boxing,boxing,party,global_easy
+modern patent,intellectual property rights,olympic champion,global_easy
+modern symbolic prejudice,affirmative action,break lasts,global_easy
+monarch,monarchy,politically incorrect,global_easy
+monarch's,monarchy,telomerase,global_easy
+monarchies,absolute monarchy,elected,hard
+monarchies,monarchy,elected,hard
+monarchs,monarchy,vatican city,hard
+monarchy,australian republican movement,stereotypes,global_easy
+monarchy,monarchy,androgenic:anabolic ratio,global_easy
+money,bribery,displaced people,global_easy
+monks,myanmar,arrested,easy
+mount erebus,antarctic continent,explorer,hard
+muay thai,boxing,civil service,global_easy
+mutually assured destruction,nuclear weapons,us,hard
+myanmar,kenji nagai,troops,hard
+myanmar,lan na,troops,hard
+myanmar,myanmar,troops,hard
+myanmar,shan state,troops,hard
+myanmar,shwedagon pagoda,troops,hard
+myanmar,us,troops,hard
+nancy folbre,housewives,work,hard
+national democratic force,myanmar,us,hard
+national football league,professional sports,systematic doping,hard
+national grid,energy supply,wind power,easy
+national renewable energy,energy supply,csr policy,global_easy
+national renewable energy,wind power,ageist,global_easy
+national security,government,war logs,hard
+national security,anat kamm,imminent lawless action,hard
+national security,military,disclosure,hard
+national security,military documents,war logs,hard
+national security,official secrets act,freedom of speech,hard
+national security,spy,freedom of speech,hard
+national security,whistleblower,freedom of speech,hard
+nations,states,nuclear weapons,easy
+native americans,affirmative action,meritocratic,easy
+natural bitumen,keystone xl pipeline,alberta government,easy
+natural family planning,barrier methods of contraception,catholic church,hard
+natural family planning,roman catholic church,pius xii,hard
+natural habitat,endangered species,nuclear tests,global_easy
+natural habitat,species extinctions,wind power,global_easy
+neural tube defects,fetuses,heritable diseases,hard
+neural tube defects,prenatal testing,heritable diseases,hard
+nevada test site,nuclear testing,fusion fuel,hard
+nevada test site,nuclear weapons,fusion fuel,hard
+nfp,barrier methods of contraception,catholic church,hard
+nicotine,cigar smokers,smoke free workplaces,hard
+nicotine,tobacco product,smoke free workplaces,hard
+nomination,candidates,open primaries,hard
+nomination,elections,open primaries,hard
+nonpartisan blanket primary,candidates,number of seats,hard
+nonpartisan blanket primary,elections,nomination,hard
+nonpartisan blanket primary,exhaustive ballot,nomination,hard
+nonpartisan blanket primary,open primaries,number of seats,hard
+nonpartisan blanket primary,parties,number of seats,hard
+nonpartisan blanket primary,voting methods,number of seats,hard
+nonpartisan blanket primary,voting system criteria,number of seats,hard
+north korea,developing nuclear weapons,states,hard
+north korea,nations,ussr,hard
+north korea,nuclear weapons,ussr,hard
+north korea's,nations,prime mover,global_easy
+north korean,nuclear weapons,states,hard
+north korean nuclear,nuclear weapons,nations,hard
+nuclear,fusion fuel,threat,hard
+nuclear,iran's nuclear program,threat,hard
+nuclear,nuclear weapons,defending states,hard
+nuclear arms race,nuclear weapons,states,hard
+nuclear arms race,us,states,hard
+nuclear bomb,nuclear weapons,nations,easy
+nuclear disarmament,nations,nuclear tests,hard
+nuclear disarmament,nuclear weapons,security council,hard
+nuclear disarmament,bombs,nuclear weapons tests,hard
+nuclear disarmament,nuclear arms race,nuclear tests,hard
+nuclear explosion,nuclear weapons,nations,easy
+nuclear explosive devices,nuclear weapons,dprk,hard
+nuclear material,nuclear weapons,nations,easy
+nuclear power,deterrence,national intelligence estimate,hard
+nuclear power,nuclear explosive devices,national intelligence estimate,hard
+nuclear power,nuclear weapons,national intelligence estimate,hard
+nuclear power,reactors,national intelligence estimate,hard
+nuclear power plant,nuclear weapons,nations,easy
+nuclear powers,nuclear weapons,states,hard
+nuclear powers,us,states,hard
+nuclear suppliers group,nuclear weapons,us,easy
+nuclear technology,nuclear weapons,states,hard
+nuclear terrorism,nuclear weapons,us,easy
+nuclear terrorism,threat,states,easy
+nuclear test,nuclear weapons,us,easy
+nuclear testing,nuclear weapons,nations,hard
+nuclear tests,nuclear weapons,nations,easy
+nuclear war,nations,national intelligence estimate,hard
+nuclear war,nuclear weapons,us,hard
+nuclear war,bombs,joined the npt,hard
+nuclear war,warheads,defending state,hard
+nuclear weapon,deterrence,us,hard
+nuclear weapon,developing nuclear weapons,us,hard
+nuclear weapon,nuclear weapons,dprk,hard
+nuclear weapon,warheads,dprk,hard
+nuclear weapon,missile,dprk,hard
+nuclear weapon,possess nuclear weapons,dprk,hard
+nuclear weapon,threat,dprk,hard
+nuclear weapon design,nuclear weapons,nations,easy
+nuclear weapon states,iran's nuclear program,nuclear weapon design,hard
+nuclear weapon states,nations,nuclear weapon design,hard
+nuclear weapon states,nuclear testing,nuclear weapon design,hard
+nuclear weapon states,nuclear weapons,nuclear weapon design,hard
+nuclear weapon states,states,nuclear weapon design,hard
+nuclear weapon states,us,nuclear weapon design,hard
+nuclear weapons,nuclear weapons,us,hard
+nuclear weapons,nuclear weapons tests,joined the npt,hard
+nuclear weapons,bombs,us,hard
+nuclear weapons,heavy water,us,hard
+nuclear weapons,nuclear arms race,joined the npt,hard
+nuclear weapons,nuclear test,joined the npt,hard
+nuclear weapons,threat,national intelligence estimate,hard
+nuclear weapons program,deterrence,nations,hard
+nuclear weapons program,north korean nuclear,joined the npt,hard
+nuclear weapons program,nuclear bomb,nations,hard
+nuclear weapons program,nuclear explosion,nations,hard
+nuclear weapons program,nuclear weapons,nations,hard
+nuclear weapons program,developing nuclear weapons,states,hard
+nuclear weapons program,reactor,joined the npt,hard
+nuclear weapons program,signed the npt,states,hard
+nuclear weapons program,warheads,joined the npt,hard
+nuclear weapons programs,nuclear suppliers group,joined the npt,hard
+nuclear weapons programs,nuclear weapons,president ronald reagan,hard
+nuclear weapons states,nations,proliferation,hard
+nuclear weapons states,nuclear weapons,enriched uranium,hard
+nuclear weapons states,bombs,proliferation,hard
+nuclear weapons states,north korean,warheads,hard
+nuclear weapons states,policy of deterrence,reactor,hard
+nuclear weapons states,possess nuclear weapons,defending state,hard
+nuclear weapons states,states,defending state,hard
+nuclear weapons states,us,defending state,hard
+nuclear weapons tests,nuclear weapons,nations,hard
+number of candidates,candidates,republican party,hard
+number of candidates,elections,condorcet methods,hard
+number of delegates,open primaries,opposition to god,global_easy
+number of rounds,boxing,subsidy,global_easy
+number of seats,elections,open primaries,hard
+number of species,ecology,coral reefs,hard
+number of species,endangered species,coral reefs,hard
+number of species,species loss,coral reefs,hard
+number of voters,voters,federal elections,hard
+number of voters,candidates,absentee ballots,hard
+number of voters,elections,absentee,hard
+number of voters,open primaries,absentee,hard
+number of votes,candidates,electoral,hard
+number of votes,elections,electoral,hard
+number of votes,number of seats,electoral,hard
+oath of allegiance,monarchy,violent acts,global_easy
+observers,polling station,voters,hard
+odds,gambling,merit,global_easy
+official secrets act,freedom of speech,anat kamm,hard
+official secrets act,leaking,anat kamm,hard
+official secrets act,military documents,anat kamm,hard
+official unemployment rate,american jobs act,enriched uranium,global_easy
+offshore wind farm,energy supply,home affairs,global_easy
+offshore wind farm,wind power,national renewable energy,global_easy
+offshore wind farms,electricity generation,kilowatt hour,hard
+offshore wind farms,energy supply,output,hard
+offshore wind farms,largest wind farm,intermittency,hard
+offshore wind farms,wind power,kilowatt hour,hard
+offshore wind farms,wind speed,kilowatt hour,hard
+offshore wind power,electricity production,operations and maintenance,hard
+offshore wind power,energy supply,generating,hard
+offshore wind power,wind power,generating,hard
+ogallala,keystone xl pipeline,invasive procedure,global_easy
+ogallala aquifer,keystone xl pipeline,route,easy
+oil,keystone xl pipeline,phase,easy
+oil,unconventional oil,phase,easy
+oil and gas,keystone xl pipeline,prenatal testing,global_easy
+oil production,energy,compressor stations,easy
+oil production,keystone xl pipeline,compressor stations,easy
+oil sands,keystone xl pipeline,phase,easy
+oil sands extraction,keystone xl pipeline,hall of fame,global_easy
+older adults,mandatory retirement age,trident,global_easy
+older generation,mandatory retirement age,younger adults,hard
+older generation,pension scheme,younger adults,hard
+older generation,successful ageing,younger adults,hard
+older people,mandatory retirement age,young,hard
+older people,older patients,young,hard
+olympic champion,professional sports,performance enhancing drugs,hard
+online casinos,gambling,kachin state,global_easy
+online gambling,gambling,children per woman,global_easy
+online games,violent video games,minors,hard
+online lotteries,gambling,censored,global_easy
+online poker,bet,wikileaks documents,global_easy
+online poker,gambling,christmas holiday,global_easy
+open primary,candidates,number of delegates,hard
+open primary,elections,number of delegates,hard
+open primary,open primaries,number of delegates,hard
+opinion,opinion polls,general election,hard
+opinion poll,democratic process,election campaigns,global_easy
+opinion poll,opinion polls,breaks,global_easy
+opinion polls,democratic process,bias,hard
+opinion polls,opinion polls,bias,hard
+opinion polls,sampling error,bias,hard
+opinions,opinion polls,democratic process,hard
+opposition to god,atheism,eta,global_easy
+orderly default,debts,troika,hard
+organization,trades unions,collective bargaining rights,easy
+output,energy supply,wind power,hard
+overpopulation,china,planned parenthood federation,hard
+overpopulation,family planning programs,planned parenthood federation,hard
+overpopulation,fertility rate,planned parenthood federation,hard
+overpopulation,one child policy,planned parenthood federation,hard
+overpopulation,total population,planned parenthood federation,hard
+ownership,intellectual property rights,antiviral drugs,easy
+paid,work,housewives,hard
+paid work,housewives,human knowledge,global_easy
+paid work,work,rural,global_easy
+pakistan,possess nuclear weapons,nuclear weapons,hard
+paradox of thrift,recession,government deficit,hard
+paradox of thrift,savings,private holders,hard
+paris convention,intellectual property rights,whistleblower,global_easy
+parties,candidates,higher wages,global_easy
+parties,elections,college or university,global_easy
+parties,open primaries,hereditary monarchy,global_easy
+party,candidates,us,easy
+party,elections,apple pie,easy
+party,open primaries,us,easy
+party,republican,myanmar,easy
+party or candidate,federal elections,voters,hard
+passive bribery,bribery,patronage,easy
+patent,intellectual property rights,scarce,easy
+patent laws,intellectual property rights,exhaustive ballot,global_easy
+patent rights,intellectual property rights,u.s,global_easy
+patents,intellectual property rights,jurisdictions,easy
+patents,license,jurisdictions,easy
+patents,public property,jurisdictions,easy
+pathological gambling,gambling,atlantic city,hard
+paul vi,catholic church,barrier methods of contraception,hard
+payments,subsidize,growing of tobacco,easy
+peek a boo,bare knuckle,knockout,hard
+peek a boo,boxing,knockout,hard
+penalty for treason,anat kamm,leaking,hard
+pension,employment,ageist,easy
+pension,mandatory retirement age,ageist,easy
+pentagon papers,military documents,official secrets act,hard
+pentagon papers,war logs,official secrets act,hard
+people of burma,myanmar,shwedagon pagoda,hard
+people of burma,suu kyi,shwedagon pagoda,hard
+people of color,affirmative action,democratic national committee,global_easy
+people of color,racial differences,budget,global_easy
+performance enhancing drugs,androgenic steroids,olympic champion,hard
+performance enhancing drugs,hormone,olympic champion,hard
+performance enhancing drugs,performance enhancing drugs,olympic champion,hard
+performance enhancing drugs,professional sports,olympic champion,hard
+performance enhancing drugs,schedule iii,olympic champion,hard
+performance enhancing drugs,substance dependence,olympic champion,hard
+performance enhancing drugs,systematic doping,olympic champion,hard
+performance enhancing substances,abuse potential,nation of islam,global_easy
+performance enhancing substances,athlete,free speech fights,global_easy
+performance enhancing substances,hormone,motion involves lifting,global_easy
+performance enhancing substances,performance enhancing drugs,nintendo,global_easy
+performance enhancing substances,professional sports,private gain,global_easy
+periodic abstinence,barrier methods of contraception,catholic church,hard
+photo id,photo identification,voters,hard
+photo identification,photo identification,polling station,hard
+pipeline,keystone xl pipeline,parliamentary republic,global_easy
+pipelines,keystone xl pipeline,nfp,global_easy
+pius xii,catholic church,barrier methods of contraception,hard
+planning,family planning services,one child policy,hard
+player,strategy games,forms of violence,easy
+player,violent video games,child maltreatment,easy
+playing video games,violent video games,minors,hard
+plurality voting,alternative vote,proportional representation,hard
+plurality voting,candidates,single winner,hard
+plurality voting,elections,round of counting,hard
+plurality voting,open primaries,round of counting,hard
+plurality voting,voting system criteria,proportional representation,hard
+poker,gambling,illegal entrant,global_easy
+polar,antarctic continent,island,hard
+policy of deterrence,nuclear weapons,us,hard
+political corruption,bribery,law convention,easy
+political parties,candidates,voting methods,hard
+political parties,elections,voting methods,hard
+political parties,open primaries,voting methods,hard
+political parties,republican,voting methods,hard
+political prisoners,myanmar,township,easy
+poll,democratic process,candidates,hard
+poll,election results,candidates,hard
+poll,opinion poll,candidates,hard
+poll,opinion polls,candidates,hard
+poll,sampling error,candidates,hard
+poll results,majority opinion,democratic process,hard
+poll results,opinion polls,democratic process,hard
+polling,democratic process,candidates,hard
+polling,opinion polls,candidates,hard
+polling organizations,opinion polls,bias,hard
+polling organizations,survey results,bias,hard
+polling places,polling station,counted,hard
+polling places,voters,identification,hard
+polls,democratic process,bias,hard
+polls,election results,bias,hard
+polls,opinion polls,bias,hard
+pollster,opinion polls,democratic process,hard
+pollsters,opinion polls,election results,hard
+pontifical council,catholic church,barrier methods of contraception,hard
+pope,catholic church,barrier methods of contraception,easy
+pope,st peter's,barrier methods of contraception,easy
+pope benedict xvi,catholic church,cardinal,hard
+pope john,catholic church,sexually,easy
+pope john,pontifical council,periodic abstinence,easy
+pope john paul,catholic church,st peter's,hard
+pope john paul,church's,barrier methods of contraception,hard
+pope paul vi,catholic church,cardinal,hard
+pope paul vi,paul vi,cardinal,hard
+population,one child policy,international planned parenthood,hard
+population control,birth control,urban areas,hard
+population control,china,urban areas,hard
+population control,one child policy,urban areas,hard
+population control,total population,urban areas,hard
+population control policies,china,urban population,hard
+population control policies,one child policy,united nations population,hard
+population density,one child policy,economic policy institute,global_easy
+population growth,children per woman,international planned parenthood,hard
+population growth,china,ethnic minorities,hard
+population growth,family planning programs,ethnic minorities,hard
+population growth,one child policy,international planned parenthood,hard
+population growth,total population,international planned parenthood,hard
+pork barrel,congressional earmarks,government,global_easy
+pork barrel spending,congressional earmarks,republican primary,hard
+possess nuclear weapons,nuclear weapons,states,hard
+possess nuclear weapons,us,states,hard
+post secondary,tertiary,apprenticeship,hard
+power,electrical,intermittency,hard
+power,energy supply,intermittency,hard
+power,national grid,intermittency,hard
+power,renewable electricity,wind energy policy,hard
+power,wind power,wind energy policy,hard
+power stations,energy supply,signed the npt,global_easy
+power stations,wind power,attorney jack thompson,global_easy
+pregnancy,fetuses,disorders,hard
+pregnancy,parents,disorders,hard
+pregnancy,prenatal testing,genetic screening,hard
+preimplantation genetic diagnosis,dna,invasive test,hard
+preimplantation genetic diagnosis,fetuses,parents,hard
+preimplantation genetic diagnosis,genetic screening,egg,hard
+preimplantation genetic diagnosis,heritable diseases,presymptomatic testing,hard
+preimplantation genetic diagnosis,screening test,invasive test,hard
+prenatal diagnosis,chromosomes,maternal serum,hard
+prenatal diagnosis,fetuses,maternal serum,hard
+prenatal diagnosis,genetic screening,maternal serum,hard
+prenatal diagnosis,heritable diseases,maternal serum,hard
+prenatal diagnosis,prenatal testing,maternal serum,hard
+prenatal diagnosis,presymptomatic testing,maternal serum,hard
+prenatal diagnosis,screening test,maternal serum,hard
+prenatal diagnosis,ultrasound,maternal serum,hard
+prenatal testing,fetuses,banned,global_easy
+prenatal testing,genetic screening,ratio,global_easy
+prenatal testing,heritable diseases,theological noncognitivism,global_easy
+prenatal testing,parents,ageist,global_easy
+prerogative,monarchy,income tax revenues,global_easy
+prescription,performance enhancing drugs,professional sports,easy
+president ronald reagan,us,states,easy
+presidential election,democratic process,problem,global_easy
+presidential election,opinion polls,state schools,global_easy
+presymptomatic testing,genetic screening,fetuses,hard
+presymptomatic testing,heritable diseases,fetuses,hard
+primary,candidates,electoral,hard
+primary,elections,arrow's impossibility theorem,hard
+primary,open primaries,candidate is eliminated,hard
+primary education,classroom,universities,hard
+primary school,education,nuclear material,global_easy
+primary semi closed,elections,number of delegates,hard
+primary semi closed,open primaries,condorcet methods,hard
+prince charles,monarch's,reserve powers,hard
+prince charles,monarchy,reserve powers,hard
+prince or princess,hereditary monarchy,reserve powers,easy
+prince or princess,monarchy,holy roman empire,easy
+principles of democracy,democratic governments,eligible,hard
+principles of democracy,voters,observers,hard
+private capital markets,private holders,debts,hard
+private capital markets,private sector,loan,hard
+private education,education,intelligence service,global_easy
+private education,voucher scheme,returning to school,global_easy
+private gain,bribery,housewives,global_easy
+private property,intellectual property rights,wipo,hard
+private property,patent laws,wipo,hard
+private property,public property,wipo,hard
+private schools,education,reading and math,hard
+private schools,school system,reading and math,hard
+private schools,voucher scheme,reading and math,hard
+prize,gambling,europe,global_easy
+pro democracy,us,seats,easy
+problem gambling,gambling,online lotteries,hard
+product being transported,route,steam,easy
+production of tobacco,anti smoking movement,consumption,hard
+production of tobacco,cigar smokers,industry,hard
+production of tobacco,growing of tobacco,industry,hard
+production of tobacco,tobacco consumption,consumption,hard
+production of tobacco,tobacco product,industry,hard
+professional boxing,boxing,organize,global_easy
+proliferation,nuclear weapons,nations,hard
+property,intellectual property rights,infringement,easy
+property rights,intellectual property rights,farm,global_easy
+property rights,john locke,affirmative action,global_easy
+property rights,modern patent,plant,global_easy
+property rights,patent rights,debt swap,global_easy
+property systems,intellectual property rights,reign,global_easy
+proportional representation,elections,maternal serum,global_easy
+prosecutions for treason,anat kamm,leaking,hard
+protect the body,boxing,congressional earmarks,global_easy
+protect the head,boxing,projects,global_easy
+public debt,austerity measures,citizens,hard
+public debt,budget,europe,hard
+public debt,harsh austerity,germany,hard
+public debt,social support,germany,hard
+public debt,sovereign debt,germany,hard
+public debt,spending,germany,hard
+public education,education,mlb,global_easy
+public education,voucher scheme,cushing oklahoma,global_easy
+public employee unions,craft union,rank and file,hard
+public employee unions,trades unions,rank and file,hard
+public health,sexually transmitted infection,barrier methods of contraception,hard
+public opinion,election results,candidates,hard
+public opinion,majority opinion,candidates,hard
+public opinion,opinion polls,candidates,hard
+public opinion,presidential election,candidates,hard
+public school,education,tax,easy
+public school,local school district,tax,easy
+public school,voucher scheme,tax,easy
+public school students,education,social housing,global_easy
+public school students,voucher scheme,search results,global_easy
+public school system,education,higher education,hard
+public school system,local public schools,higher education,hard
+public school system,voucher scheme,higher education,hard
+public schools,education,rich,easy
+public schools,local public schools,rich,easy
+public schools,primary school,rich,easy
+public schools,school vouchers,rich,easy
+public schools,voucher scheme,rich,easy
+pump stations,keystone xl pipeline,year bonds,global_easy
+punch,boxing,motion involves lifting,easy
+punches,boxing,party talks,global_easy
+punches,counter punch,city of redlands,global_easy
+punches,knocked,level playing field,global_easy
+punches,professional boxing,intellectual property rights,global_easy
+punished with imprisonment,anat kamm,leaking,hard
+pupil assignment board,education,voucher system,hard
+pupil assignment plan,education,sweden's,easy
+push poll,opinion polls,democratic process,hard
+push polling,opinion poll,candidates,hard
+push polling,opinion polls,candidates,hard
+push polling,pollster,democratic process,hard
+push polling,presidential election,democratic process,hard
+quad test,disorders,chromosomes,hard
+quad test,fetuses,parents,hard
+quad test,genetic screening,parents,hard
+quad test,heritable diseases,parents,hard
+queen,absolute monarchy,prerogative,hard
+queen,monarchy,bi partisan appointment,hard
+queen elizabeth,monarchy,eta,global_easy
+queen elizabeth ii,monarchy,elective monarchy,hard
+queen's,monarchy,coral reefs,global_easy
+race,affirmative action,government jobs,hard
+race,racial differences,merit,hard
+race color religion,affirmative action,level playing field,easy
+race creed color,affirmative action,ussr,global_easy
+races,affirmative action,arriving,global_easy
+racial achievement gap,education,voucher scheme,easy
+racial differences,affirmative action,developing nuclear weapons,global_easy
+racial discrimination,affirmative action,criminalize,global_easy
+racial discrimination,discrimination in employment,employment opportunity commission,global_easy
+racial groups,affirmative action,criterion,global_easy
+racial prejudice,affirmative action,labour market,global_easy
+racism,affirmative action,meritocratic,hard
+racism,ethnicity,meritocratic,hard
+radiation,developing nuclear weapons,yield,hard
+radiation,nuclear bomb,yield,hard
+radiation,nuclear weapons,yield,hard
+random testing,performance enhancing drugs,professional sports,hard
+rapid population growth,china,young,global_easy
+rapid population growth,one child policy,nelson,global_easy
+rating,rating board esrb,violent video games,hard
+rating board,violent video games,minors,easy
+rating board esrb,violent video games,minors,easy
+reactor,nuclear weapons,us,easy
+reactors,nuclear weapons,nations,easy
+reading and math,education,voucher scheme,easy
+rear hand,boxing,damage,easy
+rear hand,counter punch,damage,easy
+rear hand,hand,damage,easy
+reasonable restrictions,freedom of speech,government,hard
+recession,austerity measures,europe,hard
+recession,american jobs act,europe,hard
+refugee,right to asylum,criminal casework team,easy
+refugee camps,right to asylum,boat,global_easy
+refugee status,right to asylum,economic policy institute,global_easy
+refugee status,status,disenfranchise,global_easy
+refugees,countries of origin,southeast asia,global_easy
+refugees,international refugee organization,sovereign default,global_easy
+refugees,resettlement,starts,global_easy
+refugees,right to asylum,opposition to god,global_easy
+reign,monarchy,mlb,global_easy
+religion,atheism,party,global_easy
+religion,creator god,heavy water,global_easy
+renewable,wind power,water,hard
+renewable electricity,energy supply,phase,global_easy
+renewable electricity,wind power,school board,global_easy
+renewable energy,energy supply,intermittency,hard
+renewable energy,national renewable energy,fossil,hard
+renewable energy,projects,capacity credit,hard
+renewable energy,renewable electricity,intermittency,hard
+renewable energy,renewable energy technologies,fossil,hard
+renewable energy,wind power,intermittency,hard
+renewable energy production,energy supply,men,global_easy
+renewable energy production,wind power,sustainability,global_easy
+renewable energy sources,electricity generation,electrical,hard
+renewable energy sources,energy supply,electrical,hard
+renewable energy sources,renewable energy production,electrical,hard
+renewable energy sources,renewable energy technologies,electrical,hard
+renewable energy sources,wind energy projects,electrical,hard
+renewable energy sources,wind power,electrical,hard
+renewable energy technologies,energy supply,female,global_easy
+renewable energy technologies,wind power,united states,global_easy
+reporters without borders,censor,military documents,hard
+reproductive rights,one child policy,fertility rate,hard
+republic of china,china,eugenics,easy
+republic of china,one child policy,family planning programs,easy
+republican,monarchy,elections,hard
+republican party,elections,voters,hard
+research stations,antarctic continent,exploitation,easy
+resettlement,right to asylum,spread of hiv,global_easy
+results,election results,democratic process,hard
+results,opinion polls,democratic process,hard
+retirement,mandatory retirement age,ageing results,hard
+retirement plans,mandatory retirement age,generating,global_easy
+reverse discrimination,affirmative action,civil,easy
+reverse discrimination,modern symbolic prejudice,civil,easy
+revolutionary industrial unionism,trades unions,membership,hard
+richard dawkins,atheism,god's,easy
+richard dawkins foundation,atheism,township,global_easy
+rights,intellectual property rights,chrc,hard
+rights,freedom of speech,court of appeals,hard
+rights of man,freedom of speech,government,easy
+risk score,genetic screening,amniocentesis,hard
+risk score,heritable diseases,presymptomatic testing,hard
+risk score,prenatal testing,fetuses,hard
+roman catholic church,catholic church,barrier methods of contraception,hard
+round of counting,elections,candidates,hard
+round of voting,elections,democratic national committee,hard
+round of voting,round of counting,condorcet winner,hard
+rounds,boxing,counter punch,easy
+rounds of voting,elections,number of voters,hard
+rounds of voting,open primaries,condorcet winner,hard
+royal,elective monarchies,macau,global_easy
+royal,monarch's,capabilities approach,global_easy
+royal,monarchy,american tobacco,global_easy
+royal family,monarchy,grutter v bollinger,global_easy
+royal prerogative,monarchy,duchess of cornwall,hard
+runoff voting,candidates,proportional representation,hard
+runoff voting,elections,proportional representation,hard
+runoff voting,open primaries,proportional representation,hard
+sam harris,atheism,richard dawkins foundation,hard
+sample size,opinion polls,eta,easy
+sample size,survey results,democratic process,easy
+sampling error,opinion polls,democratic process,easy
+sanctions on burma,myanmar,regime,hard
+sanctions on burma,us,regime,hard
+sand,bituminous sands,keystone xl pipeline,hard
+schedule iii,performance enhancing drugs,professional sports,easy
+school,education,free to choose,easy
+school,voucher scheme,free to choose,easy
+school,school activities,free to choose,easy
+school,year round schooling,free to choose,easy
+school board,education,voucher scheme,hard
+school choice,education,exist,global_easy
+school choice,voucher scheme,creator god,global_easy
+school districts,education,voucher scheme,hard
+school holidays,year round schooling,late july,hard
+school leaving age,school leaving age,settings,easy
+school programs,year round schooling,easter holidays,easy
+school system,education,amundsen,global_easy
+school system,voucher scheme,nuclear weapon design,global_easy
+school vouchers,education,union density,global_easy
+school vouchers,voucher scheme,power stations,global_easy
+school year,year round schooling,instructor,global_easy
+schooling,school leaving age,attainment,easy
+schools,education,capitalism,easy
+schools,higher education,capitalism,easy
+schools,public school students,tax credits,easy
+schools,state schools,tax credits,easy
+schools,voucher scheme,capitalism,easy
+schools,children,tax credits,easy
+schools,school leaving age,capitalism,easy
+schools,returning to school,capitalism,easy
+schools,year round schooling,leave,easy
+science,atheism,maternal serum,global_easy
+screening,genetic screening,invasive test,hard
+screening,test results,invasive test,hard
+screening test,genetic screening,parents,easy
+screening test,heritable diseases,parents,easy
+search,google,youtube,hard
+search,keywords,web companies,hard
+search,search results,user,hard
+search engine,google,mainland chinese,easy
+search engine,google search,corporate,easy
+search engine,keywords,mainland chinese,easy
+search engine,search results,gmail,easy
+search engines,google,tcp,hard
+search engines,search results,user,hard
+search results,censor,china,hard
+search results,google,china,hard
+search results,keywords,china,hard
+search results,search results,china,hard
+secret,anat kamm,safe harbor,easy
+secret,central intelligence agency,safe harbor,easy
+secret,classified,der spiegel,easy
+secret,military documents,safe harbor,easy
+secret,whistleblower,safe harbor,easy
+secret service,government,censored,hard
+secrets,leak,military,hard
+secrets,leaking,military,hard
+secrets,military documents,military,hard
+security,military documents,whistleblower,hard
+selective service,national service,draft law,hard
+selective service act,military conscription,young men,hard
+selective service act,national service,young men,hard
+selective service system,national service,military training,easy
+sell lottery tickets,gambling,uigea,easy
+service,national service,parliamentary republic,easy
+sex,barrier methods of contraception,barrier methods,hard
+sex,hiv and aids,barrier methods,hard
+sex discrimination,affirmative action,invasive procedure,global_easy
+sex education,barrier methods of contraception,catholic church,hard
+sex education,hiv and aids,catholic church,hard
+sex education,sexually transmitted disease,catholic church,hard
+sex education,stds,catholic church,hard
+sex selective abortion,birth control,ericsson method,hard
+sex selective abortion,one child policy,china,hard
+sexual,barrier methods of contraception,catholic church,easy
+sexual,contraceptives,pius xii,easy
+sexual,stds,pius xii,easy
+sexual revolution,barrier methods of contraception,catholic church,hard
+sexuality education,barrier methods of contraception,catholic church,hard
+sexually transmitted,barrier methods of contraception,health care,hard
+sexually transmitted,spread of hiv,health care,hard
+sexually transmitted disease,barrier methods of contraception,catholic church,easy
+sexually transmitted diseases,barrier methods of contraception,sexual revolution,hard
+sexually transmitted diseases,infections,sexual revolution,hard
+sexually transmitted infection,barrier methods of contraception,catholic church,easy
+sexually transmitted infections,barrier methods of contraception,roman catholic church,easy
+sexually transmitted infections,infections,catholic church,easy
+shan state,myanmar,us,easy
+shan states,myanmar,us,easy
+shoulder lean,boxing,parties,global_easy
+shwedagon pagoda,myanmar,us,easy
+signed the npt,us,states,hard
+single cell pcr,genetic screening,chromosomes,hard
+single cell pcr,screening test,chromosomes,hard
+single transferable vote,candidates,super tuesday,hard
+single transferable vote,elections,number of seats,hard
+single winner,elections,open primaries,hard
+slander,freedom of speech,government,easy
+slander and libel,freedom of speech,government,easy
+slot machines,gambling,home,global_easy
+smoke,growing of tobacco,subsidize,easy
+smoke,nicotinic acetylcholine receptors,farm,easy
+smoke,smoke free workplaces,subsidize,easy
+smoke free laws,pubs and clubs,american tobacco,hard
+smokeless tobacco,growing of tobacco,states,easy
+smokers,american tobacco,nicotinic acetylcholine receptors,hard
+smokers,cigar smokers,nicotinic acetylcholine receptors,hard
+smokers,cigar smoking,nicotinic acetylcholine receptors,hard
+smokers,pipe,nicotinic acetylcholine receptors,hard
+smokers,smokeless tobacco,nicotinic acetylcholine receptors,hard
+smoking,cigar smoking,bars and restaurants,hard
+smoking,growing of tobacco,bars and restaurants,hard
+smoking,marlboro,bars and restaurants,hard
+smoking,smoking among women,bars and restaurants,hard
+smoking,tobacco consumption,bars and restaurants,hard
+smoking bans,anti smoking movement,type of tobacco,hard
+smoking bans,cigar smokers,type of tobacco,hard
+smoking bans,tobacco consumption,type of tobacco,hard
+social sex selection,ericsson method,demographic,hard
+software rating board,rating board esrb,minors,easy
+software rating board,violent video games,minors,easy
+south pole,amundsen,island,hard
+south pole,antarctic continent,island,hard
+south pole,mcmurdo,ross,hard
+southeast asia,myanmar,us,easy
+sovereign,monarchy,australian republican movement,hard
+soviet,developing nuclear weapons,united states,hard
+soviet,nations,united states,hard
+soviet union,nations,us,hard
+soviet union,possess nuclear weapons,us,hard
+soviet union,ussr,states,hard
+species,endangered species,tropical,hard
+species,invasive species,tropical,hard
+species and ecosystems,endangered species,tropical,hard
+species extinctions,endangered species,stds,global_easy
+species loss,endangered species,iran's nuclear program,global_easy
+speech,freedom of speech,government,easy
+spending,congressional earmarks,median household income,hard
+spending,austerity measures,social support,hard
+spina bifida,fetuses,maternal serum,hard
+sports betting,gambling,bet,global_easy
+spread of hiv,barrier methods of contraception,catholic church,easy
+st peter's,catholic church,barrier methods of contraception,easy
+state schools,education,schedule iii,global_easy
+state schools,voucher scheme,parties,global_easy
+state secrets,anat kamm,daniel domscheit berg,hard
+state secrets,disclosure,daniel domscheit berg,hard
+state secrets,leaking,daniel domscheit berg,hard
+state secrets,military documents,daniel domscheit berg,hard
+state secrets,spy,daniel domscheit berg,hard
+state secrets,wikileaks released,daniel domscheit berg,hard
+state secrets privilege,government,freedom of speech,hard
+state secrets privilege,military documents,freedom of speech,hard
+states,states,nuclear weapons,easy
+states,us,nuclear weapons,easy
+status of refugees,displaced people,foreign national,hard
+status of refugees,right to asylum,foreign national,hard
+stds,barrier methods of contraception,catholic church,easy
+steroid,androgen,prescription,hard
+steroid,performance enhancing drugs,prescription,hard
+steroid,professional sports,prescription,hard
+steroid users,performance enhancing drugs,cycling,hard
+steroid users,professional sports,cycling,hard
+steroid users,random testing,cycling,hard
+steroids,androgenic steroids,cycling,hard
+steroids,athlete,cycling,hard
+steroids,hormones,cycling,hard
+steroids,mitchell report,cycling,hard
+steroids,professional sports,cycling,hard
+steroids,schedule iii,cycling,hard
+straight punch thrown,boxing,ecology,global_easy
+strategic nomination,candidates,voting methods,hard
+strategic nomination,elections,republican party,hard
+street view program,google,search results,hard
+students,education,apprenticeship,hard
+students,voucher scheme,apprenticeship,hard
+students,school leaving age,apprenticeship,hard
+students,universities,apprenticeship,hard
+students,year round schooling,apprenticeship,hard
+style of boxing,bare knuckle,john l sullivan,hard
+style of boxing,boxing,contact between players,hard
+subsidy,subsidize,growing of tobacco,easy
+substance,performance enhancing drugs,mlb,easy
+substance,substance dependence,mlb,easy
+substance abuse,performance enhancing drugs,olympic champion,hard
+substance abuse,systematic doping,androgenic:anabolic ratio,hard
+substance dependence,performance enhancing drugs,professional sports,hard
+substances,performance enhancing drugs,professional sports,hard
+summer,year round schooling,week in september,easy
+summer holidays,year round schooling,break lasts,hard
+summer holidays start,july and august,august,easy
+summer learning loss,year round schooling,august,hard
+summer vacation,august,half term,hard
+summer vacation,returning to school,half term,hard
+summer vacation,year round schooling,half term,hard
+super tuesday,elections,candidates,hard
+super tuesday,open primaries,candidates,hard
+supreme court,case,slander and libel,easy
+survey results,opinion polls,democratic process,hard
+suu kyi,myanmar,us,easy
+synthetic crude oil,keystone xl pipeline,planned parenthood federation,global_easy
+systematic doping,performance enhancing drugs,renewables,global_easy
+systematic doping,professional sports,property systems,global_easy
+tactical nuclear weapons,nuclear weapons,trident,hard
+tactical voting,candidates,candidate is eliminated,hard
+tactical voting,elections,candidate is eliminated,hard
+tactical voting,open primaries,candidate is eliminated,hard
+targeted killing,enemy at war,military documents,hard
+targeted killing,military,anat kamm,hard
+targeted killings,military,military documents,easy
+teller ulam design,nuclear weapons,energy,hard
+term of service,national service,draft law,hard
+terms and conditions,collective bargaining rights,trades unions,hard
+terms of service,google,csr policy,hard
+terms of service,web companies,corporate,hard
+tertiary education,school leaving age,technology,easy
+tertiary education,universities,leave,easy
+test,genetic screening,disorders,hard
+test,screening test,performed,hard
+test,ultrasound,disorders,hard
+test ban treaty,nuclear bomb,explosion,easy
+test ban treaty,nuclear explosive devices,north,easy
+test ban treaty,nuclear weapons,explosion,easy
+test ban treaty,united states,north korean nuclear,easy
+test results,genetic screening,fetuses,hard
+testing,genetic screening,chromosomes,hard
+testing,invasive procedure,maternal serum,hard
+testing,invasive testing,heritable diseases,hard
+testing,screening test,fetuses,hard
+testing,ultrasound,heritable diseases,hard
+thein sein,myanmar,us,easy
+theories of property,intellectual property rights,jurisdictions,easy
+theories of property,john locke,jurisdictions,easy
+theories of property,public property,jurisdictions,easy
+theory of property,intellectual property rights,mechanism,global_easy
+theory of property,john locke,anglo saxon system,global_easy
+theory of property,patent laws,renewable energy technologies,global_easy
+theory of property,public property,grytviken,global_easy
+threat,nuclear weapons,us,easy
+title vii,grutter v bollinger,discourse of race,hard
+title vii,race creed color,discourse of race,hard
+title vii,racial groups,discourse of race,hard
+tobacco,growing of tobacco,farm,hard
+tobacco,nicotinic acetylcholine receptors,farm,hard
+tobacco,pipe,farm,hard
+tobacco,snuff,farm,hard
+tobacco,tobacco consumption,farm,hard
+tobacco advertising,growing of tobacco,pipe,hard
+tobacco companies,growing of tobacco,pipe,hard
+tobacco companies,smoking restrictions,nicotinic acetylcholine receptors,hard
+tobacco consumption,growing of tobacco,subsidize,easy
+tobacco control,anti smoking movement,sponsorship,easy
+tobacco control,growing of tobacco,nicotinic acetylcholine receptors,easy
+tobacco control,rates of smoking,sponsorship,easy
+tobacco control,smoking restrictions,subsidize,easy
+tobacco industry,growing of tobacco,states,easy
+tobacco industry,smokeless tobacco,states,easy
+tobacco industry,smoking rates,subsidize,easy
+tobacco industry,smoking restrictions,subsidize,easy
+tobacco product,growing of tobacco,subsidize,easy
+tobacco products,anti smoking movement,consumption,hard
+tobacco products,growing of tobacco,consumption,hard
+tobacco products,marlboro,consumption,hard
+tobacco smoke,cigar smoking,bars and restaurants,hard
+tobacco smoke,marlboro,pubs and clubs,hard
+tobacco smoke,nicotinic acetylcholine receptors,growing of tobacco,hard
+tobacco smoke,smoking rates,growing of tobacco,hard
+tobacco smoke,tobacco consumption,growing of tobacco,hard
+top secret,leaking,anat kamm,hard
+top secret,military,anat kamm,hard
+top secret,military documents,penalty for treason,hard
+top secret,official secrets act,whistleblower,hard
+top secret,wikileaks documents,whistleblower,hard
+total fertility rate,birth control,china,hard
+tour de france,athlete,random testing,easy
+tour de france,performance enhancing drugs,abuse potential,easy
+tour de france,professional sports,random testing,easy
+trade union,collective bargaining rights,conventions,hard
+trade union,craft union,conventions,hard
+trade union,terms and conditions,conventions,hard
+trade union,trades unions,conventions,hard
+trade union,union movement,conventions,hard
+trade union members,collective bargaining rights,gompers,hard
+trade union members,members,gompers,hard
+trade union members,trades unions,labour relations,hard
+trade unions,collective bargaining rights,rank and file,hard
+trade unions,trades unions,terms and conditions,hard
+traditional public schools,education,tax credits,easy
+traditional public schools,voucher scheme,tax credits,easy
+transcanada,keystone xl pipeline,liquid pipelines,hard
+traumatic brain injury,boxing,bout,hard
+treason,anat kamm,intelligence service,hard
+treaty,signed the npt,nuclear weapons,hard
+treaty of waitangi,monarchy,governor,hard
+turbine,energy supply,renewable energy production,hard
+turbine,wind power,renewable energy production,hard
+turbines,electricity generation,plant,hard
+turbines,energy supply,operations and maintenance,hard
+turbines,wind power,operations and maintenance,hard
+type of tobacco,growing of tobacco,subsidize,easy
+types of tobacco,growing of tobacco,advertising and promotion,easy
+typical circumvention methods,censor,user,hard
+typical circumvention methods,great firewall,user,hard
+u.s,american jobs act,policy of deterrence,hard
+u.s,nations,policy of deterrence,hard
+u.s,nuclear powers,policy of deterrence,hard
+u.s,president ronald reagan,nuclear suppliers group,hard
+u.s,states,nuclear suppliers group,hard
+u.s,us,nuclear suppliers group,hard
+u.s economy,american jobs act,trimester,global_easy
+u.s presidential election,democratic party,observers,hard
+u.s presidential election,federal elections,observers,hard
+u.s presidential election,republican party,observers,hard
+u.s presidential election,voters,observers,hard
+u.s presidential election,democratic process,observers,hard
+u.s presidential election,opinion polls,observers,hard
+u.s presidential election,survey results,observers,hard
+u.s senate,congressional earmarks,banned,global_easy
+uigea,gambling,fossil,global_easy
+uk gambling commission,gambling,gam anon,hard
+uk gambling commission,online lotteries,gam anon,hard
+uk general election,democratic process,deliberation,easy
+ultrasound,fetuses,parents,hard
+uncac,bribery,criminalize,hard
+uncac,law convention,criminalize,hard
+unconventional oil,keystone xl pipeline,international,global_easy
+unemployed,american jobs act,economic,hard
+unemployed,great recession,economic,hard
+unemployment,american jobs act,u.s,easy
+unemployment,australian unemployment rate,u.s,easy
+unemployment rate,american jobs act,economic policy institute,hard
+unemployment rate,great recession,economic policy institute,hard
+union,collective bargaining rights,rank and file,hard
+union,craft union,conventions,hard
+union,labour relations,conventions,hard
+union,trades unions,conventions,hard
+union density,trades unions,collective bargaining rights,hard
+union members,members,delegates,hard
+union members,membership,delegates,hard
+union members,trades unions,delegates,hard
+union movement,collective bargaining rights,systematic doping,global_easy
+union movement,trades unions,voucher system,global_easy
+union of burma,myanmar,regime,hard
+union of myanmar,myanmar,us,easy
+unionism,collective bargaining rights,working,hard
+unionism,membership,unskilled workers,hard
+unionism,trades unions,unskilled workers,hard
+unions,collective bargaining rights,human rights held,hard
+unions,trades unions,conventions,hard
+united kingdom,monarchy,cognatic primogeniture,easy
+united kingdom,queen's,prerogative,easy
+united states,nations,nuclear weapons,hard
+united states,president ronald reagan,nuclear weapons,hard
+united states,states,nuclear weapons,hard
+united states,us,nuclear weapons,hard
+universal primary education,children,classroom,hard
+unlawful internet gambling,gambling,gam anon,hard
+unlawful internet gambling,slot machines,gam anon,hard
+unpaid,housewives,monetary,hard
+unpaid,jobs,monetary,hard
+unpaid,work,monetary,hard
+unpaid care work,housewives,jobs,hard
+unpaid care work,paid work,jobs,hard
+unpaid care work,work,jobs,hard
+unpaid work,housewives,low wages,hard
+unpaid work,jobs,low wages,hard
+unpaid work,wages,low wages,hard
+unpaid work,work,low wages,hard
+uranium,iran's nuclear program,nuclear powers,hard
+uranium,nuclear bomb,nuclear powers,hard
+uranium,nuclear explosive devices,nuclear suppliers group,hard
+uranium,nuclear weapons,nuclear powers,hard
+uranium,uranium enrichment,nuclear suppliers group,hard
+uranium enrichment,nuclear weapons,nations,easy
+uranium enrichment program,nuclear weapons,warheads,hard
+users,gmail accounts,gmail,hard
+users,user,search results,hard
+uterus,fetuses,parents,hard
+vatican city,monarchy,wipo,global_easy
+video game,consoles,sales,hard
+video game,content rating,columbine high school,hard
+video game,video game sales,minors,hard
+video game,violent video games,minors,hard
+video game content,gameplay,minors,easy
+video game content,online games,minors,easy
+video game content,rating board,minors,easy
+video game content,violent video games,minors,easy
+video game industry,game content rating,violent acts,easy
+video game industry,violent video games,minors,easy
+video game play,violent video games,minors,hard
+video game sales,minors,enemy at war,global_easy
+video game violence,rating board esrb,minors,hard
+video game violence,violent video games,minors,hard
+video games,action games,minors,hard
+video games,rating board esrb,minors,hard
+video games,video game play,minors,hard
+video games,violent video games,minors,hard
+violence,forms of violence,minors,hard
+violence,violent video games,minors,hard
+violent,action games,online games,hard
+violent,violent video games,online games,hard
+violent acts,violent video games,minors,easy
+violent content,violent video games,minors,easy
+violent games,online games,youth,hard
+violent games,playing video games,minors,hard
+violent games,violent acts,minors,hard
+violent games,violent video games,minors,hard
+violent video,violent video games,measures of aggression,hard
+violent video game,rating board,minors,hard
+violent video game,violent behavior,minors,hard
+violent video game,violent video games,nintendo,hard
+violent video games,violent video games,minors,hard
+volunteer,national service,elective monarchy,global_easy
+vote,ballot paper,absentee ballots,hard
+vote,democratic governments,republican party,hard
+vote,federal elections,counted,hard
+vote,photo identification,democratic national committee,hard
+vote,polling station,republican party,hard
+vote,voter intimidation,democratic national committee,hard
+vote,voters,democratic national committee,hard
+vote,candidates,republican party,hard
+vote,elections,proportional representation,hard
+vote,open primaries,republican party,hard
+vote splitting,alternative vote,voting system criteria,hard
+vote splitting,candidates,voting system criteria,hard
+vote splitting,elections,number of seats,hard
+vote splitting,voting methods,parties,hard
+voter,ballot paper,ballot stuffing,hard
+voter,democratic governments,photo identification,hard
+voter,disenfranchised,photo identification,hard
+voter,polling station,photo identification,hard
+voter,voters,ballot stuffing,hard
+voter fraud,ballot stuffing,ballot paper,hard
+voter fraud,identification,ballot paper,hard
+voter fraud,photo identification,ballot paper,hard
+voter fraud,polling station,ballot paper,hard
+voter fraud,voters,ballot paper,hard
+voter intimidation,voters,polling station,easy
+voter registration,federal elections,democratic governments,hard
+voter registration,voters,democratic governments,hard
+voter suppression,voters,ballot paper,easy
+voters,democratic governments,republican party,hard
+voters,federal elections,absentee ballots,hard
+voters,photo identification,absentee ballots,hard
+voters,polling station,republican party,hard
+voters,voter intimidation,republican party,hard
+voters,voters,absentee ballots,hard
+voters,candidates,condorcet methods,hard
+voters,elections,condorcet methods,hard
+voters,open primaries,republican party,hard
+voters,democratic process,condorcet methods,hard
+voters,opinion polls,republican party,hard
+votes,democratic governments,absentee ballots,hard
+votes,polling station,absentee,hard
+votes,voter intimidation,republican,hard
+votes,voters,republican,hard
+votes,alternative vote,candidate is eliminated,hard
+votes,candidates,absentee,hard
+votes,elections,democratic party,hard
+votes,open primaries,absentee,hard
+voting,democratic governments,candidate is eliminated,hard
+voting,photo identification,candidate is eliminated,hard
+voting,polling station,win,hard
+voting,voters,candidate is eliminated,hard
+voting,alternative vote,win,hard
+voting,candidates,candidate is eliminated,hard
+voting,condorcet winner,candidate is eliminated,hard
+voting,elections,win,hard
+voting,open primaries,win,hard
+voting,parties,candidate is eliminated,hard
+voting,voting system criteria,candidate is eliminated,hard
+voting machine,polling station,absentee,easy
+voting machine,voters,provisional,easy
+voting machines,polling station,ballot stuffing,hard
+voting machines,voters,identification,hard
+voting methods,elections,government,global_easy
+voting methods,open primaries,rights of man,global_easy
+voting rights act,voters,democratic governments,hard
+voting system,candidates,republican,easy
+voting system,elections,criterion,easy
+voting system,open primaries,cd,easy
+voting system,parties,apple pie,easy
+voting system criteria,candidates,wind energy policy,global_easy
+voting system criteria,elections,ericsson method,global_easy
+voting system criteria,open primaries,labour relations,global_easy
+voting systems,federal elections,voter intimidation,hard
+voting systems,voters,ballot paper,hard
+voting systems,automatic ballot access,voter intimidation,hard
+voting systems,candidates,ballot paper,hard
+voting systems,elections,ballot paper,hard
+voting systems,number of voters,ballot paper,hard
+voting systems,open primaries,ballot paper,hard
+voting systems,system,voter intimidation,hard
+voucher system,education,stds,global_easy
+voucher system,voucher scheme,condorcet winner,global_easy
+wagering,gambling,absentee,global_easy
+wages,work,housewives,hard
+walney wind farm,energy supply,case,global_easy
+walney wind farm,wind power,life imprisonment,global_easy
+war,nuclear weapons,defending state,hard
+war,threat,nuclear powers,hard
+war documents leak,anat kamm,anglo saxon system,global_easy
+war documents leak,leaking,farm,global_easy
+war documents leak,military documents,hereditary monarchy,global_easy
+war in afghanistan,war documents leak,military documents,hard
+war logs,military documents,leaking,hard
+warheads,nuclear weapons,us,easy
+weapon,nuclear weapon design,fusion fuel,hard
+weapon,nuclear weapons,reactors,hard
+weapon,missile,reactors,hard
+weapons,nuclear explosion,yield,hard
+weapons,nuclear explosive devices,yield,hard
+weapons,nuclear weapons,yield,hard
+weapons,warheads,atomic energy,hard
+web companies,google,censor,easy
+web sites,censor,china,hard
+web sites,google,china,hard
+web sites,search results,china,hard
+web sites,web companies,china,hard
+web sites,youtube,china,hard
+welfare state,austerity measures,spending,hard
+welfare state,europe,harsh austerity,hard
+welfare state,social support,spending,hard
+west antarctica,antarctic continent,ross,hard
+whistleblower,anat kamm,military documents,hard
+whistleblower,leaking,military documents,hard
+whitelee wind farm,energy supply,fat man,global_easy
+whitelee wind farm,wind power,democratic party,global_easy
+widespread corruption,bribery,rating board esrb,global_easy
+wikileaks,classified,anat kamm,hard
+wikileaks,leaking,anat kamm,hard
+wikileaks,military documents,prosecutions for treason,hard
+wikileaks,war logs,penalty for treason,hard
+wikileaks documents,leaking,anat kamm,hard
+wikileaks documents,military documents,anat kamm,hard
+wikileaks released,leaking,anat kamm,easy
+wikileaks released,military documents,anat kamm,easy
+wind,energy supply,artificial contraception,global_easy
+wind,renewable electricity,late july,global_easy
+wind,wind power,invasive procedure,global_easy
+wind energy,energy supply,installed capacity,hard
+wind energy,renewable electricity,installed capacity,hard
+wind energy,renewable energy technologies,installed capacity,hard
+wind energy,wind energy projects,installed capacity,hard
+wind energy,wind power,installed capacity,hard
+wind energy,wind speed,installed capacity,hard
+wind energy association,energy supply,steam,global_easy
+wind energy association,wind power,professional sports,global_easy
+wind energy policy,wind power,creator god,global_easy
+wind energy projects,energy supply,code,global_easy
+wind energy projects,wind power,nuclear suppliers group,global_easy
+wind farm,energy supply,electrical,hard
+wind farm,wind energy policy,electrical,hard
+wind farm,wind power,electrical,hard
+wind power,electrical,capacity credit,hard
+wind power,electricity generation,capacity credit,hard
+wind power,energy supply,capacity credit,hard
+wind power,wind power,capacity credit,hard
+wind power capacity,capacity credit,generating,hard
+wind power capacity,electrical,generating,hard
+wind power capacity,energy supply,generating,hard
+wind power capacity,installed capacity,generating,hard
+wind power capacity,wind energy policy,generating,hard
+wind power capacity,wind power,generating,hard
+wind project,largest wind farm,plants,hard
+wind project,projects,national grid,hard
+wind project,wind power,national grid,hard
+wind speed,wind power,energy supply,hard
+wind turbine,energy supply,generating,hard
+wind turbine,wind energy association,generating,hard
+wind turbine,wind energy projects,generating,hard
+wind turbine,wind power,generating,hard
+wind turbine,wind speed,generating,hard
+wind turbines,electricity production,national grid,easy
+wind turbines,energy supply,national grid,easy
+wind turbines,renewable electricity,national grid,easy
+wind turbines,wind power,national grid,easy
+winning numbers,gambling,unskilled workers,global_easy
+winning the jackpot,bet,atlantic city,hard
+winning the jackpot,gambling,atlantic city,hard
+winning the jackpot,lotto,atlantic city,hard
+winnings,gambling,court of appeals,global_easy
+wipo,intellectual property rights,shan state,global_easy
+women,housewives,family,hard
+work,jobs,economic success,hard
+work,work,economic success,hard
+workers,collective bargaining rights,delegates,easy
+workers,decent work,delegates,easy
+workers,trades unions,league of nations,easy
+world boxing,boxing,ogallala,global_easy
+world war ii,nuclear weapons,jurisdictions,global_easy
+world war ii,us,disease,global_easy
+wrestling,boxing,bout,global_easy
+yangon,myanmar,suu kyi,hard
+yangon,shwedagon pagoda,suu kyi,hard
+year round,year round schooling,children,easy
+youth,minors,violent video games,hard
+youth violence,minors,violent video games,hard
+youtube,google,search results,hard

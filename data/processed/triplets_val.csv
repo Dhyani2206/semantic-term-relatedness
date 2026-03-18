@@ -1,0 +1,354 @@
+anchor,positive,negative,negative_type
+abortion,partial birth abortions,statute,easy
+abortion rights,legal,weeks,easy
+abortion rights,partial birth abortions,weeks,easy
+abortions,partial birth abortions,darwin's theory,global_easy
+acceptance of evolution,creationism,poll,easy
+acceptance of evolution,evolution,poll,easy
+acceptance of evolution,neo creationists,poll,easy
+acceptance of evolution,objection to evolution,origin,easy
+africa,aid,trade,easy
+aid,debt relief,transfer,hard
+aid,donor countries,transfer,hard
+aid,poor communities,trade,hard
+aid,subsidized,trade,hard
+aid,welfare programs,trade,hard
+aid,aid,transfer,hard
+aid agencies,aid,trade,easy
+aid effectiveness,aid,combination of goods,easy
+aid effectiveness,international aid,trade,easy
+aid organizations,poor communities,trade,easy
+aid organizations,aid,trade,easy
+assistance,aid,trade,easy
+banning abortion,partial birth abortions,recipient country,global_easy
+belief in creationism,creationism,world trade organization,global_easy
+belief in creationism,evolution,sleep,global_easy
+belief in evolution,creationism,eating,global_easy
+belief in evolution,evolution,diversity of life,global_easy
+bmi,fat percentage,metabolic equivalent,hard
+childhood obesity,eating,students,easy
+childhood obesity,fat percentage,school rules,easy
+childhood obesity,physical education,school rules,easy
+children,physical education,summerhill school,easy
+china and india,poor communities,subsidized,easy
+countries,world,tariff,hard
+country,country level,trade,hard
+country,poor nations,trade,hard
+creation,creationism,fossil record,hard
+creation,creationists claim,fossil record,hard
+creation,evolution,macroevolution,hard
+creation evolution controversy,creationism,belief,hard
+creation evolution controversy,creationist organizations,belief,hard
+creation evolution controversy,evolution,belief,hard
+creation evolution controversy,macroevolution,belief,hard
+creation science,belief in evolution,dover area school,hard
+creation science,creationism,dover area school,hard
+creation science,evolution,dover area school,hard
+creationism,creationism,dover area school,hard
+creationism,evolution,dover area school,hard
+creationism,evolution and religion,dover area school,hard
+creationism,ussher chronology,dover area school,hard
+creationist,creationism,life,hard
+creationist,earth creationism,life,hard
+creationist,evolution,life,hard
+creationist,objection to evolution,life,hard
+creationist organizations,creationism,school rules,global_easy
+creationist organizations,evolution,case,global_easy
+creationists,belief in creationism,area school,easy
+creationists,creationism,life,easy
+creationists claim,creationism,royal college,global_easy
+culture of poverty,poor communities,china and india,hard
+culture of poverty,poor nations,china and india,hard
+cycle of poverty,living in poverty,development aid,hard
+cycle of poverty,poor children,subsidized,hard
+cycle of poverty,poor communities,development aid,hard
+darwin's theory,creationism,creationists claim,global_easy
+darwin's theory,evolution,living in poverty,global_easy
+debt relief,poor communities,subsidized,hard
+developing countries,poor communities,agriculture,hard
+developing countries,africa,agriculture,hard
+developing countries,aid,subsidized,hard
+development,aid,trade,hard
+development aid,poor communities,trade,easy
+development aid,aid,world,easy
+development aid,aid organizations,trade,easy
+development aid,poor nations,world,easy
+development assistance committee,aid,africa,hard
+development assistance committee,aid agencies,africa,hard
+development assistance committee,assistance,africa,hard
+discovery institute,creationism,science classrooms,hard
+discovery institute,darwin's theory,science classrooms,hard
+discovery institute,evolution,evidence for evolution,hard
+distribution of income,poor communities,welfare programs,hard
+diversity of life,evolution,creationism,hard
+doe v bolton,banning abortion,poverty trap,global_easy
+donor,aid,poverty reduction measures,hard
+donor,international aid,poverty reduction measures,hard
+donor and recipient,aid,exports,easy
+donor and recipient,international aid,tariff,easy
+donors,aid,world trade organization,easy
+earth creationism,creationism,severe obesity,global_easy
+earth creationism,evolution,pro choice movement,global_easy
+economic,welfare programs,subsidized,hard
+economic development,aid,evidence for evolution,global_easy
+economic development,trade,productivity,global_easy
+economic inequality,poor communities,subsidized,hard
+edwards v aguillard,creationism,modern evolutionary synthesis,hard
+edwards v aguillard,evolution,modern evolutionary synthesis,hard
+effect of inequality,income distribution,poor nations,hard
+effect of inequality,poor communities,poor nations,hard
+effectiveness of aid,aid,recipient country,hard
+evidence for evolution,creationism,case,global_easy
+evidence for evolution,evolution,objection to evolution,global_easy
+evolution,creationism,natural,hard
+evolution,creationist organizations,natural,hard
+evolution,darwin's theory,natural,hard
+evolution,evolution,natural,hard
+evolution and religion,creationism,development aid,global_easy
+evolution and religion,evolution,cardiovascular,global_easy
+evolutionary,creationism,dover area school,easy
+evolutionary,darwin's theory,area school,easy
+evolutionary,earth creationism,dover area school,easy
+evolutionary,evolution,dover area school,easy
+evolutionary theory,creationism,area school,easy
+evolutionary theory,earth creationism,area school,easy
+evolutionary theory,evolution,origin,easy
+evolutionary theory,objection to evolution,origin,easy
+evolutionary theory,science classrooms,area school,easy
+excess body fat,gain weight,play,easy
+excess body fat,physical education,play,easy
+excess body fat,sedentary,play,easy
+exercise,gain weight,world,global_easy
+exercise,physical education,disease,global_easy
+exercise,sedentary,abortion is morally,global_easy
+exercise,severe obesity,transfer,global_easy
+exports,trade,aid,easy
+fat,person's weight,cardiovascular,hard
+fat,physical education,cardiovascular,hard
+fetal,partial birth abortions,weeks,easy
+fetus,partial birth abortions,agricultural,global_easy
+food aid,poor communities,millennium development goals,global_easy
+food aid,subsidized,world trade organization,global_easy
+foreign aid,development aid,exports,easy
+foreign aid,poor nations,exports,easy
+foreign aid,poverty reduction strategy,country level,easy
+foreign aid,subsidized,farmers,easy
+foreign aid,aid,exports,easy
+fossil record,evolution,creationism,hard
+fossils,evolution,creationism,easy
+free trade,trade,quality of life,easy
+free trade increases,trade,aid,easy
+gain weight,physical education,basic,global_easy
+genesis creation narrative,belief,public school science,hard
+genesis creation narrative,creationism,life,hard
+genesis creation narrative,evolution,public school science,hard
+genesis creation narrative,modern evolutionary synthesis,life,hard
+gonzales v carhart,partial birth abortions,weeks,easy
+goods and services,combination of goods,assistance,hard
+goods and services,exports,assistance,hard
+goods and services,trade,free trade increases,hard
+health,physical education,partial birth abortions,hard
+impact of aid,aid,money,hard
+impact of aid,poor nations,money,hard
+impact of aid,poverty reduction measures,money,hard
+income,poor communities,fee waivers,hard
+income,wages,fee waivers,hard
+income distribution,poor communities,subsidized,hard
+income inequality,income distribution,subsidized,hard
+income inequality,poor communities,debt relief,hard
+incomes,poor communities,subsidized,hard
+induced abortion,partial birth abortions,earth creationism,global_easy
+inequality,poor communities,poor nations,hard
+intelligent design,creationism,life,hard
+intelligent design,darwin's theory,life,hard
+intelligent design,evidence for evolution,life,hard
+intelligent design,evolution,life,hard
+intelligent design,macroevolution,life,hard
+intelligent design,origin of life,life,hard
+intelligent design,ussher chronology,life,hard
+intelligent design movement,belief in evolution,science classrooms,hard
+intelligent design movement,creationism,science classrooms,hard
+intelligent design movement,evolution,science classrooms,hard
+intelligent design movement,ussher chronology,science classrooms,hard
+international aid,aid,trade,easy
+issue of abortion,partial birth abortions,poor children,global_easy
+late term,partial birth abortions,weeks,hard
+late term abortions,partial birth abortions,abortion is morally,hard
+legal abortion,partial birth abortions,rape or incest,hard
+legalized abortion,induced abortion,case,easy
+legalized abortion,partial birth abortions,case,easy
+legalized abortion,roe decision,case,easy
+legalized abortion,support abortion,case,easy
+levels of inequality,poor communities,subsidized,easy
+life,partial birth abortions,health,hard
+life on earth,creationism,natural,easy
+life on earth,evolution,natural,easy
+life on earth,fossil record,natural,easy
+living in poverty,poor communities,subsidized,hard
+low income countries,incomes,trade,hard
+low income countries,poor communities,millennium development goals,hard
+low income countries,aid,millennium development goals,hard
+low income countries,economic development,millennium development goals,hard
+low income countries,money,subsidized,hard
+low income countries,poverty reduction measures,millennium development goals,hard
+low income countries,poverty trap,millennium development goals,hard
+low income countries,quality of life,trade,hard
+macroevolution,creationism,students,global_easy
+macroevolution,evolution,selection,global_easy
+millennium development goals,aid,poor communities,hard
+missionaries,aid,trade,easy
+modern evolutionary synthesis,creationism,partial birth abortions,global_easy
+modern evolutionary synthesis,evolution,origin of life,global_easy
+money,aid,controversy,global_easy
+money,trade,millennium development goals,global_easy
+natural selection,creationism,origin,easy
+natural selection,evolution,origin,easy
+natural selection,selection,origin,easy
+neo creationists,creationism,living in poverty,global_easy
+neo creationists,evolution,free trade increases,global_easy
+obese,disease,quality of life,global_easy
+obese,physical education,poor nations,global_easy
+obese children,physical education,living in poverty,global_easy
+obesity,physical education,pro life supporters,global_easy
+obesity in children,physical education,cardiovascular,hard
+obesity in children,sedentary,cardiovascular,hard
+objection to evolution,creationism,rape or incest,global_easy
+objection to evolution,evolution,money,global_easy
+origin of life,creationism,donor countries,global_easy
+overseas development institute,aid,africa,hard
+overseas development institute,assistance,africa,hard
+overseas development institute,international aid,africa,hard
+overweight,physical education,quality of life,global_easy
+overweight and obese,diabetes,pro life supporters,global_easy
+overweight and obese,fat percentage,woman's health,global_easy
+overweight and obese,food,case,global_easy
+overweight and obese,physical education,good governance,global_easy
+overweight and obesity,cardiovascular,school rules,easy
+overweight and obesity,physical education,school rules,easy
+overweight or obese,physical education,transfer,global_easy
+overweight or obese,sedentary,levels of inequality,global_easy
+paris declaration,aid,civil society organisations,hard
+partial birth abortion,partial birth abortions,statute,easy
+partial birth abortions,partial birth abortions,ussher chronology,global_easy
+physical,physical education,metabolic equivalent,easy
+physical activity,physical education,school meeting,easy
+physical activity,severe obesity,school meeting,easy
+physical education,physical education,diabetes,hard
+physical education curriculum,physical education,diabetes,easy
+physical exercise,person's weight,roe decision,global_easy
+physical exercise,physical education,fat percentage,global_easy
+physical fitness,fat percentage,sleep,easy
+physical fitness,physical education,sleep,easy
+poor,food aid,subsidized,hard
+poor,poor communities,subsidized,hard
+poor,poor nations,subsidized,hard
+poor children,poor communities,life,global_easy
+poor countries,poor communities,country level,hard
+poor countries,africa,country level,hard
+poor countries,aid,trade,hard
+poor nations,poor communities,subsidized,hard
+poor nations,aid,trade,hard
+post abortion syndrome,partial birth abortions,roe decision,easy
+poverty,income distribution,productivity,hard
+poverty,levels of inequality,productivity,hard
+poverty,poor communities,productivity,hard
+poverty,aid,productivity,hard
+poverty reduction,millennium development goals,good governance,hard
+poverty reduction,poor communities,wages,hard
+poverty reduction,subsidized,productivity,hard
+poverty reduction,welfare programs,good governance,hard
+poverty reduction,aid,wages,hard
+poverty reduction,money,productivity,hard
+poverty reduction,poverty reduction measures,wages,hard
+poverty reduction measures,aid organizations,trade,hard
+poverty reduction measures,poor children,trade,hard
+poverty reduction measures,poor communities,trade,hard
+poverty reduction measures,subsidized,trade,hard
+poverty reduction measures,aid,trade,hard
+poverty reduction strategy,poor communities,welfare programs,global_easy
+poverty reduction strategy,subsidized,disease,global_easy
+pregnancy,partial birth abortions,woman didn't,easy
+pregnant woman,partial birth abortions,guttmacher institute,hard
+pro choice,partial birth abortions,conditionality,global_easy
+pro choice movement,partial birth abortions,poor nations,global_easy
+pro life,partial birth abortions,health,easy
+pro life advocates,partial birth abortions,legal,easy
+pro life advocates,pro life supporters,legal,easy
+pro life movement,partial birth abortions,trade,global_easy
+pro life supporters,partial birth abortions,sleep,global_easy
+procedure,partial birth abortions,woman's health,easy
+protectionist,trade,aid,easy
+rate of obesity,eating,tariff,global_easy
+rate of obesity,food,development aid,global_easy
+rates of obesity,physical education,cardiovascular,hard
+rates of obesity,severe obesity,cardiovascular,hard
+recipient country,aid,trade,easy
+redistribution of wealth,poor communities,millennium development goals,hard
+reducing poverty,debt relief,fee waivers,hard
+reducing poverty,millennium development goals,fee waivers,hard
+reducing poverty,poor communities,productivity,hard
+reducing poverty,subsidized,productivity,hard
+restrictions on abortion,partial birth abortions,physical education,global_easy
+risk of obesity,fat percentage,sleep,easy
+roe decision,partial birth abortions,subsidized,global_easy
+roe v wade,blackmun,health,easy
+roe v wade,case,health,easy
+safety net programs,poor communities,productivity,easy
+safety net programs,subsidized,productivity,easy
+safety net programs,welfare programs,productivity,easy
+safety nets,subsidized,fee waivers,hard
+science,evolution,earth creationism,hard
+scientific,creationism,evolution,hard
+scientific community,evolution,origin of life,hard
+scientific theory,belief in creationism,evidence for evolution,hard
+scientific theory,creationism,evidence for evolution,hard
+scientific theory,earth creationism,evidence for evolution,hard
+scientific theory,evolution,evidence for evolution,hard
+scientific theory,macroevolution,evidence for evolution,hard
+sedentary,physical education,free trade increases,global_easy
+severe obesity,physical education,life,global_easy
+standard of living,money,agriculture,easy
+standard of living,poverty reduction measures,trade,easy
+stenberg v carhart,partial birth abortions,blackmun,easy
+students,physical education,play,global_easy
+subsidies,aid organizations,donor countries,hard
+subsidies,poor communities,donor countries,hard
+subsidies,subsidized,donor countries,hard
+subsidies for fertilizer,subsidized,poor children,easy
+support abortion,partial birth abortions,living in poverty,global_easy
+supporters of evolution,creationism,poll,easy
+supporters of evolution,evolution,poll,easy
+supporters of evolution,objection to evolution,poll,easy
+supreme court,restrictions on abortion,woman didn't,easy
+supreme court,roe decision,woman didn't,easy
+tariff,trade,aid,easy
+teaching of evolution,creationism,dover area school,hard
+teaching of evolution,evidence for evolution,dover area school,hard
+teaching of evolution,evolution,dover area school,hard
+teaching of evolution,evolution and religion,dover area school,hard
+teaching of evolution,macroevolution,dover area school,hard
+teaching of evolution,modern evolutionary synthesis,dover area school,hard
+theistic evolution,creationism,fossils,hard
+theistic evolution,evolution,fossils,hard
+theory of evolution,creationism,controversy,hard
+theory of evolution,creationists claim,controversy,hard
+theory of evolution,evolution,controversy,hard
+theory of evolution,ussher chronology,controversy,hard
+trade,trade,world,hard
+trimester abortion,partial birth abortions,missionaries,global_easy
+ussher chronology,creationism,health,global_easy
+ussher chronology,evolution,belief in creationism,global_easy
+wages,poor communities,subsidized,easy
+welfare,food aid,donor countries,easy
+welfare,living in poverty,donor countries,easy
+welfare,poor communities,donor countries,easy
+welfare programs,poor communities,rape or incest,global_easy
+welfare programs,subsidized,support abortion,global_easy
+woman,partial birth abortions,pro life movement,hard
+woman's health,partial birth abortions,poverty reduction strategy,global_easy
+world trade organization,trade,aid,easy
+young earth,creationism,evolution,hard
+young earth creationism,belief in evolution,science classrooms,easy
+young earth creationism,creationism,science classrooms,easy
+young earth creationism,evidence for evolution,science classrooms,easy
+young earth creationism,evolution,science classrooms,easy

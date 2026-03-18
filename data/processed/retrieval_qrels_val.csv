@@ -1,0 +1,426 @@
+query_id,doc_id,relevance,score,topic,term1,term2,relatedness_level
+q_000000,d_000081,1.0,1.0,partial birth abortions should be banned,abortion,partial birth abortions,high
+q_000001,d_000081,0.7,0.7,partial birth abortions should be banned,abortion is morally,partial birth abortions,high
+q_000002,d_000064,0.8,0.8,partial birth abortions should be banned,abortion rights,legal,high
+q_000002,d_000081,0.9,0.9,partial birth abortions should be banned,abortion rights,partial birth abortions,high
+q_000003,d_000015,0.7,0.7,partial birth abortions should be banned,abortions,blackmun,high
+q_000003,d_000081,1.0,1.0,partial birth abortions should be banned,abortions,partial birth abortions,high
+q_000004,d_000026,1.0,1.0,evolution has disproved creationism,acceptance of evolution,creationism,high
+q_000004,d_000041,1.0,1.0,evolution has disproved creationism,acceptance of evolution,evolution,high
+q_000004,d_000077,0.9,0.9,evolution has disproved creationism,acceptance of evolution,neo creationists,high
+q_000004,d_000078,1.0,1.0,evolution has disproved creationism,acceptance of evolution,objection to evolution,high
+q_000005,d_000004,0.8,0.8,trade is better than aid,africa,aid,high
+q_000006,d_000119,0.7,0.7,trade is better than aid,agricultural,trade,high
+q_000007,d_000119,0.7,0.7,trade is better than aid,agriculture,trade,high
+q_000008,d_000004,1.0,1.0,trade is better than aid,aid,aid,high
+q_000008,d_000030,0.9,0.9,poor communities should be subsidized,aid,debt relief,high
+q_000008,d_000035,0.8,0.8,poor communities should be subsidized,aid,donor countries,high
+q_000008,d_000087,0.9,0.9,poor communities should be subsidized,aid,poor communities,high
+q_000008,d_000114,0.9,0.9,poor communities should be subsidized,aid,subsidized,high
+q_000008,d_000125,1.0,1.0,poor communities should be subsidized,aid,welfare programs,high
+q_000009,d_000004,1.0,1.0,trade is better than aid,aid agencies,aid,high
+q_000010,d_000004,1.0,1.0,trade is better than aid,aid effectiveness,aid,high
+q_000010,d_000063,1.0,1.0,trade is better than aid,aid effectiveness,international aid,high
+q_000011,d_000004,1.0,1.0,trade is better than aid,aid organizations,aid,high
+q_000011,d_000087,0.9,0.9,poor communities should be subsidized,aid organizations,poor communities,high
+q_000011,d_000114,0.7,0.7,poor communities should be subsidized,aid organizations,subsidized,high
+q_000013,d_000004,1.0,1.0,trade is better than aid,assistance,aid,high
+q_000014,d_000081,0.7,0.7,partial birth abortions should be banned,availability of abortion,partial birth abortions,high
+q_000015,d_000081,1.0,1.0,partial birth abortions should be banned,banning abortion,partial birth abortions,high
+q_000017,d_000026,0.7,0.7,evolution has disproved creationism,belief,creationism,high
+q_000018,d_000026,1.0,1.0,evolution has disproved creationism,belief in creationism,creationism,high
+q_000018,d_000041,0.9,0.9,evolution has disproved creationism,belief in creationism,evolution,high
+q_000019,d_000026,1.0,1.0,evolution has disproved creationism,belief in evolution,creationism,high
+q_000019,d_000041,1.0,1.0,evolution has disproved creationism,belief in evolution,evolution,high
+q_000022,d_000045,1.0,1.0,physical education should be compulsory,bmi,fat percentage,high
+q_000023,d_000083,0.7,0.7,physical education should be compulsory,body fat,physical education,high
+q_000028,d_000038,0.9,0.9,physical education should be compulsory,childhood obesity,eating,high
+q_000028,d_000045,1.0,1.0,physical education should be compulsory,childhood obesity,fat percentage,high
+q_000028,d_000083,0.9,0.9,physical education should be compulsory,childhood obesity,physical education,high
+q_000029,d_000083,0.8,0.8,physical education should be compulsory,children,physical education,high
+q_000029,d_000113,0.7,0.7,physical education should be compulsory,children,students,high
+q_000030,d_000087,0.8,0.8,poor communities should be subsidized,china and india,poor communities,high
+q_000032,d_000004,0.7,0.7,trade is better than aid,civil society organisations,aid,high
+q_000033,d_000119,0.7,0.7,trade is better than aid,combination of goods,trade,high
+q_000038,d_000128,0.9,0.9,trade is better than aid,countries,world,high
+q_000039,d_000025,0.9,0.9,trade is better than aid,country,country level,high
+q_000039,d_000088,0.8,0.8,trade is better than aid,country,poor nations,high
+q_000041,d_000026,1.0,1.0,evolution has disproved creationism,creation,creationism,high
+q_000041,d_000028,0.9,0.9,evolution has disproved creationism,creation,creationists claim,high
+q_000041,d_000041,0.9,0.9,evolution has disproved creationism,creation,evolution,high
+q_000041,d_000073,0.7,0.7,evolution has disproved creationism,creation,modern evolutionary synthesis,high
+q_000042,d_000026,1.0,1.0,evolution has disproved creationism,creation evolution controversy,creationism,high
+q_000042,d_000027,0.9,0.9,evolution has disproved creationism,creation evolution controversy,creationist organizations,high
+q_000042,d_000041,1.0,1.0,evolution has disproved creationism,creation evolution controversy,evolution,high
+q_000042,d_000069,0.8,0.8,evolution has disproved creationism,creation evolution controversy,macroevolution,high
+q_000043,d_000014,1.0,1.0,evolution has disproved creationism,creation science,belief in evolution,high
+q_000043,d_000026,0.9,0.9,evolution has disproved creationism,creation science,creationism,high
+q_000043,d_000041,1.0,1.0,evolution has disproved creationism,creation science,evolution,high
+q_000044,d_000026,1.0,1.0,evolution has disproved creationism,creationism,creationism,high
+q_000044,d_000041,1.0,1.0,evolution has disproved creationism,creationism,evolution,high
+q_000044,d_000042,1.0,1.0,evolution has disproved creationism,creationism,evolution and religion,high
+q_000044,d_000122,1.0,1.0,evolution has disproved creationism,creationism,ussher chronology,high
+q_000045,d_000026,1.0,1.0,evolution has disproved creationism,creationist,creationism,high
+q_000045,d_000037,1.0,1.0,evolution has disproved creationism,creationist,earth creationism,high
+q_000045,d_000041,1.0,1.0,evolution has disproved creationism,creationist,evolution,high
+q_000045,d_000078,1.0,1.0,evolution has disproved creationism,creationist,objection to evolution,high
+q_000046,d_000026,1.0,1.0,evolution has disproved creationism,creationist organizations,creationism,high
+q_000046,d_000041,0.9,0.9,evolution has disproved creationism,creationist organizations,evolution,high
+q_000047,d_000013,1.0,1.0,evolution has disproved creationism,creationists,belief in creationism,high
+q_000047,d_000026,1.0,1.0,evolution has disproved creationism,creationists,creationism,high
+q_000048,d_000026,1.0,1.0,evolution has disproved creationism,creationists claim,creationism,high
+q_000048,d_000041,0.7,0.7,evolution has disproved creationism,creationists claim,evolution,high
+q_000049,d_000087,1.0,1.0,poor communities should be subsidized,culture of poverty,poor communities,high
+q_000049,d_000088,1.0,1.0,poor communities should be subsidized,culture of poverty,poor nations,high
+q_000050,d_000068,1.0,1.0,poor communities should be subsidized,cycle of poverty,living in poverty,high
+q_000050,d_000086,1.0,1.0,poor communities should be subsidized,cycle of poverty,poor children,high
+q_000050,d_000087,1.0,1.0,poor communities should be subsidized,cycle of poverty,poor communities,high
+q_000051,d_000026,1.0,1.0,evolution has disproved creationism,darwin's theory,creationism,high
+q_000051,d_000041,1.0,1.0,evolution has disproved creationism,darwin's theory,evolution,high
+q_000052,d_000087,0.9,0.9,poor communities should be subsidized,debt relief,poor communities,high
+q_000054,d_000106,0.7,0.7,physical education should be compulsory,democratic schools,school rules,high
+q_000055,d_000088,0.7,0.7,trade is better than aid,developing,poor nations,high
+q_000056,d_000001,0.9,0.9,trade is better than aid,developing countries,africa,high
+q_000056,d_000004,1.0,1.0,trade is better than aid,developing countries,aid,high
+q_000056,d_000087,1.0,1.0,poor communities should be subsidized,developing countries,poor communities,high
+q_000057,d_000004,0.9,0.9,trade is better than aid,development,aid,high
+q_000057,d_000052,0.7,0.7,trade is better than aid,development,free trade increases,high
+q_000058,d_000004,1.0,1.0,trade is better than aid,development aid,aid,high
+q_000058,d_000006,1.0,1.0,trade is better than aid,development aid,aid organizations,high
+q_000058,d_000087,0.9,0.9,poor communities should be subsidized,development aid,poor communities,high
+q_000058,d_000088,0.9,0.9,trade is better than aid,development aid,poor nations,high
+q_000058,d_000114,0.7,0.7,poor communities should be subsidized,development aid,subsidized,high
+q_000059,d_000004,0.8,0.8,trade is better than aid,development assistance committee,aid,high
+q_000059,d_000005,0.8,0.8,trade is better than aid,development assistance committee,aid agencies,high
+q_000059,d_000008,0.9,0.9,trade is better than aid,development assistance committee,assistance,high
+q_000061,d_000026,1.0,1.0,evolution has disproved creationism,discovery institute,creationism,high
+q_000061,d_000029,0.8,0.8,evolution has disproved creationism,discovery institute,darwin's theory,high
+q_000061,d_000041,0.8,0.8,evolution has disproved creationism,discovery institute,evolution,high
+q_000063,d_000087,1.0,1.0,poor communities should be subsidized,distribution of income,poor communities,high
+q_000063,d_000114,0.7,0.7,poor communities should be subsidized,distribution of income,subsidized,high
+q_000064,d_000041,0.8,0.8,evolution has disproved creationism,diversity of life,evolution,high
+q_000065,d_000010,0.8,0.8,partial birth abortions should be banned,doe v bolton,banning abortion,high
+q_000065,d_000081,0.7,0.7,partial birth abortions should be banned,doe v bolton,partial birth abortions,high
+q_000066,d_000116,0.7,0.7,partial birth abortions should be banned,donohue and levitt,support abortion,high
+q_000067,d_000004,1.0,1.0,trade is better than aid,donor,aid,high
+q_000067,d_000063,0.8,0.8,trade is better than aid,donor,international aid,high
+q_000068,d_000004,1.0,1.0,trade is better than aid,donor and recipient,aid,high
+q_000068,d_000063,0.8,0.8,trade is better than aid,donor and recipient,international aid,high
+q_000070,d_000004,1.0,1.0,trade is better than aid,donors,aid,high
+q_000070,d_000089,0.7,0.7,trade is better than aid,donors,poverty reduction measures,high
+q_000073,d_000026,1.0,1.0,evolution has disproved creationism,earth creationism,creationism,high
+q_000073,d_000041,1.0,1.0,evolution has disproved creationism,earth creationism,evolution,high
+q_000076,d_000087,0.7,0.7,poor communities should be subsidized,economic,poor communities,high
+q_000076,d_000125,0.8,0.8,poor communities should be subsidized,economic,welfare programs,high
+q_000077,d_000004,1.0,1.0,trade is better than aid,economic development,aid,high
+q_000077,d_000119,0.9,0.9,trade is better than aid,economic development,trade,high
+q_000079,d_000087,1.0,1.0,poor communities should be subsidized,economic inequality,poor communities,high
+q_000080,d_000026,1.0,1.0,evolution has disproved creationism,edwards v aguillard,creationism,high
+q_000080,d_000041,0.9,0.9,evolution has disproved creationism,edwards v aguillard,evolution,high
+q_000081,d_000060,0.8,0.8,poor communities should be subsidized,effect of inequality,income distribution,high
+q_000081,d_000087,0.9,0.9,poor communities should be subsidized,effect of inequality,poor communities,high
+q_000082,d_000004,1.0,1.0,trade is better than aid,effectiveness of aid,aid,high
+q_000083,d_000026,1.0,1.0,evolution has disproved creationism,evidence for evolution,creationism,high
+q_000083,d_000041,1.0,1.0,evolution has disproved creationism,evidence for evolution,evolution,high
+q_000084,d_000026,1.0,1.0,evolution has disproved creationism,evolution,creationism,high
+q_000084,d_000027,1.0,1.0,evolution has disproved creationism,evolution,creationist organizations,high
+q_000084,d_000028,0.7,0.7,evolution has disproved creationism,evolution,creationists claim,high
+q_000084,d_000029,1.0,1.0,evolution has disproved creationism,evolution,darwin's theory,high
+q_000084,d_000041,1.0,1.0,evolution has disproved creationism,evolution,evolution,high
+q_000085,d_000026,1.0,1.0,evolution has disproved creationism,evolution and religion,creationism,high
+q_000085,d_000041,1.0,1.0,evolution has disproved creationism,evolution and religion,evolution,high
+q_000086,d_000026,0.8,0.8,evolution has disproved creationism,evolutionary,creationism,high
+q_000086,d_000029,1.0,1.0,evolution has disproved creationism,evolutionary,darwin's theory,high
+q_000086,d_000037,0.9,0.9,evolution has disproved creationism,evolutionary,earth creationism,high
+q_000086,d_000041,0.9,0.9,evolution has disproved creationism,evolutionary,evolution,high
+q_000086,d_000077,0.7,0.7,evolution has disproved creationism,evolutionary,neo creationists,high
+q_000087,d_000026,1.0,1.0,evolution has disproved creationism,evolutionary theory,creationism,high
+q_000087,d_000037,1.0,1.0,evolution has disproved creationism,evolutionary theory,earth creationism,high
+q_000087,d_000041,1.0,1.0,evolution has disproved creationism,evolutionary theory,evolution,high
+q_000087,d_000078,1.0,1.0,evolution has disproved creationism,evolutionary theory,objection to evolution,high
+q_000087,d_000107,0.8,0.8,evolution has disproved creationism,evolutionary theory,science classrooms,high
+q_000088,d_000053,1.0,1.0,physical education should be compulsory,excess body fat,gain weight,high
+q_000088,d_000083,0.8,0.8,physical education should be compulsory,excess body fat,physical education,high
+q_000088,d_000108,0.9,0.9,physical education should be compulsory,excess body fat,sedentary,high
+q_000089,d_000053,1.0,1.0,physical education should be compulsory,exercise,gain weight,high
+q_000089,d_000083,0.9,0.9,physical education should be compulsory,exercise,physical education,high
+q_000089,d_000108,1.0,1.0,physical education should be compulsory,exercise,sedentary,high
+q_000089,d_000110,1.0,1.0,physical education should be compulsory,exercise,severe obesity,high
+q_000090,d_000119,1.0,1.0,trade is better than aid,exports,trade,high
+q_000092,d_000045,0.7,0.7,physical education should be compulsory,fast food restaurants,fat percentage,high
+q_000093,d_000082,0.9,0.9,physical education should be compulsory,fat,person's weight,high
+q_000093,d_000083,0.8,0.8,physical education should be compulsory,fat,physical education,high
+q_000096,d_000081,0.9,0.9,partial birth abortions should be banned,fetal,partial birth abortions,high
+q_000097,d_000081,0.7,0.7,partial birth abortions should be banned,fetal pain,partial birth abortions,high
+q_000098,d_000081,1.0,1.0,partial birth abortions should be banned,fetus,partial birth abortions,high
+q_000101,d_000087,0.9,0.9,poor communities should be subsidized,food aid,poor communities,high
+q_000101,d_000114,0.9,0.9,poor communities should be subsidized,food aid,subsidized,high
+q_000102,d_000004,1.0,1.0,trade is better than aid,foreign aid,aid,high
+q_000102,d_000031,1.0,1.0,poor communities should be subsidized,foreign aid,development aid,high
+q_000102,d_000072,0.7,0.7,trade is better than aid,foreign aid,missionaries,high
+q_000102,d_000087,0.7,0.7,poor communities should be subsidized,foreign aid,poor communities,high
+q_000102,d_000088,1.0,1.0,poor communities should be subsidized,foreign aid,poor nations,high
+q_000102,d_000090,0.8,0.8,poor communities should be subsidized,foreign aid,poverty reduction strategy,high
+q_000102,d_000091,0.7,0.7,trade is better than aid,foreign aid,poverty trap,high
+q_000102,d_000114,0.9,0.9,poor communities should be subsidized,foreign aid,subsidized,high
+q_000102,d_000125,0.7,0.7,poor communities should be subsidized,foreign aid,welfare programs,high
+q_000103,d_000041,0.9,0.9,evolution has disproved creationism,fossil record,evolution,high
+q_000104,d_000041,0.8,0.8,evolution has disproved creationism,fossils,evolution,high
+q_000105,d_000119,1.0,1.0,trade is better than aid,free trade,trade,high
+q_000106,d_000119,1.0,1.0,trade is better than aid,free trade increases,trade,high
+q_000107,d_000083,0.8,0.8,physical education should be compulsory,gain weight,physical education,high
+q_000108,d_000012,0.9,0.9,evolution has disproved creationism,genesis creation narrative,belief,high
+q_000108,d_000026,1.0,1.0,evolution has disproved creationism,genesis creation narrative,creationism,high
+q_000108,d_000041,1.0,1.0,evolution has disproved creationism,genesis creation narrative,evolution,high
+q_000108,d_000073,1.0,1.0,evolution has disproved creationism,genesis creation narrative,modern evolutionary synthesis,high
+q_000110,d_000081,0.8,0.8,partial birth abortions should be banned,gonzales v carhart,partial birth abortions,high
+q_000112,d_000004,0.7,0.7,trade is better than aid,goods and services,aid,high
+q_000112,d_000022,1.0,1.0,trade is better than aid,goods and services,combination of goods,high
+q_000112,d_000043,0.8,0.8,trade is better than aid,goods and services,exports,high
+q_000112,d_000114,0.7,0.7,poor communities should be subsidized,goods and services,subsidized,high
+q_000112,d_000119,1.0,1.0,trade is better than aid,goods and services,trade,high
+q_000112,d_000129,0.7,0.7,trade is better than aid,goods and services,world trade organization,high
+q_000114,d_000083,1.0,1.0,physical education should be compulsory,health,physical education,high
+q_000116,d_000004,1.0,1.0,trade is better than aid,impact of aid,aid,high
+q_000116,d_000088,0.8,0.8,trade is better than aid,impact of aid,poor nations,high
+q_000116,d_000089,1.0,1.0,trade is better than aid,impact of aid,poverty reduction measures,high
+q_000118,d_000087,0.8,0.8,poor communities should be subsidized,income,poor communities,high
+q_000118,d_000123,1.0,1.0,poor communities should be subsidized,income,wages,high
+q_000119,d_000087,1.0,1.0,poor communities should be subsidized,income distribution,poor communities,high
+q_000120,d_000060,0.9,0.9,poor communities should be subsidized,income inequality,income distribution,high
+q_000120,d_000087,1.0,1.0,poor communities should be subsidized,income inequality,poor communities,high
+q_000121,d_000087,0.9,0.9,poor communities should be subsidized,incomes,poor communities,high
+q_000122,d_000081,1.0,1.0,partial birth abortions should be banned,induced abortion,partial birth abortions,high
+q_000123,d_000087,1.0,1.0,poor communities should be subsidized,inequality,poor communities,high
+q_000125,d_000026,1.0,1.0,evolution has disproved creationism,intelligent design,creationism,high
+q_000125,d_000029,0.9,0.9,evolution has disproved creationism,intelligent design,darwin's theory,high
+q_000125,d_000040,1.0,1.0,evolution has disproved creationism,intelligent design,evidence for evolution,high
+q_000125,d_000041,1.0,1.0,evolution has disproved creationism,intelligent design,evolution,high
+q_000125,d_000069,0.9,0.9,evolution has disproved creationism,intelligent design,macroevolution,high
+q_000125,d_000080,1.0,1.0,evolution has disproved creationism,intelligent design,origin of life,high
+q_000125,d_000122,0.8,0.8,evolution has disproved creationism,intelligent design,ussher chronology,high
+q_000126,d_000014,1.0,1.0,evolution has disproved creationism,intelligent design movement,belief in evolution,high
+q_000126,d_000026,1.0,1.0,evolution has disproved creationism,intelligent design movement,creationism,high
+q_000126,d_000041,0.9,0.9,evolution has disproved creationism,intelligent design movement,evolution,high
+q_000126,d_000122,0.9,0.9,evolution has disproved creationism,intelligent design movement,ussher chronology,high
+q_000127,d_000004,1.0,1.0,trade is better than aid,international aid,aid,high
+q_000128,d_000081,0.9,0.9,partial birth abortions should be banned,issue of abortion,partial birth abortions,high
+q_000129,d_000081,0.8,0.8,partial birth abortions should be banned,late term,partial birth abortions,high
+q_000130,d_000081,1.0,1.0,partial birth abortions should be banned,late term abortions,partial birth abortions,high
+q_000132,d_000081,0.9,0.9,partial birth abortions should be banned,legal abortion,partial birth abortions,high
+q_000132,d_000112,0.7,0.7,partial birth abortions should be banned,legal abortion,statute,high
+q_000133,d_000062,1.0,1.0,partial birth abortions should be banned,legalized abortion,induced abortion,high
+q_000133,d_000081,1.0,1.0,partial birth abortions should be banned,legalized abortion,partial birth abortions,high
+q_000133,d_000103,0.9,0.9,partial birth abortions should be banned,legalized abortion,roe decision,high
+q_000133,d_000116,0.9,0.9,partial birth abortions should be banned,legalized abortion,support abortion,high
+q_000134,d_000087,0.8,0.8,poor communities should be subsidized,levels of inequality,poor communities,high
+q_000135,d_000081,0.8,0.8,partial birth abortions should be banned,life,partial birth abortions,high
+q_000136,d_000026,0.9,0.9,evolution has disproved creationism,life on earth,creationism,high
+q_000136,d_000041,0.8,0.8,evolution has disproved creationism,life on earth,evolution,high
+q_000136,d_000050,0.8,0.8,evolution has disproved creationism,life on earth,fossil record,high
+q_000138,d_000087,1.0,1.0,poor communities should be subsidized,living in poverty,poor communities,high
+q_000139,d_000004,1.0,1.0,trade is better than aid,low income countries,aid,high
+q_000139,d_000039,0.8,0.8,trade is better than aid,low income countries,economic development,high
+q_000139,d_000049,0.7,0.7,poor communities should be subsidized,low income countries,food aid,high
+q_000139,d_000061,1.0,1.0,poor communities should be subsidized,low income countries,incomes,high
+q_000139,d_000074,0.9,0.9,trade is better than aid,low income countries,money,high
+q_000139,d_000087,0.9,0.9,poor communities should be subsidized,low income countries,poor communities,high
+q_000139,d_000089,0.9,0.9,trade is better than aid,low income countries,poverty reduction measures,high
+q_000139,d_000091,0.9,0.9,trade is better than aid,low income countries,poverty trap,high
+q_000139,d_000098,1.0,1.0,trade is better than aid,low income countries,quality of life,high
+q_000140,d_000026,1.0,1.0,evolution has disproved creationism,macroevolution,creationism,high
+q_000140,d_000041,1.0,1.0,evolution has disproved creationism,macroevolution,evolution,high
+q_000143,d_000004,0.8,0.8,trade is better than aid,millennium development goals,aid,high
+q_000143,d_000063,0.7,0.7,trade is better than aid,millennium development goals,international aid,high
+q_000144,d_000004,0.8,0.8,trade is better than aid,missionaries,aid,high
+q_000145,d_000026,0.9,0.9,evolution has disproved creationism,modern evolutionary synthesis,creationism,high
+q_000145,d_000041,1.0,1.0,evolution has disproved creationism,modern evolutionary synthesis,evolution,high
+q_000146,d_000004,1.0,1.0,trade is better than aid,money,aid,high
+q_000146,d_000119,1.0,1.0,trade is better than aid,money,trade,high
+q_000148,d_000026,1.0,1.0,evolution has disproved creationism,natural selection,creationism,high
+q_000148,d_000041,1.0,1.0,evolution has disproved creationism,natural selection,evolution,high
+q_000148,d_000109,0.8,0.8,evolution has disproved creationism,natural selection,selection,high
+q_000151,d_000026,1.0,1.0,evolution has disproved creationism,neo creationists,creationism,high
+q_000151,d_000041,1.0,1.0,evolution has disproved creationism,neo creationists,evolution,high
+q_000153,d_000033,0.8,0.8,physical education should be compulsory,obese,disease,high
+q_000153,d_000083,0.8,0.8,physical education should be compulsory,obese,physical education,high
+q_000154,d_000083,0.8,0.8,physical education should be compulsory,obese children,physical education,high
+q_000155,d_000033,0.7,0.7,physical education should be compulsory,obese people,disease,high
+q_000155,d_000083,0.7,0.7,physical education should be compulsory,obese people,physical education,high
+q_000156,d_000083,0.9,0.9,physical education should be compulsory,obesity,physical education,high
+q_000157,d_000083,1.0,1.0,physical education should be compulsory,obesity in children,physical education,high
+q_000157,d_000108,1.0,1.0,physical education should be compulsory,obesity in children,sedentary,high
+q_000158,d_000026,1.0,1.0,evolution has disproved creationism,objection to evolution,creationism,high
+q_000158,d_000041,1.0,1.0,evolution has disproved creationism,objection to evolution,evolution,high
+q_000160,d_000026,1.0,1.0,evolution has disproved creationism,origin of life,creationism,high
+q_000160,d_000041,0.7,0.7,evolution has disproved creationism,origin of life,evolution,high
+q_000161,d_000004,0.9,0.9,trade is better than aid,overseas development institute,aid,high
+q_000161,d_000008,0.8,0.8,trade is better than aid,overseas development institute,assistance,high
+q_000161,d_000063,0.8,0.8,trade is better than aid,overseas development institute,international aid,high
+q_000162,d_000083,0.8,0.8,physical education should be compulsory,overweight,physical education,high
+q_000163,d_000016,0.7,0.7,physical education should be compulsory,overweight and obese,cardiovascular,high
+q_000163,d_000032,0.8,0.8,physical education should be compulsory,overweight and obese,diabetes,high
+q_000163,d_000045,1.0,1.0,physical education should be compulsory,overweight and obese,fat percentage,high
+q_000163,d_000048,1.0,1.0,physical education should be compulsory,overweight and obese,food,high
+q_000163,d_000083,0.9,0.9,physical education should be compulsory,overweight and obese,physical education,high
+q_000164,d_000016,0.9,0.9,physical education should be compulsory,overweight and obesity,cardiovascular,high
+q_000164,d_000033,0.7,0.7,physical education should be compulsory,overweight and obesity,disease,high
+q_000164,d_000083,0.8,0.8,physical education should be compulsory,overweight and obesity,physical education,high
+q_000165,d_000032,0.7,0.7,physical education should be compulsory,overweight or obese,diabetes,high
+q_000165,d_000083,0.9,0.9,physical education should be compulsory,overweight or obese,physical education,high
+q_000165,d_000108,1.0,1.0,physical education should be compulsory,overweight or obese,sedentary,high
+q_000166,d_000004,0.9,0.9,trade is better than aid,paris declaration,aid,high
+q_000166,d_000005,0.7,0.7,trade is better than aid,paris declaration,aid agencies,high
+q_000167,d_000081,1.0,1.0,partial birth abortions should be banned,partial birth abortion,partial birth abortions,high
+q_000168,d_000081,1.0,1.0,partial birth abortions should be banned,partial birth abortions,partial birth abortions,high
+q_000171,d_000083,1.0,1.0,physical education should be compulsory,physical,physical education,high
+q_000172,d_000083,1.0,1.0,physical education should be compulsory,physical activity,physical education,high
+q_000172,d_000110,1.0,1.0,physical education should be compulsory,physical activity,severe obesity,high
+q_000173,d_000083,1.0,1.0,physical education should be compulsory,physical education,physical education,high
+q_000174,d_000083,1.0,1.0,physical education should be compulsory,physical education curriculum,physical education,high
+q_000175,d_000082,0.8,0.8,physical education should be compulsory,physical exercise,person's weight,high
+q_000175,d_000083,1.0,1.0,physical education should be compulsory,physical exercise,physical education,high
+q_000176,d_000045,1.0,1.0,physical education should be compulsory,physical fitness,fat percentage,high
+q_000176,d_000083,1.0,1.0,physical education should be compulsory,physical fitness,physical education,high
+q_000179,d_000049,0.9,0.9,poor communities should be subsidized,poor,food aid,high
+q_000179,d_000087,1.0,1.0,poor communities should be subsidized,poor,poor communities,high
+q_000179,d_000088,1.0,1.0,poor communities should be subsidized,poor,poor nations,high
+q_000180,d_000087,1.0,1.0,poor communities should be subsidized,poor children,poor communities,high
+q_000180,d_000114,0.7,0.7,poor communities should be subsidized,poor children,subsidized,high
+q_000181,d_000001,1.0,1.0,trade is better than aid,poor countries,africa,high
+q_000181,d_000004,1.0,1.0,trade is better than aid,poor countries,aid,high
+q_000181,d_000087,1.0,1.0,poor communities should be subsidized,poor countries,poor communities,high
+q_000181,d_000098,0.7,0.7,trade is better than aid,poor countries,quality of life,high
+q_000181,d_000128,0.7,0.7,trade is better than aid,poor countries,world,high
+q_000182,d_000004,1.0,1.0,trade is better than aid,poor nations,aid,high
+q_000182,d_000087,1.0,1.0,poor communities should be subsidized,poor nations,poor communities,high
+q_000183,d_000081,1.0,1.0,partial birth abortions should be banned,post abortion syndrome,partial birth abortions,high
+q_000184,d_000004,1.0,1.0,trade is better than aid,poverty,aid,high
+q_000184,d_000030,0.7,0.7,poor communities should be subsidized,poverty,debt relief,high
+q_000184,d_000060,0.8,0.8,poor communities should be subsidized,poverty,income distribution,high
+q_000184,d_000065,0.9,0.9,poor communities should be subsidized,poverty,levels of inequality,high
+q_000184,d_000087,1.0,1.0,poor communities should be subsidized,poverty,poor communities,high
+q_000184,d_000114,0.7,0.7,poor communities should be subsidized,poverty,subsidized,high
+q_000185,d_000004,1.0,1.0,trade is better than aid,poverty reduction,aid,high
+q_000185,d_000061,0.7,0.7,poor communities should be subsidized,poverty reduction,incomes,high
+q_000185,d_000071,0.9,0.9,poor communities should be subsidized,poverty reduction,millennium development goals,high
+q_000185,d_000074,0.8,0.8,trade is better than aid,poverty reduction,money,high
+q_000185,d_000087,1.0,1.0,poor communities should be subsidized,poverty reduction,poor communities,high
+q_000185,d_000089,1.0,1.0,trade is better than aid,poverty reduction,poverty reduction measures,high
+q_000185,d_000114,0.8,0.8,poor communities should be subsidized,poverty reduction,subsidized,high
+q_000185,d_000125,1.0,1.0,poor communities should be subsidized,poverty reduction,welfare programs,high
+q_000186,d_000004,1.0,1.0,trade is better than aid,poverty reduction measures,aid,high
+q_000186,d_000006,0.8,0.8,poor communities should be subsidized,poverty reduction measures,aid organizations,high
+q_000186,d_000086,0.9,0.9,poor communities should be subsidized,poverty reduction measures,poor children,high
+q_000186,d_000087,1.0,1.0,poor communities should be subsidized,poverty reduction measures,poor communities,high
+q_000186,d_000114,0.8,0.8,poor communities should be subsidized,poverty reduction measures,subsidized,high
+q_000187,d_000087,1.0,1.0,poor communities should be subsidized,poverty reduction strategy,poor communities,high
+q_000187,d_000114,0.9,0.9,poor communities should be subsidized,poverty reduction strategy,subsidized,high
+q_000189,d_000081,1.0,1.0,partial birth abortions should be banned,pregnancy,partial birth abortions,high
+q_000190,d_000081,0.9,0.9,partial birth abortions should be banned,pregnant woman,partial birth abortions,high
+q_000191,d_000081,0.9,0.9,partial birth abortions should be banned,pro choice,partial birth abortions,high
+q_000192,d_000081,1.0,1.0,partial birth abortions should be banned,pro choice movement,partial birth abortions,high
+q_000193,d_000081,0.9,0.9,partial birth abortions should be banned,pro life,partial birth abortions,high
+q_000194,d_000081,1.0,1.0,partial birth abortions should be banned,pro life advocates,partial birth abortions,high
+q_000194,d_000094,1.0,1.0,partial birth abortions should be banned,pro life advocates,pro life supporters,high
+q_000194,d_000121,0.7,0.7,partial birth abortions should be banned,pro life advocates,trimester abortion,high
+q_000195,d_000081,1.0,1.0,partial birth abortions should be banned,pro life movement,partial birth abortions,high
+q_000196,d_000081,1.0,1.0,partial birth abortions should be banned,pro life supporters,partial birth abortions,high
+q_000197,d_000081,0.8,0.8,partial birth abortions should be banned,procedure,partial birth abortions,high
+q_000200,d_000119,0.8,0.8,trade is better than aid,protectionist,trade,high
+q_000202,d_000004,0.7,0.7,trade is better than aid,quality of life,aid,high
+q_000204,d_000038,1.0,1.0,physical education should be compulsory,rate of obesity,eating,high
+q_000204,d_000048,1.0,1.0,physical education should be compulsory,rate of obesity,food,high
+q_000204,d_000083,0.7,0.7,physical education should be compulsory,rate of obesity,physical education,high
+q_000205,d_000083,0.8,0.8,physical education should be compulsory,rates of obesity,physical education,high
+q_000205,d_000110,1.0,1.0,physical education should be compulsory,rates of obesity,severe obesity,high
+q_000206,d_000004,0.9,0.9,trade is better than aid,recipient country,aid,high
+q_000208,d_000087,0.9,0.9,poor communities should be subsidized,redistribution of wealth,poor communities,high
+q_000209,d_000030,0.9,0.9,poor communities should be subsidized,reducing poverty,debt relief,high
+q_000209,d_000071,0.9,0.9,poor communities should be subsidized,reducing poverty,millennium development goals,high
+q_000209,d_000087,1.0,1.0,poor communities should be subsidized,reducing poverty,poor communities,high
+q_000209,d_000114,0.9,0.9,poor communities should be subsidized,reducing poverty,subsidized,high
+q_000210,d_000081,1.0,1.0,partial birth abortions should be banned,restrictions on abortion,partial birth abortions,high
+q_000211,d_000045,0.8,0.8,physical education should be compulsory,risk of obesity,fat percentage,high
+q_000211,d_000083,0.7,0.7,physical education should be compulsory,risk of obesity,physical education,high
+q_000212,d_000081,0.8,0.8,partial birth abortions should be banned,roe decision,partial birth abortions,high
+q_000213,d_000015,0.8,0.8,partial birth abortions should be banned,roe v wade,blackmun,high
+q_000213,d_000018,0.9,0.9,partial birth abortions should be banned,roe v wade,case,high
+q_000213,d_000081,0.7,0.7,partial birth abortions should be banned,roe v wade,partial birth abortions,high
+q_000215,d_000068,0.7,0.7,poor communities should be subsidized,safety net programs,living in poverty,high
+q_000215,d_000087,0.9,0.9,poor communities should be subsidized,safety net programs,poor communities,high
+q_000215,d_000114,0.9,0.9,poor communities should be subsidized,safety net programs,subsidized,high
+q_000215,d_000125,0.9,0.9,poor communities should be subsidized,safety net programs,welfare programs,high
+q_000216,d_000087,0.7,0.7,poor communities should be subsidized,safety nets,poor communities,high
+q_000216,d_000114,0.8,0.8,poor communities should be subsidized,safety nets,subsidized,high
+q_000219,d_000026,0.7,0.7,evolution has disproved creationism,science,creationism,high
+q_000219,d_000041,0.9,0.9,evolution has disproved creationism,science,evolution,high
+q_000220,d_000041,0.7,0.7,evolution has disproved creationism,science classes,evolution,high
+q_000222,d_000026,0.8,0.8,evolution has disproved creationism,scientific,creationism,high
+q_000222,d_000028,0.7,0.7,evolution has disproved creationism,scientific,creationists claim,high
+q_000223,d_000026,0.7,0.7,evolution has disproved creationism,scientific community,creationism,high
+q_000223,d_000041,0.9,0.9,evolution has disproved creationism,scientific community,evolution,high
+q_000224,d_000013,0.8,0.8,evolution has disproved creationism,scientific theory,belief in creationism,high
+q_000224,d_000026,0.9,0.9,evolution has disproved creationism,scientific theory,creationism,high
+q_000224,d_000037,0.8,0.8,evolution has disproved creationism,scientific theory,earth creationism,high
+q_000224,d_000041,1.0,1.0,evolution has disproved creationism,scientific theory,evolution,high
+q_000224,d_000069,0.9,0.9,evolution has disproved creationism,scientific theory,macroevolution,high
+q_000225,d_000083,1.0,1.0,physical education should be compulsory,sedentary,physical education,high
+q_000226,d_000041,0.7,0.7,evolution has disproved creationism,selection,evolution,high
+q_000227,d_000083,0.8,0.8,physical education should be compulsory,severe obesity,physical education,high
+q_000229,d_000004,0.7,0.7,trade is better than aid,standard of living,aid,high
+q_000229,d_000039,0.7,0.7,trade is better than aid,standard of living,economic development,high
+q_000229,d_000063,0.7,0.7,trade is better than aid,standard of living,international aid,high
+q_000229,d_000074,0.8,0.8,trade is better than aid,standard of living,money,high
+q_000229,d_000089,1.0,1.0,trade is better than aid,standard of living,poverty reduction measures,high
+q_000231,d_000081,0.8,0.8,partial birth abortions should be banned,stenberg v carhart,partial birth abortions,high
+q_000232,d_000083,0.9,0.9,physical education should be compulsory,students,physical education,high
+q_000233,d_000006,0.8,0.8,poor communities should be subsidized,subsidies,aid organizations,high
+q_000233,d_000060,0.7,0.7,poor communities should be subsidized,subsidies,income distribution,high
+q_000233,d_000087,1.0,1.0,poor communities should be subsidized,subsidies,poor communities,high
+q_000233,d_000114,1.0,1.0,poor communities should be subsidized,subsidies,subsidized,high
+q_000234,d_000114,1.0,1.0,poor communities should be subsidized,subsidies for fertilizer,subsidized,high
+q_000236,d_000081,0.9,0.9,partial birth abortions should be banned,support abortion,partial birth abortions,high
+q_000237,d_000026,0.9,0.9,evolution has disproved creationism,supporters of evolution,creationism,high
+q_000237,d_000041,1.0,1.0,evolution has disproved creationism,supporters of evolution,evolution,high
+q_000237,d_000078,1.0,1.0,evolution has disproved creationism,supporters of evolution,objection to evolution,high
+q_000237,d_000122,0.7,0.7,evolution has disproved creationism,supporters of evolution,ussher chronology,high
+q_000238,d_000102,0.9,0.9,partial birth abortions should be banned,supreme court,restrictions on abortion,high
+q_000238,d_000103,0.9,0.9,partial birth abortions should be banned,supreme court,roe decision,high
+q_000240,d_000119,1.0,1.0,trade is better than aid,tariff,trade,high
+q_000241,d_000026,1.0,1.0,evolution has disproved creationism,teaching of evolution,creationism,high
+q_000241,d_000040,1.0,1.0,evolution has disproved creationism,teaching of evolution,evidence for evolution,high
+q_000241,d_000041,1.0,1.0,evolution has disproved creationism,teaching of evolution,evolution,high
+q_000241,d_000042,0.9,0.9,evolution has disproved creationism,teaching of evolution,evolution and religion,high
+q_000241,d_000069,0.9,0.9,evolution has disproved creationism,teaching of evolution,macroevolution,high
+q_000241,d_000073,1.0,1.0,evolution has disproved creationism,teaching of evolution,modern evolutionary synthesis,high
+q_000242,d_000026,1.0,1.0,evolution has disproved creationism,theistic evolution,creationism,high
+q_000242,d_000041,1.0,1.0,evolution has disproved creationism,theistic evolution,evolution,high
+q_000243,d_000026,1.0,1.0,evolution has disproved creationism,theory of evolution,creationism,high
+q_000243,d_000028,0.9,0.9,evolution has disproved creationism,theory of evolution,creationists claim,high
+q_000243,d_000041,1.0,1.0,evolution has disproved creationism,theory of evolution,evolution,high
+q_000243,d_000122,1.0,1.0,evolution has disproved creationism,theory of evolution,ussher chronology,high
+q_000244,d_000004,0.7,0.7,trade is better than aid,trade,aid,high
+q_000244,d_000119,1.0,1.0,trade is better than aid,trade,trade,high
+q_000246,d_000081,0.7,0.7,partial birth abortions should be banned,trimester,partial birth abortions,high
+q_000247,d_000081,0.9,0.9,partial birth abortions should be banned,trimester abortion,partial birth abortions,high
+q_000250,d_000026,1.0,1.0,evolution has disproved creationism,ussher chronology,creationism,high
+q_000250,d_000041,0.9,0.9,evolution has disproved creationism,ussher chronology,evolution,high
+q_000251,d_000081,0.7,0.7,partial birth abortions should be banned,viability,partial birth abortions,high
+q_000252,d_000087,0.8,0.8,poor communities should be subsidized,wages,poor communities,high
+q_000254,d_000083,0.7,0.7,physical education should be compulsory,weight,physical education,high
+q_000255,d_000049,0.9,0.9,poor communities should be subsidized,welfare,food aid,high
+q_000255,d_000068,0.9,0.9,poor communities should be subsidized,welfare,living in poverty,high
+q_000255,d_000087,1.0,1.0,poor communities should be subsidized,welfare,poor communities,high
+q_000255,d_000114,0.7,0.7,poor communities should be subsidized,welfare,subsidized,high
+q_000256,d_000087,1.0,1.0,poor communities should be subsidized,welfare programs,poor communities,high
+q_000256,d_000114,0.9,0.9,poor communities should be subsidized,welfare programs,subsidized,high
+q_000257,d_000010,0.7,0.7,partial birth abortions should be banned,woman,banning abortion,high
+q_000257,d_000081,0.8,0.8,partial birth abortions should be banned,woman,partial birth abortions,high
+q_000259,d_000081,0.8,0.8,partial birth abortions should be banned,woman's health,partial birth abortions,high
+q_000262,d_000119,1.0,1.0,trade is better than aid,world trade organization,trade,high
+q_000263,d_000026,0.9,0.9,evolution has disproved creationism,young earth,creationism,high
+q_000264,d_000014,0.9,0.9,evolution has disproved creationism,young earth creationism,belief in evolution,high
+q_000264,d_000026,1.0,1.0,evolution has disproved creationism,young earth creationism,creationism,high
+q_000264,d_000040,0.8,0.8,evolution has disproved creationism,young earth creationism,evidence for evolution,high
+q_000264,d_000041,1.0,1.0,evolution has disproved creationism,young earth creationism,evolution,high
